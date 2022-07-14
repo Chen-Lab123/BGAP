@@ -1,0 +1,71 @@
+#gene	annotation
+ompA	Adherence
+adeF	Biofilm formation
+adeG	Biofilm formation
+adeH	Biofilm formation
+bap	Biofilm formation；Adherence
+csuA	Biofilm formation
+csuA/B	Biofilm formation
+csuB	Biofilm formation
+csuC	Biofilm formation
+csuD	Biofilm formation
+csuE	Biofilm formation
+pgaA	Biofilm formation
+pgaB	Biofilm formation
+pgaC	Biofilm formation
+pgaD	Biofilm formation
+plc	Enzyme
+plc-1	Enzyme
+plcD	Enzyme
+ACICU_00071	Immune evasion
+ACICU_00072	Immune evasion
+ACICU_00073	Immune evasion
+ACICU_00074	Immune evasion
+ACICU_00075	Immune evasion
+ACICU_00076	Immune evasion
+ACICU_00077	Immune evasion
+ACICU_00078	Immune evasion
+ACICU_00079	Immune evasion
+ACICU_00080	Immune evasion
+ACICU_00081	Immune evasion
+ACICU_00082	Immune evasion
+ACICU_00083	Immune evasion
+ACICU_00084	Immune evasion
+ACICU_00085	Immune evasion
+ACICU_00086	Immune evasion
+ACICU_00087	Immune evasion
+ACICU_00088	Immune evasion
+ACICU_00089	Immune evasion
+ACICU_00091	Immune evasion
+ACICU_00092	Immune evasion
+pgi	Immune evasion
+lpsB	Immune evasion
+lpxA	Immune evasion
+lpxB	Immune evasion
+lpxC	Immune evasion
+lpxD	Immune evasion
+lpxL	Immune evasion
+lpxM	Immune evasion
+barA	Iron uptake
+barB	Iron uptake
+basA	Iron uptake
+basB	Iron uptake
+basC	Iron uptake
+basD	Iron uptake
+basF	Iron uptake
+basG	Iron uptake
+basH	Iron uptake
+basI	Iron uptake
+basJ	Iron uptake
+bauA	Iron uptake
+bauB	Iron uptake
+bauC	Iron uptake
+bauD	Iron uptake
+bauE	Iron uptake
+bauF	Iron uptake
+entE	Iron uptake
+bfmR	Regulation
+bfmS	Regulation
+abaI	Regulation
+abaR	Regulation
+pbpG	Serum resistance
