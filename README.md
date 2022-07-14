@@ -32,34 +32,34 @@ EggNOG-mapper: https://github.com/eggnogdb/eggnog-mapper
 ## Analysis flows:   
 
 ### sequence quality control
-perl ./bin/script/reads_QC.pl -rl reads.list  
+perl ./bin/reads_QC.pl -rl reads.list  
 
 ### genome assembly and assembly quality control 
-perl ./bin/script/reads_assembly.pl -rl reads.list -t next-generation (or nanopore)   
+perl ./bin/reads_assembly.pl -rl reads.list -t next-generation (or nanopore)   
 
 ### gene prediction  
-perl ./bin/script/run_prokka.pl -sl genomes.list   
+perl ./bin/run_prokka.pl -sl genomes.list   
 
 ### phylogenetic analysis  
-perl ./bin/script/run_ksnp.pl -sl genomes.list -annotate AE016830.1.fasta (reference genomes,optional)  
+perl ./bin/run_ksnp.pl -sl genomes.list -annotate AE016830.1.fasta (reference genomes,optional)  
 
 ### PubMLST typing  
-perl ./bin/script/run_mlst.pl -mlst -sl genomes.list -scheme efaecalis (scheme,optional)    
+perl ./bin/run_mlst.pl -mlst -sl genomes.list -scheme efaecalis (scheme,optional)    
 
 ### screening of antimicrobial resistence genes/virulence genes/plasmids/IS sequence/mobile genetic elements  
-perl ./bin/script/run_abricate.pl -abricate -sl genomes.list -db resfinder_new (or other database name)   
+perl ./bin/run_abricate.pl -abricate -sl genomes.list -db resfinder_new (or other database name)   
 
 ### screening of phages   
-perl ./bin/script/run_PhageMiner.pl -sl genomes-gbk.list    
+perl ./bin/run_PhageMiner.pl -sl genomes-gbk.list    
 
 ### calculating the pan genome and gene annotation   
-perl ./bin/script/run_roary.pl -sl genomes-gff.list   
+perl ./bin/run_roary.pl -sl genomes-gff.list   
 
 ## Database and test  
 
 ### database  
 database : ./db/  
-database information: perl ./bin/script/run_abricate.pl -dblist  
+database information: perl ./bin/run_abricate.pl -dblist  
 
 ### test  
 test reads data : ./test/rawdata  
