@@ -1,0 +1,2599 @@
+locus_tag	ftype	gene	EC_number	product
+3222_contigs_00001	tRNA	tRNA-Asn(gtt)
+3222_contigs_00002	CDS	dgs	2.4.1.208	Processive diacylglycerol alpha-glucosyltransferase
+3222_contigs_00003	CDS	2.4.1.337	Alpha-monoglucosyldiacylglycerol synthase
+3222_contigs_00004	CDS	glxR	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+3222_contigs_00005	CDS	hypothetical protein
+3222_contigs_00006	CDS	marR	Multiple antibiotic resistance protein MarR
+3222_contigs_00007	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+3222_contigs_00008	CDS	acpA	Acyl carrier protein
+3222_contigs_00009	CDS	1.13.12.16	Nitronate monooxygenase
+3222_contigs_00010	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+3222_contigs_00011	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+3222_contigs_00012	CDS	fabF_1	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+3222_contigs_00013	CDS	accB	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+3222_contigs_00014	CDS	fabZ_1	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+3222_contigs_00015	CDS	accC	6.3.4.14	Biotin carboxylase
+3222_contigs_00016	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+3222_contigs_00017	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+3222_contigs_00018	CDS	gph_1	3.1.3.18	Phosphoglycolate phosphatase
+3222_contigs_00019	CDS	der_1	GTPase Der
+3222_contigs_00020	CDS	yhbY	RNA-binding protein YhbY
+3222_contigs_00021	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+3222_contigs_00022	CDS	hypothetical protein
+3222_contigs_00023	CDS	rsfS	Ribosomal silencing factor RsfS
+3222_contigs_00024	CDS	2.1.1.156	Glycine/sarcosine N-methyltransferase
+3222_contigs_00025	CDS	hypothetical protein
+3222_contigs_00026	CDS	putative transcriptional regulatory protein
+3222_contigs_00027	CDS	hypothetical protein
+3222_contigs_00028	CDS	hypothetical protein
+3222_contigs_00029	CDS	3.2.1.96	Endo-beta-N-acetylglucosaminidase H
+3222_contigs_00030	CDS	hypothetical protein
+3222_contigs_00031	CDS	aadK	2.7.7.-	Aminoglycoside 6-adenylyltransferase
+3222_contigs_00032	CDS	hypothetical protein
+3222_contigs_00033	CDS	5.3.2.-	putative tautomerase.1
+3222_contigs_00034	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+3222_contigs_00035	CDS	penA	Penicillin-binding protein 2B
+3222_contigs_00036	CDS	rpmGA_1	50S ribosomal protein L33 1
+3222_contigs_00037	tRNA	tRNA-Ser(cga)
+3222_contigs_00038	CDS	hypothetical protein
+3222_contigs_00039	CDS	hypothetical protein
+3222_contigs_00040	CDS	hypothetical protein
+3222_contigs_00041	CDS	hypothetical protein
+3222_contigs_00042	CDS	hypothetical protein
+3222_contigs_00043	CDS	hypothetical protein
+3222_contigs_00044	CDS	hypothetical protein
+3222_contigs_00045	CDS	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+3222_contigs_00046	CDS	gluP	3.4.21.105	Rhomboid protease GluP
+3222_contigs_00047	CDS	hypothetical protein
+3222_contigs_00048	CDS	glcK	2.7.1.2	Glucokinase
+3222_contigs_00049	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+3222_contigs_00050	CDS	hypothetical protein
+3222_contigs_00051	CDS	hypothetical protein
+3222_contigs_00052	CDS	hypothetical protein
+3222_contigs_00053	CDS	galE_1	5.1.3.2	UDP-glucose 4-epimerase
+3222_contigs_00054	CDS	galT_1	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+3222_contigs_00055	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit tau
+3222_contigs_00056	CDS	Nucleoid-associated protein
+3222_contigs_00057	CDS	hypothetical protein
+3222_contigs_00058	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+3222_contigs_00059	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+3222_contigs_00060	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+3222_contigs_00061	CDS	ytcD_1	putative HTH-type transcriptional regulator YtcD
+3222_contigs_00062	CDS	ydhP	Inner membrane transport protein YdhP
+3222_contigs_00063	CDS	ribZ_1	Riboflavin transporter RibZ
+3222_contigs_00064	CDS	hypothetical protein
+3222_contigs_00065	CDS	ykoE	Putative HMP/thiamine permease protein YkoE
+3222_contigs_00066	CDS	ykoD_1	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+3222_contigs_00067	CDS	hypothetical protein
+3222_contigs_00068	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+3222_contigs_00069	CDS	recR	Recombination protein RecR
+3222_contigs_00070	CDS	tmk	2.7.4.9	Thymidylate kinase
+3222_contigs_00071	CDS	hypothetical protein
+3222_contigs_00072	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit gamma/tau
+3222_contigs_00073	CDS	hypothetical protein
+3222_contigs_00074	CDS	yabA	Initiation-control protein YabA
+3222_contigs_00075	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+3222_contigs_00076	CDS	fetA	3.6.3.-	putative iron export ATP-binding protein FetA
+3222_contigs_00077	CDS	fetB	putative iron export permease protein FetB
+3222_contigs_00078	CDS	dinB_1	2.7.7.7	DNA polymerase IV
+3222_contigs_00079	CDS	nrdG	1.97.1.-	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+3222_contigs_00080	CDS	nrdD	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+3222_contigs_00081	CDS	bceA	Bacitracin export ATP-binding protein BceA
+3222_contigs_00082	CDS	bceB	Bacitracin export permease protein BceB
+3222_contigs_00083	CDS	hypothetical protein
+3222_contigs_00084	CDS	dltA	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 1
+3222_contigs_00085	CDS	patA_1	2.3.1.-	Peptidoglycan O-acetyltransferase
+3222_contigs_00086	CDS	dltC	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 2
+3222_contigs_00087	CDS	hypothetical protein
+3222_contigs_00088	CDS	ysdC_1	3.4.11.-	Putative aminopeptidase YsdC
+3222_contigs_00089	CDS	hypothetical protein
+3222_contigs_00090	CDS	rbn	3.1.-.-	Ribonuclease BN
+3222_contigs_00091	CDS	lplJ_1	6.3.1.20	Lipoate-protein ligase LplJ
+3222_contigs_00092	CDS	2.1.1.-	Putative O-methyltransferase
+3222_contigs_00093	CDS	ahpC	1.11.1.15	Alkyl hydroperoxide reductase subunit C
+3222_contigs_00094	CDS	trxB_1	1.8.1.9	Thioredoxin reductase
+3222_contigs_00095	CDS	hypothetical protein
+3222_contigs_00096	CDS	polC_1	2.7.7.7	DNA polymerase III PolC-type
+3222_contigs_00097	CDS	exoA_1	3.1.11.2	Exodeoxyribonuclease
+3222_contigs_00098	CDS	yceM	1.-.-.-	Putative oxidoreductase YceM
+3222_contigs_00099	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+3222_contigs_00100	CDS	hypothetical protein
+3222_contigs_00101	CDS	rpmG2	50S ribosomal protein L33 2
+3222_contigs_00102	CDS	secE	Protein translocase subunit SecE
+3222_contigs_00103	CDS	nusG	Transcription termination/antitermination protein NusG
+3222_contigs_00104	CDS	hypothetical protein
+3222_contigs_00105	CDS	glvR_1	HTH-type transcriptional regulator GlvR
+3222_contigs_00106	CDS	dppE_1	Dipeptide-binding protein DppE
+3222_contigs_00107	CDS	ysdC_2	3.4.11.-	Putative aminopeptidase YsdC
+3222_contigs_00108	CDS	dppA	3.4.11.-	D-aminopeptidase
+3222_contigs_00109	CDS	sdhA_1	4.3.1.17	L-serine dehydratase, alpha chain
+3222_contigs_00110	CDS	sdhB_1	4.3.1.17	L-serine dehydratase, beta chain
+3222_contigs_00111	CDS	ytrB_1	ABC transporter ATP-binding protein YtrB
+3222_contigs_00112	CDS	ettA_1	Energy-dependent translational throttle protein EttA
+3222_contigs_00113	CDS	tauB	3.6.3.36	Taurine import ATP-binding protein TauB
+3222_contigs_00114	CDS	rplK	50S ribosomal protein L11
+3222_contigs_00115	CDS	rplA	50S ribosomal protein L1
+3222_contigs_00116	CDS	rplJ	50S ribosomal protein L10
+3222_contigs_00117	CDS	rplL	50S ribosomal protein L7/L12
+3222_contigs_00118	CDS	hypothetical protein
+3222_contigs_00119	CDS	cdhR	HTH-type transcriptional regulator CdhR
+3222_contigs_00120	CDS	ygjI	Inner membrane transporter YgjI
+3222_contigs_00121	CDS	ebgA	3.2.1.23	Evolved beta-galactosidase subunit alpha
+3222_contigs_00122	CDS	hypothetical protein
+3222_contigs_00123	CDS	rlmCD_1	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+3222_contigs_00124	CDS	recX	Regulatory protein RecX
+3222_contigs_00125	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+3222_contigs_00126	CDS	ywtF	Putative transcriptional regulator YwtF
+3222_contigs_00127	CDS	hypothetical protein
+3222_contigs_00128	CDS	hypothetical protein
+3222_contigs_00129	CDS	Bifunctional NMN adenylyltransferase/Nudix hydrolase
+3222_contigs_00130	CDS	TelA-like protein
+3222_contigs_00131	CDS	hypothetical protein
+3222_contigs_00132	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+3222_contigs_00133	CDS	hypothetical protein
+3222_contigs_00134	CDS	mtnN	3.2.2.9	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+3222_contigs_00135	CDS	hypothetical protein
+3222_contigs_00136	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+3222_contigs_00137	CDS	plsC	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+3222_contigs_00138	CDS	sbcD	Nuclease SbcCD subunit D
+3222_contigs_00139	CDS	sbcC	Nuclease SbcCD subunit C
+3222_contigs_00140	CDS	rapA	3.6.4.-	RNA polymerase-associated protein RapA
+3222_contigs_00141	CDS	hypothetical protein
+3222_contigs_00142	CDS	hypothetical protein
+3222_contigs_00143	CDS	inlA	Internalin-A
+3222_contigs_00144	CDS	hypothetical protein
+3222_contigs_00145	CDS	hypothetical protein
+3222_contigs_00146	CDS	hypothetical protein
+3222_contigs_00147	CDS	hypothetical protein
+3222_contigs_00148	CDS	hypothetical protein
+3222_contigs_00149	CDS	yfnB_1	3.-.-.-	Putative HAD-hydrolase YfnB
+3222_contigs_00150	CDS	3.6.3.-	Putative multidrug export ATP-binding/permease protein
+3222_contigs_00151	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+3222_contigs_00152	CDS	spxA_1	Regulatory protein Spx
+3222_contigs_00153	CDS	mecA	Adapter protein MecA
+3222_contigs_00154	CDS	coiA	Competence protein CoiA
+3222_contigs_00155	CDS	pepF1_1	3.4.24.-	Oligoendopeptidase F, plasmid
+3222_contigs_00156	CDS	hypothetical protein
+3222_contigs_00157	CDS	yjbK	3.6.1.-	Putative triphosphatase YjbK
+3222_contigs_00158	CDS	yjbM	2.7.6.5	GTP pyrophosphokinase YjbM
+3222_contigs_00159	CDS	nadK	2.7.1.23	NAD kinase
+3222_contigs_00160	CDS	rluC	5.4.99.24	Ribosomal large subunit pseudouridine synthase C
+3222_contigs_00161	CDS	mgtE	Magnesium transporter MgtE
+3222_contigs_00162	CDS	CutC-like protein
+3222_contigs_00163	CDS	rlmA	2.1.1.187	23S rRNA (guanine(745)-N(1))-methyltransferase
+3222_contigs_00164	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+3222_contigs_00165	CDS	pspA_1	3.1.3.3	Phosphoserine phosphatase 1
+3222_contigs_00166	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+3222_contigs_00167	CDS	ytlR	2.7.1.-	Putative lipid kinase YtlR
+3222_contigs_00168	CDS	queT_1	Queuosine precursor transporter QueT
+3222_contigs_00169	CDS	femB	2.3.2.18	Aminoacyltransferase FemB
+3222_contigs_00170	CDS	panT	Pantothenic acid transporter PanT
+3222_contigs_00171	CDS	coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC
+3222_contigs_00172	CDS	hypothetical protein
+3222_contigs_00173	CDS	acuI	1.3.1.84	putative acrylyl-CoA reductase AcuI
+3222_contigs_00174	CDS	puuR	HTH-type transcriptional regulator PuuR
+3222_contigs_00175	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+3222_contigs_00176	CDS	potB	Spermidine/putrescine transport system permease protein PotB
+3222_contigs_00177	CDS	ydcV_1	Inner membrane ABC transporter permease protein YdcV
+3222_contigs_00178	CDS	potD	Spermidine/putrescine-binding periplasmic protein
+3222_contigs_00179	CDS	hypothetical protein
+3222_contigs_00180	CDS	gntP	High-affinity gluconate transporter
+3222_contigs_00181	CDS	garK	2.7.1.165	Glycerate 2-kinase
+3222_contigs_00182	CDS	cdaR_1	Carbohydrate diacid regulator
+3222_contigs_00183	CDS	2.7.1.-	Putative lipid kinase
+3222_contigs_00184	CDS	hypothetical protein
+3222_contigs_00185	CDS	gbuB	Glycine betaine/carnitine transport permease protein GbuB
+3222_contigs_00186	CDS	gbuA	3.6.3.32	Glycine betaine/carnitine transport ATP-binding protein GbuA
+3222_contigs_00187	CDS	mngR_1	Mannosyl-D-glycerate transport/metabolism system repressor MngR
+3222_contigs_00188	CDS	yheS	putative ABC transporter ATP-binding protein YheS
+3222_contigs_00189	CDS	rex_1	Redox-sensing transcriptional repressor Rex
+3222_contigs_00190	CDS	hypothetical protein
+3222_contigs_00191	CDS	hypothetical protein
+3222_contigs_00192	CDS	groS	10 kDa chaperonin
+3222_contigs_00193	CDS	groL	60 kDa chaperonin
+3222_contigs_00194	CDS	walR_1	Transcriptional regulatory protein WalR
+3222_contigs_00195	CDS	hypothetical protein
+3222_contigs_00196	CDS	mnmC	1.5.-.-	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+3222_contigs_00197	CDS	hypothetical protein
+3222_contigs_00198	CDS	yknX_1	Putative efflux system component YknX
+3222_contigs_00199	CDS	yknY_1	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+3222_contigs_00200	CDS	macB_1	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+3222_contigs_00201	CDS	hypothetical protein
+3222_contigs_00202	CDS	hypothetical protein
+3222_contigs_00203	CDS	hypothetical protein
+3222_contigs_00204	CDS	hypothetical protein
+3222_contigs_00205	CDS	emrB	Multidrug export protein EmrB
+3222_contigs_00206	CDS	hypothetical protein
+3222_contigs_00207	CDS	kdgR	Transcriptional regulator KdgR
+3222_contigs_00208	CDS	kdgA	KHG/KDPG aldolase
+3222_contigs_00209	CDS	kdgK	2.7.1.45	2-dehydro-3-deoxygluconokinase
+3222_contigs_00210	CDS	kduI1	5.3.1.17	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1
+3222_contigs_00211	CDS	gno	1.1.1.69	Gluconate 5-dehydrogenase
+3222_contigs_00212	CDS	hypothetical protein
+3222_contigs_00213	CDS	dtpT	Di-/tripeptide transporter
+3222_contigs_00214	CDS	hypothetical protein
+3222_contigs_00215	CDS	3.1.2.-	Putative esterase
+3222_contigs_00216	CDS	menB	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+3222_contigs_00217	CDS	menE	6.2.1.26	2-succinylbenzoate--CoA ligase
+3222_contigs_00218	CDS	pchA	5.4.4.2	Salicylate biosynthesis isochorismate synthase
+3222_contigs_00219	CDS	menD	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+3222_contigs_00220	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+3222_contigs_00221	CDS	menC	4.2.1.113	o-succinylbenzoate synthase
+3222_contigs_00222	CDS	nagB_1	3.5.99.6	Glucosamine-6-phosphate deaminase
+3222_contigs_00223	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD13
+3222_contigs_00224	CDS	ohrA	Organic hydroperoxide resistance protein OhrA
+3222_contigs_00225	CDS	hypothetical protein
+3222_contigs_00226	CDS	sorA_1	PTS system sorbose-specific EIIC component
+3222_contigs_00227	CDS	manZ_1	PTS system mannose-specific EIID component
+3222_contigs_00228	CDS	sorB_1	2.7.1.206	PTS system sorbose-specific EIIB component
+3222_contigs_00229	CDS	ybbH_1	putative HTH-type transcriptional regulator YbbH
+3222_contigs_00230	CDS	murQ_1	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+3222_contigs_00231	CDS	pbpE	Penicillin-binding protein 4*
+3222_contigs_00232	CDS	sorF	2.7.1.206	PTS system sorbose-specific EIIA component
+3222_contigs_00233	CDS	hypothetical protein
+3222_contigs_00234	CDS	sodA	1.15.1.1	Superoxide dismutase [Mn]
+3222_contigs_00235	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+3222_contigs_00236	CDS	lytR_1	Transcriptional regulator LytR
+3222_contigs_00237	CDS	nagB_2	3.5.99.6	Glucosamine-6-phosphate deaminase
+3222_contigs_00238	CDS	hypothetical protein
+3222_contigs_00239	CDS	hypothetical protein
+3222_contigs_00240	CDS	hypothetical protein
+3222_contigs_00241	CDS	nrdF2	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta nrdF2
+3222_contigs_00242	CDS	nrdE1	1.17.4.1	Ribonucleoside-diphosphate reductase subunit alpha 1
+3222_contigs_00243	CDS	Putative NrdI-like protein
+3222_contigs_00244	CDS	nrdH	Glutaredoxin-like protein NrdH
+3222_contigs_00245	CDS	hypothetical protein
+3222_contigs_00246	CDS	feoB	Fe(2+) transporter FeoB
+3222_contigs_00247	CDS	hypothetical protein
+3222_contigs_00248	tRNA	tRNA-Lys(ctt)
+3222_contigs_00249	CDS	ytbE	1.-.-.-	putative oxidoreductase YtbE
+3222_contigs_00250	CDS	cetB	5.1.3.33	2-epi-5-epi-valiolone epimerase
+3222_contigs_00251	CDS	clsA_1	2.7.8.-	Major cardiolipin synthase ClsA
+3222_contigs_00252	CDS	tyrS1_1	6.1.1.1	Tyrosine--tRNA ligase 1
+3222_contigs_00253	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+3222_contigs_00254	CDS	gadC_1	putative glutamate/gamma-aminobutyrate antiporter
+3222_contigs_00255	CDS	nhaC_1	Na(+)/H(+) antiporter NhaC
+3222_contigs_00256	CDS	hypothetical protein
+3222_contigs_00257	CDS	yehR	putative lipoprotein YehR
+3222_contigs_00258	CDS	hypothetical protein
+3222_contigs_00259	CDS	ldhB	1.1.1.27	L-lactate dehydrogenase 2
+3222_contigs_00260	CDS	hypothetical protein
+3222_contigs_00261	CDS	hypothetical protein
+3222_contigs_00262	CDS	cysL_1	HTH-type transcriptional regulator CysL
+3222_contigs_00263	CDS	hypothetical protein
+3222_contigs_00264	CDS	wbgU_1	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+3222_contigs_00265	CDS	ytcD_2	putative HTH-type transcriptional regulator YtcD
+3222_contigs_00266	CDS	yodC_1	1.-.-.-	Putative NAD(P)H nitroreductase YodC
+3222_contigs_00267	CDS	lplJ_2	6.3.1.20	Lipoate-protein ligase LplJ
+3222_contigs_00268	CDS	hypothetical protein
+3222_contigs_00269	CDS	htpX	3.4.24.-	Protease HtpX
+3222_contigs_00270	CDS	hypothetical protein
+3222_contigs_00271	CDS	hypothetical protein
+3222_contigs_00272	CDS	ccpB	Catabolite control protein B
+3222_contigs_00273	CDS	hypothetical protein
+3222_contigs_00274	CDS	catE_1	1.13.11.2	Catechol-2,3-dioxygenase
+3222_contigs_00275	CDS	glcR_1	HTH-type transcriptional repressor GlcR
+3222_contigs_00276	CDS	hypothetical protein
+3222_contigs_00277	CDS	hypothetical protein
+3222_contigs_00278	CDS	mepA	Multidrug export protein MepA
+3222_contigs_00279	CDS	pepF1_2	3.4.24.-	Oligoendopeptidase F, plasmid
+3222_contigs_00280	CDS	hypothetical protein
+3222_contigs_00281	CDS	putative transcriptional regulatory protein
+3222_contigs_00282	CDS	hypothetical protein
+3222_contigs_00283	CDS	hypothetical protein
+3222_contigs_00284	CDS	mhqA_1	1.13.11.-	Putative ring-cleaving dioxygenase MhqA
+3222_contigs_00285	CDS	mhqD_1	3.1.-.-	Putative hydrolase MhqD
+3222_contigs_00286	CDS	murE	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+3222_contigs_00287	CDS	murJ_1	Lipid II flippase MurJ
+3222_contigs_00288	CDS	rsuA_1	5.4.99.19	Ribosomal small subunit pseudouridine synthase A
+3222_contigs_00289	CDS	pepV_1	3.4.13.-	Beta-Ala-Xaa dipeptidase
+3222_contigs_00290	CDS	hypothetical protein
+3222_contigs_00291	CDS	cas9_1	3.1.-.-	CRISPR-associated endonuclease Cas9
+3222_contigs_00292	CDS	cas9_2	3.1.-.-	CRISPR-associated endonuclease Cas9
+3222_contigs_00293	CDS	cas1	3.1.-.-	CRISPR-associated endonuclease Cas1
+3222_contigs_00294	CDS	cas2	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+3222_contigs_00295	CDS	csn2	CRISPR-associated protein Csn2
+3222_contigs_00296	CDS	hypothetical protein
+3222_contigs_00297	CDS	opuCA_1	Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA
+3222_contigs_00298	CDS	opuCC_1	Glycine betaine/carnitine/choline-binding protein OpuCC
+3222_contigs_00299	CDS	argR_1	Arginine repressor
+3222_contigs_00300	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+3222_contigs_00301	CDS	speG_1	2.3.1.57	Spermidine N(1)-acetyltransferase
+3222_contigs_00302	CDS	rluD_1	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+3222_contigs_00303	CDS	pbpF_1	Penicillin-binding protein 1F
+3222_contigs_00304	CDS	hypothetical protein
+3222_contigs_00305	CDS	yhaO	putative metallophosphoesterase YhaO
+3222_contigs_00306	CDS	hypothetical protein
+3222_contigs_00307	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+3222_contigs_00308	CDS	prsA	5.2.1.8	Foldase protein PrsA
+3222_contigs_00309	CDS	hypothetical protein
+3222_contigs_00310	CDS	putative HIT-like protein
+3222_contigs_00311	CDS	ecsA	ABC-type transporter ATP-binding protein EcsA
+3222_contigs_00312	CDS	hypothetical protein
+3222_contigs_00313	CDS	hypothetical protein
+3222_contigs_00314	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+3222_contigs_00315	CDS	ybbH_2	putative HTH-type transcriptional regulator YbbH
+3222_contigs_00316	CDS	pfkB	2.7.1.11	ATP-dependent 6-phosphofructokinase isozyme 2
+3222_contigs_00317	CDS	fruA_1	PTS system fructose-specific EIIABC component
+3222_contigs_00318	CDS	mngA_1	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+3222_contigs_00319	CDS	lacD_1	4.1.2.40	Tagatose 1,6-diphosphate aldolase
+3222_contigs_00320	CDS	hypothetical protein
+3222_contigs_00321	CDS	hypothetical protein
+3222_contigs_00322	CDS	2.3.1.-	Acetyltransferase
+3222_contigs_00323	CDS	tqsA_1	AI-2 transport protein TqsA
+3222_contigs_00324	CDS	corC	Magnesium and cobalt efflux protein CorC
+3222_contigs_00325	CDS	prfC	Peptide chain release factor 3
+3222_contigs_00326	CDS	hypothetical protein
+3222_contigs_00327	CDS	hypothetical protein
+3222_contigs_00328	CDS	hypothetical protein
+3222_contigs_00329	CDS	hypothetical protein
+3222_contigs_00330	CDS	clpE	ATP-dependent Clp protease ATP-binding subunit ClpE
+3222_contigs_00331	CDS	hypothetical protein
+3222_contigs_00332	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+3222_contigs_00333	CDS	ptsI	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+3222_contigs_00334	CDS	hypothetical protein
+3222_contigs_00335	CDS	hypothetical protein
+3222_contigs_00336	CDS	hypothetical protein
+3222_contigs_00337	CDS	tig	5.2.1.8	Trigger factor
+3222_contigs_00338	CDS	hypothetical protein
+3222_contigs_00339	CDS	fruA_2	PTS system fructose-specific EIIABC component
+3222_contigs_00340	CDS	lacC_1	2.7.1.144	Tagatose-6-phosphate kinase
+3222_contigs_00341	CDS	srlR	Glucitol operon repressor
+3222_contigs_00342	CDS	clcA	H(+)/Cl(-) exchange transporter ClcA
+3222_contigs_00343	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+3222_contigs_00344	CDS	ligA	6.5.1.2	DNA ligase
+3222_contigs_00345	CDS	hypothetical protein
+3222_contigs_00346	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+3222_contigs_00347	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+3222_contigs_00348	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+3222_contigs_00349	CDS	dagK	2.7.1.107	Diacylglycerol kinase
+3222_contigs_00350	CDS	rlmCD_2	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+3222_contigs_00351	CDS	hypothetical protein
+3222_contigs_00352	CDS	hypothetical protein
+3222_contigs_00353	CDS	liaR	Transcriptional regulatory protein LiaR
+3222_contigs_00354	CDS	ptcA	2.1.3.6	Putrescine carbamoyltransferase
+3222_contigs_00355	CDS	gadC_2	putative glutamate/gamma-aminobutyrate antiporter
+3222_contigs_00356	CDS	aguA	3.5.3.12	Putative agmatine deiminase
+3222_contigs_00357	CDS	arcC1_1	2.7.2.2	Carbamate kinase 1
+3222_contigs_00358	CDS	hypothetical protein
+3222_contigs_00359	CDS	pnuC	Nicotinamide riboside transporter PnuC
+3222_contigs_00360	CDS	2.7.1.113	Deoxyguanosine kinase
+3222_contigs_00361	CDS	hypothetical protein
+3222_contigs_00362	CDS	hypothetical protein
+3222_contigs_00363	CDS	hypothetical protein
+3222_contigs_00364	CDS	tcyP	L-cystine uptake protein TcyP
+3222_contigs_00365	CDS	hypothetical protein
+3222_contigs_00366	CDS	pbpX_1	Putative penicillin-binding protein PbpX
+3222_contigs_00367	CDS	hypothetical protein
+3222_contigs_00368	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+3222_contigs_00369	CDS	malG	Maltose transport system permease protein MalG
+3222_contigs_00370	CDS	malF	Maltose transport system permease protein MalF
+3222_contigs_00371	CDS	cycB	Cyclodextrin-binding protein
+3222_contigs_00372	CDS	bbmA	3.2.1.-	Intracellular maltogenic amylase
+3222_contigs_00373	CDS	dexB	3.2.1.70	Glucan 1,6-alpha-glucosidase
+3222_contigs_00374	CDS	malL	3.2.1.10	Oligo-1,6-glucosidase
+3222_contigs_00375	CDS	hypothetical protein
+3222_contigs_00376	CDS	mgtA_1	3.6.3.2	Magnesium-transporting ATPase, P-type 1
+3222_contigs_00377	CDS	pdhA	1.2.4.1	Pyruvate dehydrogenase E1 component subunit alpha
+3222_contigs_00378	CDS	pdhB	1.2.4.1	Pyruvate dehydrogenase E1 component subunit beta
+3222_contigs_00379	CDS	pdhC_1	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+3222_contigs_00380	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+3222_contigs_00381	CDS	adaA_1	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+3222_contigs_00382	CDS	gldA	1.1.1.6	Glycerol dehydrogenase
+3222_contigs_00383	CDS	dhaM	3.5.1.-	Protein-lysine deacetylase
+3222_contigs_00384	CDS	dhaK	2.7.-.-	PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+3222_contigs_00385	CDS	dhaL	2.7.-.-	PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+3222_contigs_00386	CDS	hypothetical protein
+3222_contigs_00387	CDS	mvaS	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+3222_contigs_00388	CDS	2.3.1.9	putative acetyl-CoA acyltransferase
+3222_contigs_00389	CDS	hypothetical protein
+3222_contigs_00390	CDS	hypothetical protein
+3222_contigs_00391	CDS	cspLA_1	Cold shock-like protein CspLA
+3222_contigs_00392	CDS	hypothetical protein
+3222_contigs_00393	CDS	hypothetical protein
+3222_contigs_00394	CDS	hypothetical protein
+3222_contigs_00395	CDS	ribZ_2	Riboflavin transporter RibZ
+3222_contigs_00396	CDS	hypothetical protein
+3222_contigs_00397	CDS	3.6.1.1	Cobalt-dependent inorganic pyrophosphatase
+3222_contigs_00398	CDS	nrnA	3.1.-.-	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+3222_contigs_00399	CDS	hypothetical protein
+3222_contigs_00400	CDS	hypothetical protein
+3222_contigs_00401	CDS	hypothetical protein
+3222_contigs_00402	CDS	cshB	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshB
+3222_contigs_00403	CDS	hypothetical protein
+3222_contigs_00404	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+3222_contigs_00405	CDS	trmK	2.1.1.217	tRNA (adenine(22)-N(1))-methyltransferase
+3222_contigs_00406	CDS	GTP cyclohydrolase 1 type 2 
+3222_contigs_00407	CDS	pepT_1	3.4.11.4	Peptidase T
+3222_contigs_00408	CDS	hypothetical protein
+3222_contigs_00409	CDS	hypothetical protein
+3222_contigs_00410	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+3222_contigs_00411	CDS	nirC_1	Nitrite transporter NirC
+3222_contigs_00412	CDS	hypothetical protein
+3222_contigs_00413	CDS	hndA	1.12.1.3	NADP-reducing hydrogenase subunit HndA
+3222_contigs_00414	CDS	hypothetical protein
+3222_contigs_00415	CDS	hndC	1.12.1.3	NADP-reducing hydrogenase subunit HndC
+3222_contigs_00416	CDS	fdhF	1.1.99.33	Formate dehydrogenase H
+3222_contigs_00417	CDS	moaE2	2.10.1.1	Molybdopterin molybdenumtransferase 2
+3222_contigs_00418	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+3222_contigs_00419	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+3222_contigs_00420	CDS	moaA2	4.1.99.22	GTP 3',8-cyclase 2
+3222_contigs_00421	CDS	hypothetical protein
+3222_contigs_00422	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+3222_contigs_00423	CDS	modA	Molybdate-binding periplasmic protein
+3222_contigs_00424	CDS	modB	Molybdenum transport system permease protein ModB
+3222_contigs_00425	CDS	fbpC	3.6.3.30	Fe(3+) ions import ATP-binding protein FbpC
+3222_contigs_00426	CDS	cadA_1	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+3222_contigs_00427	CDS	zapA	Cell division protein ZapA
+3222_contigs_00428	CDS	hypothetical protein
+3222_contigs_00429	CDS	mutS2_1	3.1.-.-	Endonuclease MutS2
+3222_contigs_00430	CDS	trxA	Thioredoxin
+3222_contigs_00431	CDS	uvrC_1	UvrABC system protein C
+3222_contigs_00432	CDS	hypothetical protein
+3222_contigs_00433	CDS	natA	ABC transporter ATP-binding protein NatA
+3222_contigs_00434	CDS	hypothetical protein
+3222_contigs_00435	CDS	ccpA_1	Catabolite control protein A
+3222_contigs_00436	CDS	licH	3.2.1.86	putative 6-phospho-beta-glucosidase
+3222_contigs_00437	CDS	hypothetical protein
+3222_contigs_00438	CDS	uup	ABC transporter ATP-binding protein uup
+3222_contigs_00439	CDS	5.3.1.29	Putative thiazole biosynthetic enzyme
+3222_contigs_00440	CDS	gdh_1	1.4.1.4	NADP-specific glutamate dehydrogenase
+3222_contigs_00441	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+3222_contigs_00442	CDS	hypothetical protein
+3222_contigs_00443	CDS	Putative NrdI-like protein
+3222_contigs_00444	CDS	hypothetical protein
+3222_contigs_00445	CDS	hypothetical protein
+3222_contigs_00446	CDS	ntpK	V-type sodium ATPase subunit K
+3222_contigs_00447	CDS	atpE_1	V-type proton ATPase subunit E
+3222_contigs_00448	CDS	ntpC	V-type sodium ATPase subunit C
+3222_contigs_00449	CDS	ntpG	V-type sodium ATPase subunit G
+3222_contigs_00450	CDS	ntpA	3.6.3.15	V-type sodium ATPase catalytic subunit A
+3222_contigs_00451	CDS	ntpB	V-type sodium ATPase subunit B
+3222_contigs_00452	CDS	ntpD	V-type sodium ATPase subunit D
+3222_contigs_00453	CDS	hypothetical protein
+3222_contigs_00454	CDS	per1	3.5.2.6	Extended-spectrum beta-lactamase PER-1
+3222_contigs_00455	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 3
+3222_contigs_00456	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+3222_contigs_00457	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+3222_contigs_00458	CDS	hypothetical protein
+3222_contigs_00459	CDS	hypothetical protein
+3222_contigs_00460	CDS	hypothetical protein
+3222_contigs_00461	CDS	mrp	Iron-sulfur cluster carrier protein
+3222_contigs_00462	CDS	5.1.1.-	Hydrophobic dipeptide epimerase
+3222_contigs_00463	CDS	hypothetical protein
+3222_contigs_00464	CDS	dppE_2	Dipeptide-binding protein DppE
+3222_contigs_00465	CDS	sacY	Levansucrase and sucrase synthesis operon antiterminator
+3222_contigs_00466	CDS	ptsG_1	2.7.1.199	PTS system glucose-specific EIICBA component
+3222_contigs_00467	CDS	manR_1	Transcriptional regulator ManR
+3222_contigs_00468	CDS	manR_2	Transcriptional regulator ManR
+3222_contigs_00469	CDS	manP_1	PTS system mannose-specific EIIBCA component
+3222_contigs_00470	CDS	manP_2	PTS system mannose-specific EIIBCA component
+3222_contigs_00471	CDS	mngA_2	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component
+3222_contigs_00472	CDS	hypothetical protein
+3222_contigs_00473	CDS	fruA_3	PTS system fructose-specific EIIB'BC component
+3222_contigs_00474	CDS	alsE	5.1.3.-	D-allulose-6-phosphate 3-epimerase
+3222_contigs_00475	CDS	hypothetical protein
+3222_contigs_00476	CDS	ctpE_1	3.6.3.-	putative cation-transporting ATPase E
+3222_contigs_00477	CDS	dnaG	2.7.7.-	DNA primase
+3222_contigs_00478	CDS	sigA	RNA polymerase sigma factor SigA
+3222_contigs_00479	CDS	mapZ	Mid-cell-anchored protein Z
+3222_contigs_00480	CDS	cvfB	Conserved virulence factor B
+3222_contigs_00481	CDS	fur	Ferric uptake regulation protein
+3222_contigs_00482	CDS	gap_1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+3222_contigs_00483	CDS	obg	3.6.5.-	GTPase Obg
+3222_contigs_00484	CDS	hypothetical protein
+3222_contigs_00485	CDS	licC_1	Lichenan permease IIC component
+3222_contigs_00486	CDS	hypothetical protein
+3222_contigs_00487	CDS	hypothetical protein
+3222_contigs_00488	CDS	5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+3222_contigs_00489	CDS	hypothetical protein
+3222_contigs_00490	CDS	menH_3	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+3222_contigs_00491	CDS	xerD	Tyrosine recombinase XerD
+3222_contigs_00492	CDS	scpA	Segregation and condensation protein A
+3222_contigs_00493	CDS	scpB	Segregation and condensation protein B
+3222_contigs_00494	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+3222_contigs_00495	CDS	fmnP	Riboflavin transporter FmnP
+3222_contigs_00496	CDS	hypothetical protein
+3222_contigs_00497	CDS	suaB	Ferredoxin-1
+3222_contigs_00498	CDS	hypothetical protein
+3222_contigs_00499	CDS	recQ_1	3.6.4.12	ATP-dependent DNA helicase RecQ
+3222_contigs_00500	CDS	hypothetical protein
+3222_contigs_00501	CDS	cmk	2.7.4.25	Cytidylate kinase
+3222_contigs_00502	CDS	ypfD	30S ribosomal protein S1 
+3222_contigs_00503	CDS	der_2	GTPase Der
+3222_contigs_00504	CDS	hup	DNA-binding protein HU
+3222_contigs_00505	CDS	hypothetical protein
+3222_contigs_00506	CDS	lapB	Lipopolysaccharide assembly protein B
+3222_contigs_00507	CDS	hypothetical protein
+3222_contigs_00508	CDS	hypothetical protein
+3222_contigs_00509	CDS	hypothetical protein
+3222_contigs_00510	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+3222_contigs_00511	CDS	cca	2.7.7.72	CCA-adding enzyme
+3222_contigs_00512	CDS	flK	3.1.2.29	Fluoroacetyl-CoA thioesterase
+3222_contigs_00513	CDS	hypothetical protein
+3222_contigs_00514	CDS	hypothetical protein
+3222_contigs_00515	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+3222_contigs_00516	CDS	aroF	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+3222_contigs_00517	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+3222_contigs_00518	CDS	aroC	4.2.3.5	Chorismate synthase
+3222_contigs_00519	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+3222_contigs_00520	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+3222_contigs_00521	CDS	aroK	2.7.1.71	Shikimate kinase
+3222_contigs_00522	CDS	pheA	4.2.1.51	Prephenate dehydratase
+3222_contigs_00523	CDS	msrR	Regulatory protein MsrR
+3222_contigs_00524	CDS	DegV domain-containing protein
+3222_contigs_00525	CDS	hypothetical protein
+3222_contigs_00526	CDS	hypothetical protein
+3222_contigs_00527	CDS	hypothetical protein
+3222_contigs_00528	CDS	nhaK	Sodium, potassium, lithium and rubidium/H(+) antiporter
+3222_contigs_00529	CDS	hypothetical protein
+3222_contigs_00530	CDS	manZ_2	PTS system mannose-specific EIID component
+3222_contigs_00531	CDS	agaC_1	N-acetylgalactosamine permease IIC component 1
+3222_contigs_00532	CDS	levE_1	2.7.1.202	PTS system fructose-specific EIIB component
+3222_contigs_00533	CDS	sorA_2	2.7.1.206	PTS system sorbose-specific EIIA component
+3222_contigs_00534	CDS	dgaR_1	Transcriptional regulatory protein DagR
+3222_contigs_00535	CDS	pspA_2	3.1.3.3	Phosphoserine phosphatase 1
+3222_contigs_00536	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+3222_contigs_00537	CDS	hypothetical protein
+3222_contigs_00538	CDS	macB_2	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+3222_contigs_00539	CDS	yknY_2	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+3222_contigs_00540	CDS	yknX_2	Putative efflux system component YknX
+3222_contigs_00541	CDS	glpE_3	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+3222_contigs_00542	CDS	cdr_1	1.8.1.14	Coenzyme A disulfide reductase
+3222_contigs_00543	CDS	glpE_4	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+3222_contigs_00544	CDS	ricR	Copper-sensing transcriptional repressor RicR
+3222_contigs_00545	CDS	sauU_1	putative sulfoacetate transporter SauU
+3222_contigs_00546	CDS	pucG	2.-.-.-	Purine catabolism protein PucG
+3222_contigs_00547	CDS	pucR_1	Purine catabolism regulatory protein
+3222_contigs_00548	CDS	allE	3.5.3.26	(S)-ureidoglycine aminohydrolase
+3222_contigs_00549	CDS	allC	3.5.3.-	Allantoate amidohydrolase
+3222_contigs_00550	CDS	allB	3.5.2.5	Allantoinase
+3222_contigs_00551	CDS	ybbW_1	Putative allantoin permease
+3222_contigs_00552	CDS	ybbW_2	Putative allantoin permease
+3222_contigs_00553	CDS	paiA_1	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+3222_contigs_00554	CDS	slyA_1	Transcriptional regulator SlyA
+3222_contigs_00555	CDS	hypothetical protein
+3222_contigs_00556	CDS	dauA	C4-dicarboxylic acid transporter DauA
+3222_contigs_00557	CDS	cbh_1	3.5.1.24	Choloylglycine hydrolase
+3222_contigs_00558	CDS	hypothetical protein
+3222_contigs_00559	CDS	hypothetical protein
+3222_contigs_00560	CDS	pucR_2	Purine catabolism regulatory protein
+3222_contigs_00561	CDS	hypothetical protein
+3222_contigs_00562	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+3222_contigs_00563	CDS	hypothetical protein
+3222_contigs_00564	CDS	hypothetical protein
+3222_contigs_00565	CDS	hypothetical protein
+3222_contigs_00566	CDS	hypothetical protein
+3222_contigs_00567	CDS	3.6.3.8	Calcium-transporting ATPase 1
+3222_contigs_00568	CDS	sstT	Serine/threonine transporter SstT
+3222_contigs_00569	CDS	kcsA	pH-gated potassium channel KcsA
+3222_contigs_00570	CDS	truA_1	5.4.99.12	tRNA pseudouridine synthase A
+3222_contigs_00571	CDS	hypothetical protein
+3222_contigs_00572	CDS	hypothetical protein
+3222_contigs_00573	CDS	ylaC	RNA polymerase sigma factor YlaC
+3222_contigs_00574	CDS	hypothetical protein
+3222_contigs_00575	CDS	gltT	Proton/sodium-glutamate symport protein
+3222_contigs_00576	CDS	xly	4.2.2.12	Xanthan lyase
+3222_contigs_00577	CDS	4.2.2.1	Hyaluronate lyase
+3222_contigs_00578	CDS	hypothetical protein
+3222_contigs_00579	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+3222_contigs_00580	CDS	htrA	3.4.21.107	Serine protease Do-like HtrA
+3222_contigs_00581	CDS	pheT_1	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+3222_contigs_00582	CDS	manZ_3	PTS system mannose-specific EIID component
+3222_contigs_00583	CDS	sorA_3	PTS system sorbose-specific EIIC component
+3222_contigs_00584	CDS	2.7.1.-	putative phosphotransferase enzyme IIB component
+3222_contigs_00585	CDS	hypothetical protein
+3222_contigs_00586	CDS	hypothetical protein
+3222_contigs_00587	CDS	yurK_1	putative HTH-type transcriptional regulator YurK
+3222_contigs_00588	CDS	Putative universal stress protein
+3222_contigs_00589	CDS	ytpP	Thioredoxin-like protein YtpP
+3222_contigs_00590	CDS	pepA	3.4.11.7	Glutamyl aminopeptidase
+3222_contigs_00591	CDS	hypothetical protein
+3222_contigs_00592	CDS	oppA	Oligopeptide-binding protein OppA
+3222_contigs_00593	CDS	manZ_4	PTS system mannose-specific EIID component
+3222_contigs_00594	CDS	agaC_2	N-acetylgalactosamine permease IIC component 1
+3222_contigs_00595	CDS	nagA_1	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+3222_contigs_00596	CDS	sorB_2	2.7.1.206	PTS system sorbose-specific EIIB component
+3222_contigs_00597	CDS	levD_1	2.7.1.202	PTS system fructose-specific EIIA component
+3222_contigs_00598	CDS	hypothetical protein
+3222_contigs_00599	CDS	3.5.1.-	Carbohydrate deacetylase
+3222_contigs_00600	CDS	ybbH_3	putative HTH-type transcriptional regulator YbbH
+3222_contigs_00601	CDS	tag_1	3.2.2.20	DNA-3-methyladenine glycosylase 1
+3222_contigs_00602	CDS	hypothetical protein
+3222_contigs_00603	CDS	hypothetical protein
+3222_contigs_00604	CDS	thiT	Thiamine transporter ThiT
+3222_contigs_00605	CDS	hypothetical protein
+3222_contigs_00606	CDS	hypothetical protein
+3222_contigs_00607	CDS	hypothetical protein
+3222_contigs_00608	CDS	hypothetical protein
+3222_contigs_00609	CDS	yfkJ	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase YfkJ
+3222_contigs_00610	CDS	dhaS	HTH-type dhaKLM operon transcriptional activator DhaS
+3222_contigs_00611	CDS	Secreted 45 kDa protein
+3222_contigs_00612	CDS	hypothetical protein
+3222_contigs_00613	CDS	mreC	Cell shape-determining protein MreC
+3222_contigs_00614	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+3222_contigs_00615	CDS	rpsO	30S ribosomal protein S15
+3222_contigs_00616	CDS	def	3.5.1.88	Peptide deformylase
+3222_contigs_00617	CDS	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+3222_contigs_00618	CDS	hypothetical protein
+3222_contigs_00619	CDS	nirC_2	Nitrite transporter NirC
+3222_contigs_00620	CDS	rpsD	30S ribosomal protein S4
+3222_contigs_00621	CDS	bioY2	Biotin transporter BioY2
+3222_contigs_00622	CDS	sipT	3.4.21.89	Signal peptidase I T
+3222_contigs_00623	CDS	hypothetical protein
+3222_contigs_00624	CDS	hypothetical protein
+3222_contigs_00625	CDS	hypothetical protein
+3222_contigs_00626	CDS	hypothetical protein
+3222_contigs_00627	CDS	ydaF	2.3.1.-	Putative ribosomal N-acetyltransferase YdaF
+3222_contigs_00628	CDS	pepT_2	3.4.11.4	Peptidase T
+3222_contigs_00629	CDS	dppE_3	Dipeptide-binding protein DppE
+3222_contigs_00630	CDS	yclQ	putative ABC transporter solute-binding protein YclQ
+3222_contigs_00631	CDS	fhuC	3.6.3.34	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+3222_contigs_00632	CDS	hmuU_1	Hemin transport system permease protein HmuU
+3222_contigs_00633	CDS	feuB_1	Iron-uptake system permease protein FeuB
+3222_contigs_00634	CDS	hypothetical protein
+3222_contigs_00635	CDS	gshAB	Glutathione biosynthesis bifunctional protein GshAB
+3222_contigs_00636	CDS	sttH	3.5.2.19	Streptothricin hydrolase
+3222_contigs_00637	CDS	hypothetical protein
+3222_contigs_00638	CDS	hypothetical protein
+3222_contigs_00639	CDS	hypothetical protein
+3222_contigs_00640	CDS	ftsY	Signal recognition particle receptor FtsY
+3222_contigs_00641	CDS	yidA_1	3.1.3.23	Sugar phosphatase YidA
+3222_contigs_00642	CDS	smc	Chromosome partition protein Smc
+3222_contigs_00643	CDS	rnc	3.1.26.3	Ribonuclease 3
+3222_contigs_00644	CDS	appA	Oligopeptide-binding protein AppA
+3222_contigs_00645	CDS	Putative peptide transport permease protein
+3222_contigs_00646	CDS	gsiC	Glutathione transport system permease protein GsiC
+3222_contigs_00647	CDS	oppF_1	Oligopeptide transport ATP-binding protein OppF
+3222_contigs_00648	CDS	oppD_1	Oligopeptide transport ATP-binding protein OppD
+3222_contigs_00649	CDS	acpP	Acyl carrier protein
+3222_contigs_00650	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+3222_contigs_00651	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+3222_contigs_00652	CDS	hypothetical protein
+3222_contigs_00653	CDS	hypothetical protein
+3222_contigs_00654	CDS	rpmB	50S ribosomal protein L28
+3222_contigs_00655	CDS	thiN	2.7.6.2	Thiamine pyrophosphokinase
+3222_contigs_00656	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+3222_contigs_00657	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+3222_contigs_00658	CDS	prkC	2.7.11.1	Serine/threonine-protein kinase PrkC
+3222_contigs_00659	CDS	stp	3.1.3.16	Serine/threonine phosphatase stp
+3222_contigs_00660	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+3222_contigs_00661	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+3222_contigs_00662	CDS	def1	3.5.1.88	Peptide deformylase 1
+3222_contigs_00663	CDS	priA	3.6.4.-	Primosomal protein N'
+3222_contigs_00664	CDS	hypothetical protein
+3222_contigs_00665	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+3222_contigs_00666	CDS	gmk_1	2.7.4.8	Guanylate kinase
+3222_contigs_00667	CDS	dacA	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacA
+3222_contigs_00668	CDS	hypothetical protein
+3222_contigs_00669	CDS	hypothetical protein
+3222_contigs_00670	CDS	hypothetical protein
+3222_contigs_00671	CDS	hypothetical protein
+3222_contigs_00672	CDS	eda	Putative KHG/KDPG aldolase
+3222_contigs_00673	CDS	uxuA	4.2.1.8	Mannonate dehydratase
+3222_contigs_00674	CDS	manX_1	2.7.1.191	PTS system mannose-specific EIIAB component
+3222_contigs_00675	CDS	sorB_3	2.7.1.206	PTS system sorbose-specific EIIB component
+3222_contigs_00676	CDS	manZ_5	PTS system mannose-specific EIID component
+3222_contigs_00677	CDS	sorA_4	PTS system sorbose-specific EIIC component
+3222_contigs_00678	CDS	ybdH_1	1.1.-.-	putative oxidoreductase YbdH
+3222_contigs_00679	CDS	1.1.1.81	Hydroxypyruvate reductase
+3222_contigs_00680	CDS	1.1.1.343	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+3222_contigs_00681	CDS	hexR	HTH-type transcriptional regulator HexR
+3222_contigs_00682	CDS	lmrA	3.6.3.44	Multidrug resistance ABC transporter ATP-binding and permease protein
+3222_contigs_00683	CDS	slyA_2	Transcriptional regulator SlyA
+3222_contigs_00684	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+3222_contigs_00685	CDS	hypothetical protein
+3222_contigs_00686	CDS	hypothetical protein
+3222_contigs_00687	CDS	hypothetical protein
+3222_contigs_00688	tRNA	tRNA-Val(tac)
+3222_contigs_00689	tRNA	tRNA-Lys(ttt)
+3222_contigs_00690	tRNA	tRNA-Leu(tag)
+3222_contigs_00691	tRNA	tRNA-Thr(tgt)
+3222_contigs_00692	tRNA	tRNA-Gly(gcc)
+3222_contigs_00693	tRNA	tRNA-Leu(taa)
+3222_contigs_00694	tRNA	tRNA-Arg(acg)
+3222_contigs_00695	tRNA	tRNA-Pro(tgg)
+3222_contigs_00696	CDS	ybbH_4	putative HTH-type transcriptional regulator YbbH
+3222_contigs_00697	CDS	licC_2	Lichenan permease IIC component
+3222_contigs_00698	CDS	mdeA	4.4.1.11	L-methionine gamma-lyase
+3222_contigs_00699	CDS	ctsR	Transcriptional regulator CtsR
+3222_contigs_00700	CDS	clpC_1	Negative regulator of genetic competence ClpC/MecB
+3222_contigs_00701	CDS	hypothetical protein
+3222_contigs_00702	CDS	ydcP_1	3.4.-.-	putative protease YdcP
+3222_contigs_00703	CDS	ydcP_2	3.4.-.-	putative protease YdcP
+3222_contigs_00704	CDS	hypothetical protein
+3222_contigs_00705	CDS	codB	Cytosine permease
+3222_contigs_00706	CDS	hypothetical protein
+3222_contigs_00707	CDS	apc1	6.4.1.8	Acetophenone carboxylase alpha subunit
+3222_contigs_00708	CDS	hypothetical protein
+3222_contigs_00709	CDS	gor	1.8.1.7	Glutathione reductase
+3222_contigs_00710	CDS	folB	4.1.2.25	Dihydroneopterin aldolase
+3222_contigs_00711	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+3222_contigs_00712	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+3222_contigs_00713	CDS	3.6.1.9	Non-canonical purine NTP pyrophosphatase
+3222_contigs_00714	CDS	folP	2.5.1.15	Dihydropteroate synthase
+3222_contigs_00715	CDS	hypothetical protein
+3222_contigs_00716	CDS	hepT	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+3222_contigs_00717	CDS	hypothetical protein
+3222_contigs_00718	CDS	hypothetical protein
+3222_contigs_00719	CDS	yjlD	1.6.99.-	NADH dehydrogenase-like protein YjlD
+3222_contigs_00720	CDS	hypothetical protein
+3222_contigs_00721	CDS	apbE_1	2.7.1.180	FAD:protein FMN transferase
+3222_contigs_00722	CDS	menA_1	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+3222_contigs_00723	CDS	hypothetical protein
+3222_contigs_00724	CDS	hypothetical protein
+3222_contigs_00725	CDS	hypothetical protein
+3222_contigs_00726	CDS	hypothetical protein
+3222_contigs_00727	CDS	hypothetical protein
+3222_contigs_00728	CDS	hypothetical protein
+3222_contigs_00729	CDS	brpA	Biofilm regulatory protein A
+3222_contigs_00730	CDS	gbpA_1	GlcNAc-binding protein A
+3222_contigs_00731	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+3222_contigs_00732	CDS	hypothetical protein
+3222_contigs_00733	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+3222_contigs_00734	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+3222_contigs_00735	CDS	comC	Type 4 prepilin-like proteins leader peptide-processing enzyme
+3222_contigs_00736	CDS	xylB	2.7.1.17	Xylulose kinase
+3222_contigs_00737	CDS	hypothetical protein
+3222_contigs_00738	CDS	dps	1.16.-.-	DNA protection during starvation protein
+3222_contigs_00739	CDS	rplM	50S ribosomal protein L13
+3222_contigs_00740	CDS	rpsI	30S ribosomal protein S9
+3222_contigs_00741	CDS	hypothetical protein
+3222_contigs_00742	CDS	hypothetical protein
+3222_contigs_00743	CDS	rhaS_1	HTH-type transcriptional activator RhaS
+3222_contigs_00744	CDS	bglF_1	PTS system beta-glucoside-specific EIIBCA component
+3222_contigs_00745	CDS	bglH_1	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+3222_contigs_00746	CDS	dgaR_2	Transcriptional regulatory protein DagR
+3222_contigs_00747	CDS	manZ_6	PTS system mannose-specific EIID component
+3222_contigs_00748	CDS	agaC_3	N-acetylgalactosamine permease IIC component 1
+3222_contigs_00749	CDS	2.7.1.-	putative phosphotransferase enzyme IIB component
+3222_contigs_00750	CDS	hypothetical protein
+3222_contigs_00751	CDS	drrA_1	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+3222_contigs_00752	CDS	yadH_1	Inner membrane transport permease YadH
+3222_contigs_00753	CDS	dus_1	1.3.1.-	putative tRNA-dihydrouridine synthase
+3222_contigs_00754	CDS	znuA_1	High-affinity zinc uptake system binding-protein ZnuA
+3222_contigs_00755	CDS	hypothetical protein
+3222_contigs_00756	CDS	yjiA	putative GTP-binding protein YjiA
+3222_contigs_00757	CDS	rpmGA_2	50S ribosomal protein L33 1
+3222_contigs_00758	CDS	rpsN2	Alternate 30S ribosomal protein S14
+3222_contigs_00759	CDS	hypothetical protein
+3222_contigs_00760	CDS	metN_1	3.6.3.-	Methionine import ATP-binding protein MetN
+3222_contigs_00761	CDS	metI	D-methionine transport system permease protein MetI
+3222_contigs_00762	CDS	metQ_1	D-methionine-binding lipoprotein MetQ
+3222_contigs_00763	CDS	ypdA	2.7.13.3	Sensor histidine kinase YpdA
+3222_contigs_00764	CDS	lytR_2	Sensory transduction protein LytR
+3222_contigs_00765	CDS	lrgA	Antiholin-like protein LrgA
+3222_contigs_00766	CDS	lrgB	Antiholin-like protein LrgB
+3222_contigs_00767	CDS	yecD	3.-.-.-	Isochorismatase family protein YecD
+3222_contigs_00768	CDS	aes_1	3.1.1.-	Acetyl esterase
+3222_contigs_00769	CDS	hypothetical protein
+3222_contigs_00770	CDS	hypothetical protein
+3222_contigs_00771	CDS	hypothetical protein
+3222_contigs_00772	CDS	hypothetical protein
+3222_contigs_00773	CDS	hypothetical protein
+3222_contigs_00774	CDS	hypothetical protein
+3222_contigs_00775	CDS	hypothetical protein
+3222_contigs_00776	CDS	hypothetical protein
+3222_contigs_00777	CDS	hypothetical protein
+3222_contigs_00778	CDS	hypothetical protein
+3222_contigs_00779	CDS	sigV	RNA polymerase sigma factor SigV
+3222_contigs_00780	CDS	rsiV	Anti-sigma-V factor RsiV
+3222_contigs_00781	CDS	dapE_1	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+3222_contigs_00782	CDS	hypothetical protein
+3222_contigs_00783	CDS	yccF	Inner membrane protein YccF
+3222_contigs_00784	CDS	ywnA	Putative HTH-type transcriptional regulator YwnA
+3222_contigs_00785	CDS	hypothetical protein
+3222_contigs_00786	CDS	yttA	putative membrane protein YttA
+3222_contigs_00787	CDS	cinA	Putative competence-damage inducible protein
+3222_contigs_00788	CDS	recA	Protein RecA
+3222_contigs_00789	CDS	celA_1	2.7.1.205	PTS system cellobiose-specific EIIB component
+3222_contigs_00790	CDS	licC_3	Lichenan permease IIC component
+3222_contigs_00791	CDS	licA_1	2.7.1.-	Lichenan-specific phosphotransferase enzyme IIA component
+3222_contigs_00792	CDS	bglH_2	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+3222_contigs_00793	CDS	licR_1	putative licABCH operon regulator
+3222_contigs_00794	CDS	rny	3.1.-.-	Ribonuclease Y
+3222_contigs_00795	CDS	hypothetical protein
+3222_contigs_00796	CDS	hypothetical protein
+3222_contigs_00797	CDS	mutS	DNA mismatch repair protein MutS
+3222_contigs_00798	CDS	mutL	DNA mismatch repair protein MutL
+3222_contigs_00799	CDS	maf	Septum formation protein Maf
+3222_contigs_00800	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+3222_contigs_00801	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+3222_contigs_00802	CDS	yvdM	5.4.2.6	Beta-phosphoglucomutase
+3222_contigs_00803	CDS	trePP	2.4.1.216	Trehalose 6-phosphate phosphorylase
+3222_contigs_00804	CDS	treR	HTH-type transcriptional regulator TreR
+3222_contigs_00805	CDS	hypothetical protein
+3222_contigs_00806	CDS	hypothetical protein
+3222_contigs_00807	CDS	mscL	Large-conductance mechanosensitive channel
+3222_contigs_00808	CDS	3.4.24.-	putative zinc protease
+3222_contigs_00809	CDS	albF	3.4.24.-	Putative zinc protease AlbF
+3222_contigs_00810	CDS	rodZ	Cytoskeleton protein RodZ
+3222_contigs_00811	CDS	hypothetical protein
+3222_contigs_00812	CDS	nfr1_1	1.5.1.36	NADH-dependent flavin reductase subunit 1
+3222_contigs_00813	CDS	nfr1_2	1.5.1.36	NADH-dependent flavin reductase subunit 1
+3222_contigs_00814	CDS	apbE_2	2.7.1.180	FAD:protein FMN transferase
+3222_contigs_00815	CDS	hypothetical protein
+3222_contigs_00816	CDS	triA	3.5.4.-	Melamine deaminase
+3222_contigs_00817	CDS	adeC	3.5.4.2	Adenine deaminase
+3222_contigs_00818	CDS	spuD	Putrescine-binding periplasmic protein SpuD
+3222_contigs_00819	CDS	cysA	3.6.3.25	Sulfate/thiosulfate import ATP-binding protein CysA
+3222_contigs_00820	CDS	ydcV_2	Inner membrane ABC transporter permease protein YdcV
+3222_contigs_00821	CDS	potH	Putrescine transport system permease protein PotH
+3222_contigs_00822	CDS	hypothetical protein
+3222_contigs_00823	CDS	hypothetical protein
+3222_contigs_00824	CDS	hypothetical protein
+3222_contigs_00825	CDS	aldC	4.1.1.5	Alpha-acetolactate decarboxylase
+3222_contigs_00826	CDS	alsS	2.2.1.6	Acetolactate synthase
+3222_contigs_00827	CDS	lytR_3	Transcriptional regulator LytR
+3222_contigs_00828	CDS	hypothetical protein
+3222_contigs_00829	CDS	yxlF	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+3222_contigs_00830	CDS	hypothetical protein
+3222_contigs_00831	CDS	acpB	Capsule synthesis positive regulator AcpB
+3222_contigs_00832	CDS	hypothetical protein
+3222_contigs_00833	CDS	hypothetical protein
+3222_contigs_00834	CDS	hypothetical protein
+3222_contigs_00835	CDS	hypothetical protein
+3222_contigs_00836	CDS	hypothetical protein
+3222_contigs_00837	CDS	npr_1	1.11.1.1	NADH peroxidase
+3222_contigs_00838	CDS	dcuR	Transcriptional regulatory protein DcuR
+3222_contigs_00839	CDS	dcuS	2.7.13.3	Sensor histidine kinase DcuS
+3222_contigs_00840	CDS	cimH	Citrate/malate transporter
+3222_contigs_00841	CDS	1.1.1.38	NAD-dependent malic enzyme
+3222_contigs_00842	CDS	hypothetical protein
+3222_contigs_00843	CDS	hypothetical protein
+3222_contigs_00844	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+3222_contigs_00845	CDS	hypothetical protein
+3222_contigs_00846	CDS	hypothetical protein
+3222_contigs_00847	CDS	hypothetical protein
+3222_contigs_00848	CDS	Putative two-component membrane permease complex subunit SMU_746c
+3222_contigs_00849	CDS	Putative two-component membrane permease complex subunit SMU_747c
+3222_contigs_00850	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+3222_contigs_00851	CDS	yycI	Two-component system WalR/WalK regulatory protein YycI
+3222_contigs_00852	CDS	hypothetical protein
+3222_contigs_00853	CDS	walK_1	2.7.13.3	Sensor histidine kinase WalK
+3222_contigs_00854	CDS	walR_2	Transcriptional regulatory protein WalR
+3222_contigs_00855	CDS	aqpZ	Aquaporin Z
+3222_contigs_00856	CDS	Fatty acid-binding protein
+3222_contigs_00857	CDS	hypothetical protein
+3222_contigs_00858	CDS	hypothetical protein
+3222_contigs_00859	CDS	yutF	3.1.3.-	Acid sugar phosphatase
+3222_contigs_00860	CDS	hypothetical protein
+3222_contigs_00861	CDS	yfkN_1	Trifunctional nucleotide phosphoesterase protein YfkN
+3222_contigs_00862	CDS	rnj2	3.1.-.-	Ribonuclease J 2
+3222_contigs_00863	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+3222_contigs_00864	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+3222_contigs_00865	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+3222_contigs_00866	CDS	nfrA1	1.5.1.38	FMN reductase (NADPH)
+3222_contigs_00867	CDS	frp	1.5.1.38	NADPH-flavin oxidoreductase
+3222_contigs_00868	CDS	hypothetical protein
+3222_contigs_00869	CDS	gmuE	2.7.1.4	Putative fructokinase
+3222_contigs_00870	CDS	hypothetical protein
+3222_contigs_00871	CDS	hypothetical protein
+3222_contigs_00872	CDS	rpmE2	50S ribosomal protein L31 type B
+3222_contigs_00873	CDS	rho	3.6.4.-	Transcription termination factor Rho
+3222_contigs_00874	CDS	murA1_1	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+3222_contigs_00875	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+3222_contigs_00876	CDS	hypothetical protein
+3222_contigs_00877	CDS	hypothetical protein
+3222_contigs_00878	CDS	hypothetical protein
+3222_contigs_00879	CDS	ansA	3.5.1.1	putative L-asparaginase
+3222_contigs_00880	CDS	hypothetical protein
+3222_contigs_00881	CDS	grdB	1.21.4.2	Glycine reductase complex component B subunit gamma
+3222_contigs_00882	CDS	licC_4	Lichenan permease IIC component
+3222_contigs_00883	CDS	chbB	2.7.1.196	PTS system N,N'-diacetylchitobiose-specific EIIB component
+3222_contigs_00884	CDS	3.5.1.26	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+3222_contigs_00885	CDS	pepV_2	3.4.13.-	Beta-Ala-Xaa dipeptidase
+3222_contigs_00886	CDS	yvoA_1	HTH-type transcriptional repressor YvoA
+3222_contigs_00887	CDS	nth	4.2.99.18	Endonuclease III
+3222_contigs_00888	CDS	dnaD	DNA replication protein DnaD
+3222_contigs_00889	CDS	ypwA	3.4.17.19	Carboxypeptidase 1
+3222_contigs_00890	CDS	rlmL	2.1.1.173	Ribosomal RNA large subunit methyltransferase L
+3222_contigs_00891	CDS	gpsB	Cell cycle protein GpsB
+3222_contigs_00892	CDS	hypothetical protein
+3222_contigs_00893	CDS	recU	3.1.22.-	Holliday junction resolvase RecU
+3222_contigs_00894	CDS	ponA	Penicillin-binding protein 1A
+3222_contigs_00895	CDS	pyrG	6.3.4.2	CTP synthase
+3222_contigs_00896	CDS	rpoE	putative DNA-directed RNA polymerase subunit delta
+3222_contigs_00897	CDS	hypothetical protein
+3222_contigs_00898	CDS	lipL	2.3.1.200	Lipoyl-[GcvH]:protein N-lipoyltransferase
+3222_contigs_00899	CDS	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+3222_contigs_00900	CDS	3.1.3.-	Putative phosphatase
+3222_contigs_00901	CDS	hypothetical protein
+3222_contigs_00902	CDS	gloA	4.4.1.5	Lactoylglutathione lyase
+3222_contigs_00903	CDS	2.4.2.-	Putative glutamine amidotransferase
+3222_contigs_00904	CDS	yvgN	1.1.1.-	Glyoxal reductase
+3222_contigs_00905	CDS	hypothetical protein
+3222_contigs_00906	CDS	ykuT	putative MscS family protein YkuT
+3222_contigs_00907	CDS	3.5.1.47	N-acetyldiaminopimelate deacetylase
+3222_contigs_00908	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+3222_contigs_00909	CDS	ykuL	CBS domain-containing protein YkuL
+3222_contigs_00910	CDS	ulaF	5.1.3.4	L-ribulose-5-phosphate 4-epimerase UlaF
+3222_contigs_00911	CDS	ulaE	5.1.3.22	L-ribulose-5-phosphate 3-epimerase UlaE
+3222_contigs_00912	CDS	ulaD	4.1.1.85	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+3222_contigs_00913	CDS	ulaB	2.7.1.194	Ascorbate-specific PTS system EIIB component
+3222_contigs_00914	CDS	ulaA_1	Ascorbate-specific PTS system EIIC component
+3222_contigs_00915	CDS	cmtB	2.7.1.197	Mannitol-specific cryptic phosphotransferase enzyme IIA component
+3222_contigs_00916	CDS	ulaG	3.1.1.-	putative L-ascorbate-6-phosphate lactonase UlaG
+3222_contigs_00917	CDS	glcR_2	HTH-type transcriptional repressor GlcR
+3222_contigs_00918	CDS	yfcE	3.1.4.-	Phosphodiesterase YfcE
+3222_contigs_00919	CDS	rph	2.7.7.56	Ribonuclease PH
+3222_contigs_00920	CDS	murI	5.1.1.3	Glutamate racemase
+3222_contigs_00921	CDS	glnQ_1	Glutamine transport ATP-binding protein GlnQ
+3222_contigs_00922	CDS	peb1A	Major cell-binding factor
+3222_contigs_00923	CDS	glnM	putative glutamine ABC transporter permease protein GlnM
+3222_contigs_00924	CDS	glnP_1	putative glutamine ABC transporter permease protein GlnP
+3222_contigs_00925	CDS	pheT_2	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+3222_contigs_00926	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+3222_contigs_00927	CDS	yodB	HTH-type transcriptional regulator YodB
+3222_contigs_00928	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+3222_contigs_00929	CDS	addB	3.1.-.-	ATP-dependent helicase/deoxyribonuclease subunit B
+3222_contigs_00930	CDS	spsB_1	3.4.21.89	Signal peptidase IB
+3222_contigs_00931	CDS	lutC	Lactate utilization protein C
+3222_contigs_00932	CDS	lutB	Lactate utilization protein B
+3222_contigs_00933	CDS	lutA	Lactate utilization protein A
+3222_contigs_00934	CDS	hypothetical protein
+3222_contigs_00935	CDS	hypothetical protein
+3222_contigs_00936	CDS	yvbW	putative amino acid permease YvbW
+3222_contigs_00937	CDS	hypothetical protein
+3222_contigs_00938	CDS	ubiE	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+3222_contigs_00939	CDS	bmrA	3.6.3.-	Multidrug resistance ABC transporter ATP-binding/permease protein BmrA
+3222_contigs_00940	CDS	hypothetical protein
+3222_contigs_00941	CDS	hypothetical protein
+3222_contigs_00942	CDS	hypothetical protein
+3222_contigs_00943	CDS	Stress response regulator gls24 
+3222_contigs_00944	CDS	Stress response regulator gls24 
+3222_contigs_00945	CDS	hypothetical protein
+3222_contigs_00946	CDS	hypothetical protein
+3222_contigs_00947	CDS	yghA	1.-.-.-	putative oxidoreductase YghA
+3222_contigs_00948	CDS	fnr	Anaerobic regulatory protein
+3222_contigs_00949	CDS	hypothetical protein
+3222_contigs_00950	CDS	ygjK	3.2.1.-	Glucosidase YgjK
+3222_contigs_00951	CDS	nanE	5.1.3.9	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+3222_contigs_00952	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+3222_contigs_00953	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+3222_contigs_00954	CDS	hypothetical protein
+3222_contigs_00955	CDS	limB	1.14.13.107	Limonene 1,2-monooxygenase
+3222_contigs_00956	CDS	hypothetical protein
+3222_contigs_00957	CDS	dppE_4	Dipeptide-binding protein DppE
+3222_contigs_00958	CDS	yfkN_2	Trifunctional nucleotide phosphoesterase protein YfkN
+3222_contigs_00959	CDS	hypothetical protein
+3222_contigs_00960	CDS	glmU	Bifunctional protein GlmU
+3222_contigs_00961	CDS	purR	Pur operon repressor
+3222_contigs_00962	CDS	znuB	High-affinity zinc uptake system membrane protein ZnuB
+3222_contigs_00963	CDS	znuC_1	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+3222_contigs_00964	CDS	znuA_2	High-affinity zinc uptake system binding-protein ZnuA
+3222_contigs_00965	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+3222_contigs_00966	CDS	hypothetical protein
+3222_contigs_00967	CDS	hypothetical protein
+3222_contigs_00968	CDS	hypothetical protein
+3222_contigs_00969	CDS	hypothetical protein
+3222_contigs_00970	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+3222_contigs_00971	CDS	mrnC	3.1.26.-	Mini-ribonuclease 3
+3222_contigs_00972	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+3222_contigs_00973	CDS	cysE	2.3.1.30	Serine acetyltransferase
+3222_contigs_00974	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+3222_contigs_00975	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+3222_contigs_00976	CDS	yacL	3.1.-.-	putative PIN and TRAM-domain containing protein YacL
+3222_contigs_00977	CDS	radA	3.6.4.-	DNA repair protein RadA
+3222_contigs_00978	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+3222_contigs_00979	CDS	proB	2.7.2.11	Glutamate 5-kinase 1
+3222_contigs_00980	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+3222_contigs_00981	CDS	hypothetical protein
+3222_contigs_00982	CDS	hypothetical protein
+3222_contigs_00983	CDS	hypothetical protein
+3222_contigs_00984	CDS	hypothetical protein
+3222_contigs_00985	CDS	mprF_1	2.3.2.3	Phosphatidylglycerol lysyltransferase
+3222_contigs_00986	CDS	yabJ_1	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+3222_contigs_00987	CDS	patB_1	4.4.1.8	Cystathionine beta-lyase PatB
+3222_contigs_00988	CDS	malX	PTS system maltose-specific EIICB component
+3222_contigs_00989	CDS	ybbH_5	putative HTH-type transcriptional regulator YbbH
+3222_contigs_00990	CDS	hypothetical protein
+3222_contigs_00991	CDS	hypothetical protein
+3222_contigs_00992	CDS	hypothetical protein
+3222_contigs_00993	CDS	manZ_7	PTS system mannose-specific EIID component
+3222_contigs_00994	CDS	sorA_5	PTS system sorbose-specific EIIC component
+3222_contigs_00995	CDS	manX_2	2.7.1.191	PTS system mannose-specific EIIAB component
+3222_contigs_00996	CDS	manX_3	2.7.1.191	PTS system mannose-specific EIIAB component
+3222_contigs_00997	CDS	dgaR_3	Transcriptional regulatory protein DagR
+3222_contigs_00998	CDS	ybiT_1	putative ABC transporter ATP-binding protein YbiT
+3222_contigs_00999	CDS	hypothetical protein
+3222_contigs_01000	CDS	DegV domain-containing protein
+3222_contigs_01001	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+3222_contigs_01002	CDS	dnaC_1	3.6.4.12	Replicative DNA helicase
+3222_contigs_01003	CDS	rplI	50S ribosomal protein L9
+3222_contigs_01004	CDS	gdpP	3.1.4.-	Cyclic-di-AMP phosphodiesterase GdpP
+3222_contigs_01005	CDS	rpsR	30S ribosomal protein S18
+3222_contigs_01006	CDS	ssb	Single-stranded DNA-binding protein
+3222_contigs_01007	CDS	rpsF	30S ribosomal protein S6
+3222_contigs_01008	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+3222_contigs_01009	CDS	gyrB_1	5.99.1.3	DNA gyrase subunit B
+3222_contigs_01010	CDS	recF_1	DNA replication and repair protein RecF
+3222_contigs_01011	CDS	hypothetical protein
+3222_contigs_01012	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+3222_contigs_01013	CDS	dnaA	Chromosomal replication initiator protein DnaA
+3222_contigs_01014	CDS	rpmH	50S ribosomal protein L34
+3222_contigs_01015	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+3222_contigs_01016	CDS	yidC2	Membrane protein insertase YidC 2
+3222_contigs_01017	CDS	hypothetical protein
+3222_contigs_01018	CDS	ompR	Transcriptional regulatory protein OmpR
+3222_contigs_01019	CDS	mcbR	HTH-type transcriptional regulator McbR
+3222_contigs_01020	CDS	citN	Citrate transporter
+3222_contigs_01021	CDS	hypothetical protein
+3222_contigs_01022	CDS	cfiA	6.4.1.7	2-oxoglutarate carboxylase large subunit
+3222_contigs_01023	CDS	gcdB	4.1.1.70	Glutaconyl-CoA decarboxylase subunit beta
+3222_contigs_01024	CDS	hypothetical protein
+3222_contigs_01025	CDS	citC	6.2.1.22	[Citrate [pro-3S]-lyase] ligase
+3222_contigs_01026	CDS	citD	Citrate lyase acyl carrier protein
+3222_contigs_01027	CDS	citE	4.1.3.6	Citrate lyase subunit beta
+3222_contigs_01028	CDS	citF	4.1.3.6	Citrate lyase alpha chain
+3222_contigs_01029	CDS	citX	2.7.7.61	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+3222_contigs_01030	CDS	2.1.3.1	Methylmalonyl-CoA carboxyltransferase 5S subunit
+3222_contigs_01031	CDS	1.1.1.38	NAD-dependent malic enzyme
+3222_contigs_01032	CDS	citG	2.4.2.52	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+3222_contigs_01033	CDS	hypothetical protein
+3222_contigs_01034	CDS	mnmE	3.6.-.-	tRNA modification GTPase MnmE
+3222_contigs_01035	CDS	mnmG	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+3222_contigs_01036	CDS	fabG2	1.-.-.-	putative oxidoreductase
+3222_contigs_01037	CDS	licR_2	putative licABCH operon regulator
+3222_contigs_01038	CDS	hypothetical protein
+3222_contigs_01039	CDS	srlA	PTS system glucitol/sorbitol-specific EIIC component
+3222_contigs_01040	CDS	srlE	2.7.1.198	PTS system glucitol/sorbitol-specific EIIB component
+3222_contigs_01041	CDS	srlB_1	2.7.1.198	PTS system glucitol/sorbitol-specific EIIA component
+3222_contigs_01042	CDS	fsaA	4.1.2.-	Fructose-6-phosphate aldolase 1
+3222_contigs_01043	CDS	sph	4.2.1.53	Oleate hydratase
+3222_contigs_01044	CDS	hypothetical protein
+3222_contigs_01045	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+3222_contigs_01046	CDS	soj_1	3.6.-.-	Sporulation initiation inhibitor protein Soj
+3222_contigs_01047	CDS	parB	putative chromosome-partitioning protein ParB
+3222_contigs_01048	CDS	hypothetical protein
+3222_contigs_01049	CDS	ychF	Ribosome-binding ATPase YchF
+3222_contigs_01050	CDS	hypothetical protein
+3222_contigs_01051	CDS	hypothetical protein
+3222_contigs_01052	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+3222_contigs_01053	CDS	serS_1	6.1.1.11	Serine--tRNA ligase
+3222_contigs_01054	CDS	walK_2	2.7.13.3	Sensor protein kinase WalK
+3222_contigs_01055	CDS	phoP_1	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+3222_contigs_01056	CDS	hypothetical protein
+3222_contigs_01057	CDS	ytrB_2	ABC transporter ATP-binding protein YtrB
+3222_contigs_01058	CDS	mngR_2	Mannosyl-D-glycerate transport/metabolism system repressor MngR
+3222_contigs_01059	CDS	hypothetical protein
+3222_contigs_01060	CDS	sipV	3.4.21.89	Signal peptidase I V
+3222_contigs_01061	CDS	ctpA	3.4.21.102	Carboxy-terminal processing protease CtpA
+3222_contigs_01062	CDS	hypothetical protein
+3222_contigs_01063	CDS	msrA	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+3222_contigs_01064	CDS	hypothetical protein
+3222_contigs_01065	CDS	lipC	3.-.-.-	Spore germination lipase LipC
+3222_contigs_01066	CDS	DegV domain-containing protein
+3222_contigs_01067	CDS	hypothetical protein
+3222_contigs_01068	CDS	hypothetical protein
+3222_contigs_01069	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+3222_contigs_01070	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+3222_contigs_01071	CDS	lapA	Lipopolysaccharide assembly protein A
+3222_contigs_01072	CDS	1.-.-.-	putative oxidoreductase
+3222_contigs_01073	CDS	rnz	3.1.26.11	Ribonuclease Z
+3222_contigs_01074	CDS	hypothetical protein
+3222_contigs_01075	CDS	hypothetical protein
+3222_contigs_01076	CDS	rpsP	30S ribosomal protein S16
+3222_contigs_01077	CDS	mshD_1	2.3.1.189	Mycothiol acetyltransferase
+3222_contigs_01078	CDS	chrR	1.6.5.2	Chromate reductase
+3222_contigs_01079	CDS	mta	HTH-type transcriptional activator mta
+3222_contigs_01080	CDS	ffh	Signal recognition particle protein
+3222_contigs_01081	CDS	hypothetical protein
+3222_contigs_01082	CDS	hypothetical protein
+3222_contigs_01083	CDS	phoP_2	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+3222_contigs_01084	CDS	phoR_1	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+3222_contigs_01085	CDS	pstS1_1	Phosphate-binding protein PstS 1
+3222_contigs_01086	CDS	patA_2	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+3222_contigs_01087	CDS	mngB	3.2.1.170	Mannosylglycerate hydrolase
+3222_contigs_01088	CDS	hypothetical protein
+3222_contigs_01089	CDS	araR	Arabinose metabolism transcriptional repressor
+3222_contigs_01090	CDS	oxyR	Hydrogen peroxide-inducible genes activator
+3222_contigs_01091	CDS	cah	4.2.1.1	Carbonic anhydrase
+3222_contigs_01092	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+3222_contigs_01093	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+3222_contigs_01094	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+3222_contigs_01095	CDS	pyrK	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+3222_contigs_01096	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+3222_contigs_01097	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+3222_contigs_01098	CDS	pyrC	3.5.2.3	Dihydroorotase
+3222_contigs_01099	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+3222_contigs_01100	CDS	pyrP	Uracil permease
+3222_contigs_01101	CDS	pyrR	Bifunctional protein pyrR
+3222_contigs_01102	CDS	rluD_2	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+3222_contigs_01103	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+3222_contigs_01104	CDS	hypothetical protein
+3222_contigs_01105	CDS	fhs1	6.3.4.3	Formate--tetrahydrofolate ligase 1
+3222_contigs_01106	CDS	cspD	Cold shock protein CspD
+3222_contigs_01107	CDS	hypothetical protein
+3222_contigs_01108	CDS	rnhA	14.7 kDa ribonuclease H-like protein
+3222_contigs_01109	CDS	ybaK	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+3222_contigs_01110	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+3222_contigs_01111	CDS	yheH	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+3222_contigs_01112	CDS	yheI	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+3222_contigs_01113	CDS	hypothetical protein
+3222_contigs_01114	CDS	nfo	3.1.21.2	putative endonuclease 4
+3222_contigs_01115	CDS	hypothetical protein
+3222_contigs_01116	CDS	hypothetical protein
+3222_contigs_01117	CDS	hypothetical protein
+3222_contigs_01118	CDS	tyrS1_2	6.1.1.1	Tyrosine--tRNA ligase 1
+3222_contigs_01119	CDS	pbpF_2	Penicillin-binding protein 1F
+3222_contigs_01120	CDS	ccpA_2	Catabolite control protein A
+3222_contigs_01121	CDS	pepQ	3.4.13.9	Xaa-Pro dipeptidase
+3222_contigs_01122	CDS	hypothetical protein
+3222_contigs_01123	CDS	hypothetical protein
+3222_contigs_01124	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+3222_contigs_01125	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+3222_contigs_01126	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+3222_contigs_01127	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+3222_contigs_01128	CDS	uvrC_2	UvrABC system protein C
+3222_contigs_01129	CDS	hypothetical protein
+3222_contigs_01130	CDS	hypothetical protein
+3222_contigs_01131	CDS	hypothetical protein
+3222_contigs_01132	CDS	Int-Tn	Transposase from transposon Tn916
+3222_contigs_01133	CDS	hypothetical protein
+3222_contigs_01134	CDS	hypothetical protein
+3222_contigs_01135	CDS	hypothetical protein
+3222_contigs_01136	CDS	hypothetical protein
+3222_contigs_01137	CDS	tetM	Tetracycline resistance protein TetM from transposon TnFO1
+3222_contigs_01138	CDS	hypothetical protein
+3222_contigs_01139	CDS	iap	3.4.-.-	putative endopeptidase p60
+3222_contigs_01140	CDS	hypothetical protein
+3222_contigs_01141	CDS	hypothetical protein
+3222_contigs_01142	CDS	hypothetical protein
+3222_contigs_01143	CDS	hypothetical protein
+3222_contigs_01144	CDS	hypothetical protein
+3222_contigs_01145	CDS	hypothetical protein
+3222_contigs_01146	CDS	ftsK_1	DNA translocase FtsK
+3222_contigs_01147	CDS	hypothetical protein
+3222_contigs_01148	CDS	hypothetical protein
+3222_contigs_01149	CDS	phoU	Phosphate-specific transport system accessory protein PhoU 
+3222_contigs_01150	CDS	pstB3_1	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+3222_contigs_01151	CDS	pstB3_2	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+3222_contigs_01152	CDS	pstA	Phosphate transport system permease protein PstA
+3222_contigs_01153	CDS	pstC1	Phosphate transport system permease protein PstC 1
+3222_contigs_01154	CDS	pstS1_2	Phosphate-binding protein PstS 1
+3222_contigs_01155	CDS	ftsX	Cell division protein FtsX
+3222_contigs_01156	CDS	ftsE	Cell division ATP-binding protein FtsE
+3222_contigs_01157	CDS	prfB	Peptide chain release factor 2
+3222_contigs_01158	CDS	secA	Protein translocase subunit SecA
+3222_contigs_01159	CDS	hpf	Ribosome hibernation promotion factor
+3222_contigs_01160	CDS	hypothetical protein
+3222_contigs_01161	CDS	comFA	3.6.4.12	ComF operon protein 1
+3222_contigs_01162	CDS	recF_2	DNA replication and repair protein RecF
+3222_contigs_01163	CDS	celA_2	2.7.1.205	PTS system cellobiose-specific EIIB component
+3222_contigs_01164	CDS	hypothetical protein
+3222_contigs_01165	CDS	yigZ	IMPACT family member YigZ
+3222_contigs_01166	CDS	hypothetical protein
+3222_contigs_01167	CDS	bacC	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+3222_contigs_01168	CDS	queT_2	Queuosine precursor transporter QueT
+3222_contigs_01169	CDS	hypothetical protein
+3222_contigs_01170	CDS	hypothetical protein
+3222_contigs_01171	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+3222_contigs_01172	CDS	purH	Bifunctional purine biosynthesis protein PurH
+3222_contigs_01173	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+3222_contigs_01174	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+3222_contigs_01175	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+3222_contigs_01176	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+3222_contigs_01177	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+3222_contigs_01178	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+3222_contigs_01179	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+3222_contigs_01180	CDS	purK_1	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+3222_contigs_01181	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+3222_contigs_01182	CDS	hypothetical protein
+3222_contigs_01183	CDS	nnrD	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+3222_contigs_01184	CDS	dppE_5	Dipeptide-binding protein DppE
+3222_contigs_01185	CDS	hypothetical protein
+3222_contigs_01186	CDS	hypothetical protein
+3222_contigs_01187	CDS	hypothetical protein
+3222_contigs_01188	CDS	tarI	2.7.7.40	Ribitol-5-phosphate cytidylyltransferase
+3222_contigs_01189	CDS	rfbB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+3222_contigs_01190	CDS	epsJ	2.4.-.-	putative glycosyltransferase EpsJ
+3222_contigs_01191	CDS	hypothetical protein
+3222_contigs_01192	CDS	pimB	2.4.1.57	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+3222_contigs_01193	CDS	hypothetical protein
+3222_contigs_01194	CDS	wbgU_2	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+3222_contigs_01195	CDS	2.4.-.-	putative glycosyltransferase
+3222_contigs_01196	CDS	glpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase
+3222_contigs_01197	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+3222_contigs_01198	CDS	hflX	GTPase HflX
+3222_contigs_01199	CDS	glnR	HTH-type transcriptional regulator GlnR
+3222_contigs_01200	CDS	glnA	6.3.1.2	Glutamine synthetase
+3222_contigs_01201	CDS	hypothetical protein
+3222_contigs_01202	CDS	por_1	1.2.7.1	Pyruvate synthase
+3222_contigs_01203	CDS	cdaA	2.7.7.85	Cyclic di-AMP synthase CdaA
+3222_contigs_01204	CDS	cdaR_2	CdaA regulatory protein CdaR
+3222_contigs_01205	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+3222_contigs_01206	CDS	hypothetical protein
+3222_contigs_01207	CDS	ykoD_2	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+3222_contigs_01208	CDS	ecfT_1	Energy-coupling factor transporter transmembrane protein EcfT
+3222_contigs_01209	CDS	glmS_1	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+3222_contigs_01210	CDS	femA	2.3.2.17	Aminoacyltransferase FemA
+3222_contigs_01211	CDS	hypothetical protein
+3222_contigs_01212	CDS	hypothetical protein
+3222_contigs_01213	CDS	hypothetical protein
+3222_contigs_01214	CDS	hypothetical protein
+3222_contigs_01215	tRNA	tRNA-Thr(ggt)
+3222_contigs_01216	CDS	metN_2	3.6.3.-	Methionine import ATP-binding protein MetN
+3222_contigs_01217	CDS	metP_1	Methionine import system permease protein MetP
+3222_contigs_01218	CDS	metQ_2	D-methionine-binding lipoprotein MetQ
+3222_contigs_01219	CDS	yxeP_1	3.-.-.-	putative hydrolase YxeP
+3222_contigs_01220	CDS	hypothetical protein
+3222_contigs_01221	CDS	ybiT_2	putative ABC transporter ATP-binding protein YbiT
+3222_contigs_01222	CDS	fimA	Manganese ABC transporter substrate-binding lipoprotein
+3222_contigs_01223	CDS	mntB	Manganese transport system membrane protein MntB
+3222_contigs_01224	CDS	znuC_2	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+3222_contigs_01225	CDS	prs2	2.7.6.1	Ribose-phosphate pyrophosphokinase 2
+3222_contigs_01226	CDS	iscS_1	2.8.1.7	Cysteine desulfurase IscS
+3222_contigs_01227	CDS	hypothetical protein
+3222_contigs_01228	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+3222_contigs_01229	CDS	hypothetical protein
+3222_contigs_01230	CDS	yjhB_1	Putative metabolite transport protein YjhB
+3222_contigs_01231	CDS	hypothetical protein
+3222_contigs_01232	CDS	tetR_1	Tetracycline repressor protein class B from transposon Tn10
+3222_contigs_01233	CDS	hypothetical protein
+3222_contigs_01234	CDS	topB	5.99.1.2	DNA topoisomerase 3
+3222_contigs_01235	CDS	soxS	Regulatory protein SoxS
+3222_contigs_01236	CDS	hypothetical protein
+3222_contigs_01237	CDS	cydA	1.10.3.-	Cytochrome bd ubiquinol oxidase subunit 1
+3222_contigs_01238	CDS	cydB	1.10.3.14	Cytochrome bd-I ubiquinol oxidase subunit 2
+3222_contigs_01239	CDS	cydD	ATP-binding/permease protein CydD
+3222_contigs_01240	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_01241	CDS	hexs-b	2.5.1.83	Hexaprenyl-diphosphate synthase large subunit ((2E,6E)-farnesyl-diphosphate specific)
+3222_contigs_01242	CDS	menA_2	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+3222_contigs_01243	CDS	1.6.99.-	NADH dehydrogenase-like protein
+3222_contigs_01244	CDS	spoIIIE	DNA translocase SpoIIIE
+3222_contigs_01245	CDS	mngR_3	Mannosyl-D-glycerate transport/metabolism system repressor MngR
+3222_contigs_01246	CDS	yxdL	ABC transporter ATP-binding protein YxdL
+3222_contigs_01247	CDS	yxdM	ABC transporter permease protein YxdM
+3222_contigs_01248	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+3222_contigs_01249	CDS	steT	Serine/threonine exchanger SteT
+3222_contigs_01250	CDS	comGA	ComG operon protein 1
+3222_contigs_01251	CDS	hypothetical protein
+3222_contigs_01252	CDS	hypothetical protein
+3222_contigs_01253	CDS	comGC	ComG operon protein 3
+3222_contigs_01254	CDS	hypothetical protein
+3222_contigs_01255	CDS	hypothetical protein
+3222_contigs_01256	CDS	hypothetical protein
+3222_contigs_01257	CDS	hypothetical protein
+3222_contigs_01258	CDS	hypothetical protein
+3222_contigs_01259	CDS	ackA	2.7.2.1	Acetate kinase
+3222_contigs_01260	CDS	Putative universal stress protein
+3222_contigs_01261	CDS	hypothetical protein
+3222_contigs_01262	CDS	putative AAA domain-containing protein
+3222_contigs_01263	CDS	3.2.2.-	Putative 3-methyladenine DNA glycosylase
+3222_contigs_01264	CDS	hypothetical protein
+3222_contigs_01265	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+3222_contigs_01266	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+3222_contigs_01267	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+3222_contigs_01268	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+3222_contigs_01269	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+3222_contigs_01270	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+3222_contigs_01271	CDS	pdxK_1	2.7.1.35	Pyridoxine kinase
+3222_contigs_01272	CDS	hmpT	Thiamine precursor transporter HmpT
+3222_contigs_01273	CDS	hypothetical protein
+3222_contigs_01274	CDS	hypothetical protein
+3222_contigs_01275	CDS	cggR	Central glycolytic genes regulator
+3222_contigs_01276	CDS	gap_2	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+3222_contigs_01277	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+3222_contigs_01278	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+3222_contigs_01279	CDS	eno	4.2.1.11	Enolase
+3222_contigs_01280	CDS	hypothetical protein
+3222_contigs_01281	CDS	dgt	3.1.5.1	Deoxyguanosinetriphosphate triphosphohydrolase
+3222_contigs_01282	CDS	dgaR_4	Transcriptional regulatory protein DagR
+3222_contigs_01283	CDS	manX_4	2.7.1.191	PTS system mannose-specific EIIAB component
+3222_contigs_01284	CDS	2.7.1.-	putative phosphotransferase enzyme IIB component
+3222_contigs_01285	CDS	agaC_4	N-acetylgalactosamine permease IIC component 1
+3222_contigs_01286	CDS	manZ_8	PTS system mannose-specific EIID component
+3222_contigs_01287	CDS	glmS_2	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+3222_contigs_01288	CDS	frlB	3.5.-.-	Fructosamine deglycase FrlB
+3222_contigs_01289	CDS	hypothetical protein
+3222_contigs_01290	CDS	hypothetical protein
+3222_contigs_01291	CDS	hypothetical protein
+3222_contigs_01292	CDS	ltaS1_1	Lipoteichoic acid synthase 1
+3222_contigs_01293	CDS	hypothetical protein
+3222_contigs_01294	CDS	hypothetical protein
+3222_contigs_01295	CDS	hypothetical protein
+3222_contigs_01296	CDS	hypothetical protein
+3222_contigs_01297	CDS	hypothetical protein
+3222_contigs_01298	CDS	hypothetical protein
+3222_contigs_01299	CDS	hypothetical protein
+3222_contigs_01300	CDS	hypothetical protein
+3222_contigs_01301	CDS	hypothetical protein
+3222_contigs_01302	CDS	hypothetical protein
+3222_contigs_01303	CDS	hypothetical protein
+3222_contigs_01304	CDS	hypothetical protein
+3222_contigs_01305	CDS	hypothetical protein
+3222_contigs_01306	CDS	hypothetical protein
+3222_contigs_01307	CDS	ettA_2	Energy-dependent translational throttle protein EttA
+3222_contigs_01308	CDS	thyA	2.1.1.45	Thymidylate synthase
+3222_contigs_01309	CDS	folA_1	1.5.1.3	Dihydrofolate reductase
+3222_contigs_01310	CDS	queG	1.17.99.6	Epoxyqueuosine reductase
+3222_contigs_01311	CDS	lexA	3.4.21.88	LexA repressor
+3222_contigs_01312	CDS	hypothetical protein
+3222_contigs_01313	CDS	tkt	2.2.1.1	Transketolase
+3222_contigs_01314	CDS	putative transporter
+3222_contigs_01315	CDS	3.2.1.-	Autolysin
+3222_contigs_01316	CDS	cysK	2.5.1.47	Cysteine synthase
+3222_contigs_01317	CDS	perR	Peroxide operon regulator
+3222_contigs_01318	CDS	nox	1.6.99.3	NADH oxidase
+3222_contigs_01319	CDS	hypothetical protein
+3222_contigs_01320	CDS	paiA_2	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+3222_contigs_01321	CDS	rhaS_2	HTH-type transcriptional activator RhaS
+3222_contigs_01322	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_01323	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_01324	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+3222_contigs_01325	CDS	hypothetical protein
+3222_contigs_01326	CDS	katA	1.11.1.6	Vegetative catalase
+3222_contigs_01327	CDS	phrB	4.1.99.3	Deoxyribodipyrimidine photo-lyase
+3222_contigs_01328	CDS	hypothetical protein
+3222_contigs_01329	CDS	bglA_1	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglA
+3222_contigs_01330	CDS	bglF_2	PTS system beta-glucoside-specific EIIBCA component
+3222_contigs_01331	CDS	licT_1	Transcription antiterminator LicT
+3222_contigs_01332	CDS	hypothetical protein
+3222_contigs_01333	CDS	bglC_1	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglC
+3222_contigs_01334	CDS	bglF_3	PTS system beta-glucoside-specific EIIBCA component
+3222_contigs_01335	CDS	clsA_2	2.7.8.-	Major cardiolipin synthase ClsA
+3222_contigs_01336	CDS	hypothetical protein
+3222_contigs_01337	CDS	hypothetical protein
+3222_contigs_01338	CDS	ppaC	3.6.1.1	putative manganese-dependent inorganic pyrophosphatase
+3222_contigs_01339	CDS	pflA	1.97.1.4	Pyruvate formate-lyase-activating enzyme
+3222_contigs_01340	CDS	pflB	2.3.1.54	Formate acetyltransferase
+3222_contigs_01341	CDS	parC	5.99.1.3	DNA topoisomerase 4 subunit A
+3222_contigs_01342	CDS	parE	5.99.1.3	DNA topoisomerase 4 subunit B
+3222_contigs_01343	CDS	hypothetical protein
+3222_contigs_01344	CDS	eutQ	Ethanolamine utilization protein EutQ
+3222_contigs_01345	CDS	hypothetical protein
+3222_contigs_01346	CDS	ccmL	Carbon dioxide concentrating mechanism protein CcmL
+3222_contigs_01347	CDS	hypothetical protein
+3222_contigs_01348	CDS	pduL	2.3.1.222	Phosphate propanoyltransferase
+3222_contigs_01349	CDS	hypothetical protein
+3222_contigs_01350	CDS	pduA	Propanediol utilization protein PduA
+3222_contigs_01351	CDS	adhE_1	Aldehyde-alcohol dehydrogenase
+3222_contigs_01352	CDS	csoS1C	Major carboxysome shell protein 1C
+3222_contigs_01353	CDS	eutL	Ethanolamine utilization protein EutL
+3222_contigs_01354	CDS	eutC	4.3.1.7	Ethanolamine ammonia-lyase light chain
+3222_contigs_01355	CDS	eutB	4.3.1.7	Ethanolamine ammonia-lyase heavy chain
+3222_contigs_01356	CDS	ftsA_1	Cell division protein FtsA
+3222_contigs_01357	CDS	pdtaS	2.7.13.3	putative sensor histidine kinase pdtaS
+3222_contigs_01358	CDS	pdtaR	putative transcriptional regulatory protein pdtaR
+3222_contigs_01359	CDS	pduU	Propanediol utilization protein PduU
+3222_contigs_01360	CDS	adhE_2	Aldehyde-alcohol dehydrogenase
+3222_contigs_01361	CDS	yvqK	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+3222_contigs_01362	CDS	pduV	Propanediol utilization protein PduV
+3222_contigs_01363	CDS	fepC	Ferric enterobactin transport ATP-binding protein FepC
+3222_contigs_01364	CDS	hmuU_2	Hemin transport system permease protein HmuU
+3222_contigs_01365	CDS	hmuT	Hemin-binding periplasmic protein HmuT
+3222_contigs_01366	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+3222_contigs_01367	CDS	galM	5.1.3.3	Aldose 1-epimerase
+3222_contigs_01368	CDS	codY	GTP-sensing transcriptional pleiotropic repressor CodY
+3222_contigs_01369	CDS	clpY	ATP-dependent protease ATPase subunit ClpY
+3222_contigs_01370	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+3222_contigs_01371	CDS	xerC_1	Tyrosine recombinase XerC
+3222_contigs_01372	CDS	trmFO	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+3222_contigs_01373	CDS	topA	5.99.1.2	DNA topoisomerase 1
+3222_contigs_01374	CDS	hypothetical protein
+3222_contigs_01375	CDS	hypothetical protein
+3222_contigs_01376	CDS	dprA	DNA processing protein DprA
+3222_contigs_01377	CDS	rnhB	3.1.26.4	Ribonuclease HII
+3222_contigs_01378	CDS	rbgA	Ribosome biogenesis GTPase A
+3222_contigs_01379	CDS	panE_1	1.1.1.169	2-dehydropantoate 2-reductase
+3222_contigs_01380	CDS	cynR_1	HTH-type transcriptional regulator CynR
+3222_contigs_01381	CDS	hypothetical protein
+3222_contigs_01382	CDS	pdhC_2	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+3222_contigs_01383	CDS	bfmBAB	1.2.4.4	2-oxoisovalerate dehydrogenase subunit beta
+3222_contigs_01384	CDS	bfmBAA	1.2.4.4	2-oxoisovalerate dehydrogenase subunit alpha
+3222_contigs_01385	CDS	lpdG	1.8.1.4	Dihydrolipoyl dehydrogenase
+3222_contigs_01386	CDS	buk2	2.7.2.7	Butyrate kinase 2
+3222_contigs_01387	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+3222_contigs_01388	CDS	hypothetical protein
+3222_contigs_01389	CDS	hypothetical protein
+3222_contigs_01390	CDS	hypothetical protein
+3222_contigs_01391	CDS	bdhA_1	1.1.1.30	D-beta-hydroxybutyrate dehydrogenase
+3222_contigs_01392	CDS	mhqR	HTH-type transcriptional regulator MhqR
+3222_contigs_01393	CDS	mhqA_2	1.13.11.-	Putative ring-cleaving dioxygenase MhqA
+3222_contigs_01394	CDS	mhqD_2	3.1.-.-	Putative hydrolase MhqD
+3222_contigs_01395	CDS	gph_2	3.1.3.18	Phosphoglycolate phosphatase
+3222_contigs_01396	CDS	hypothetical protein
+3222_contigs_01397	CDS	hypothetical protein
+3222_contigs_01398	CDS	hypothetical protein
+3222_contigs_01399	CDS	hypothetical protein
+3222_contigs_01400	CDS	hypothetical protein
+3222_contigs_01401	CDS	hypothetical protein
+3222_contigs_01402	CDS	pbp	Beta-lactam-inducible penicillin-binding protein
+3222_contigs_01403	CDS	tsaB	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+3222_contigs_01404	CDS	rimI_1	2.3.1.255	N-alpha-acetyltransferase RimI
+3222_contigs_01405	CDS	rimI_2	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+3222_contigs_01406	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+3222_contigs_01407	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+3222_contigs_01408	CDS	hypothetical protein
+3222_contigs_01409	CDS	hypothetical protein
+3222_contigs_01410	CDS	hypothetical protein
+3222_contigs_01411	CDS	eriC	Chloride/fluoride channel protein
+3222_contigs_01412	CDS	hypothetical protein
+3222_contigs_01413	CDS	suhB	3.1.3.11	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+3222_contigs_01414	CDS	typA	GTP-binding protein TypA/BipA 
+3222_contigs_01415	CDS	recQ_2	3.6.4.12	ATP-dependent DNA helicase RecQ
+3222_contigs_01416	CDS	hypothetical protein
+3222_contigs_01417	CDS	ftsW_1	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+3222_contigs_01418	CDS	cfiB	6.4.1.7	2-oxoglutarate carboxylase small subunit
+3222_contigs_01419	CDS	hypothetical protein
+3222_contigs_01420	CDS	hypothetical protein
+3222_contigs_01421	CDS	hypothetical protein
+3222_contigs_01422	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+3222_contigs_01423	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+3222_contigs_01424	CDS	lon	3.4.21.53	Lon protease
+3222_contigs_01425	CDS	comEA	ComE operon protein 1
+3222_contigs_01426	CDS	tadA_1	3.5.4.33	tRNA-specific adenosine deaminase
+3222_contigs_01427	CDS	comEC	ComE operon protein 3
+3222_contigs_01428	CDS	hypothetical protein
+3222_contigs_01429	CDS	panE_2	1.1.1.169	2-dehydropantoate 2-reductase
+3222_contigs_01430	CDS	3.1.2.-	putative acyl-CoA thioester hydrolase
+3222_contigs_01431	CDS	rpsT	30S ribosomal protein S20
+3222_contigs_01432	CDS	pitA	Low-affinity inorganic phosphate transporter 1
+3222_contigs_01433	CDS	hypothetical protein
+3222_contigs_01434	CDS	3.5.1.-	Carbohydrate deacetylase
+3222_contigs_01435	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+3222_contigs_01436	CDS	crr	2.7.1.199	PTS system glucose-specific EIIA component
+3222_contigs_01437	CDS	hypothetical protein
+3222_contigs_01438	CDS	murQ_2	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+3222_contigs_01439	CDS	PTS system EIIBC component
+3222_contigs_01440	CDS	ybbH_6	putative HTH-type transcriptional regulator YbbH
+3222_contigs_01441	CDS	gpmA_1	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+3222_contigs_01442	CDS	3.-.-.-	putative metallo-hydrolase
+3222_contigs_01443	CDS	guaD	3.5.4.3	Guanine deaminase
+3222_contigs_01444	CDS	pucK_1	Uric acid permease PucK
+3222_contigs_01445	CDS	guaC	1.7.1.7	GMP reductase
+3222_contigs_01446	CDS	hypothetical protein
+3222_contigs_01447	CDS	hypothetical protein
+3222_contigs_01448	CDS	norG	HTH-type transcriptional regulator NorG
+3222_contigs_01449	CDS	pgcA	5.4.2.2	Phosphoglucomutase
+3222_contigs_01450	CDS	proC_1	1.5.1.2	Pyrroline-5-carboxylate reductase
+3222_contigs_01451	CDS	czrA	HTH-type transcriptional repressor CzrA
+3222_contigs_01452	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+3222_contigs_01453	CDS	thrC	4.2.3.1	Threonine synthase
+3222_contigs_01454	CDS	thrB_1	2.7.1.39	Homoserine kinase
+3222_contigs_01455	CDS	yqfL_1	2.7.11.32	Putative pyruvate, phosphate dikinase regulatory protein
+3222_contigs_01456	CDS	zur	Zinc-specific metallo-regulatory protein
+3222_contigs_01457	CDS	rpsU	30S ribosomal protein S21
+3222_contigs_01458	CDS	hypothetical protein
+3222_contigs_01459	CDS	PhoH-like protein
+3222_contigs_01460	CDS	pgpH	3.1.4.-	Cyclic-di-AMP phosphodiesterase PgpH
+3222_contigs_01461	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+3222_contigs_01462	CDS	dgkA	2.7.1.66	Undecaprenol kinase
+3222_contigs_01463	CDS	era	GTPase Era
+3222_contigs_01464	CDS	recO	DNA repair protein RecO
+3222_contigs_01465	CDS	hypothetical protein
+3222_contigs_01466	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+3222_contigs_01467	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+3222_contigs_01468	CDS	hypothetical protein
+3222_contigs_01469	CDS	misCB	Membrane protein insertase MisCB
+3222_contigs_01470	CDS	acyP	3.6.1.7	Acylphosphatase
+3222_contigs_01471	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+3222_contigs_01472	CDS	yjaB_1	2.3.1.-	putative N-acetyltransferase YjaB
+3222_contigs_01473	CDS	rpsB	30S ribosomal protein S2
+3222_contigs_01474	CDS	tsf	Elongation factor Ts
+3222_contigs_01475	CDS	pyrH	2.7.4.22	Uridylate kinase
+3222_contigs_01476	CDS	frr	Ribosome-recycling factor
+3222_contigs_01477	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_01478	CDS	sufB_1	FeS cluster assembly protein SufB
+3222_contigs_01479	CDS	sufS_1	2.8.1.7	Cysteine desulfurase SufS
+3222_contigs_01480	CDS	iscU	Iron-sulfur cluster assembly scaffold protein IscU
+3222_contigs_01481	CDS	sufB_2	FeS cluster assembly protein SufB
+3222_contigs_01482	CDS	intQ	Putative defective protein IntQ
+3222_contigs_01483	CDS	hypothetical protein
+3222_contigs_01484	CDS	hypothetical protein
+3222_contigs_01485	CDS	hypothetical protein
+3222_contigs_01486	CDS	hypothetical protein
+3222_contigs_01487	CDS	arsD_1	Arsenical resistance operon trans-acting repressor ArsD
+3222_contigs_01488	CDS	arsA_1	3.6.3.16	Arsenical pump-driving ATPase
+3222_contigs_01489	CDS	sdpR	Transcriptional repressor SdpR
+3222_contigs_01490	CDS	arsD_2	Arsenical resistance operon trans-acting repressor ArsD
+3222_contigs_01491	CDS	arsR	Arsenical resistance operon repressor
+3222_contigs_01492	CDS	arsA_2	3.6.3.16	Arsenical pump-driving ATPase
+3222_contigs_01493	CDS	acr3_1	Arsenical-resistance protein Acr3
+3222_contigs_01494	CDS	acr3_2	Arsenical-resistance protein Acr3
+3222_contigs_01495	CDS	cdr_2	1.8.1.14	Coenzyme A disulfide reductase
+3222_contigs_01496	CDS	hypothetical protein
+3222_contigs_01497	CDS	drrA_2	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+3222_contigs_01498	CDS	yadH_2	Inner membrane transport permease YadH
+3222_contigs_01499	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+3222_contigs_01500	CDS	3.2.1.17	Muramidase-2
+3222_contigs_01501	CDS	hypothetical protein
+3222_contigs_01502	CDS	pncB2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+3222_contigs_01503	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+3222_contigs_01504	CDS	zosA_1	3.6.3.-	Zinc-transporting ATPase
+3222_contigs_01505	CDS	hypothetical protein
+3222_contigs_01506	CDS	hypothetical protein
+3222_contigs_01507	CDS	secG	putative protein-export membrane protein SecG
+3222_contigs_01508	CDS	est	3.1.1.1	Carboxylesterase
+3222_contigs_01509	CDS	rnr	3.1.13.1	Ribonuclease R
+3222_contigs_01510	CDS	smpB	SsrA-binding protein
+3222_contigs_01511	CDS	atpB	ATP synthase subunit a
+3222_contigs_01512	CDS	atpE_2	ATP synthase subunit c
+3222_contigs_01513	CDS	atpF	ATP synthase subunit b
+3222_contigs_01514	CDS	atpH	ATP synthase subunit delta
+3222_contigs_01515	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+3222_contigs_01516	CDS	atpG	ATP synthase gamma chain
+3222_contigs_01517	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+3222_contigs_01518	CDS	atpC	ATP synthase epsilon chain
+3222_contigs_01519	CDS	hypothetical protein
+3222_contigs_01520	CDS	murA1_2	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+3222_contigs_01521	CDS	hypothetical protein
+3222_contigs_01522	CDS	srlB_2	2.7.1.198	PTS system glucitol/sorbitol-specific EIIA component
+3222_contigs_01523	CDS	hypothetical protein
+3222_contigs_01524	CDS	azoR	1.7.-.-	FMN-dependent NADH-azoreductase
+3222_contigs_01525	CDS	hypothetical protein
+3222_contigs_01526	CDS	licT_2	Transcription antiterminator LicT
+3222_contigs_01527	CDS	bglF_4	PTS system beta-glucoside-specific EIIBCA component
+3222_contigs_01528	CDS	bglH_3	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+3222_contigs_01529	CDS	gmk_2	2.7.4.8	Guanylate kinase
+3222_contigs_01530	CDS	hypothetical protein
+3222_contigs_01531	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_01532	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_01533	CDS	catE_2	1.13.11.2	Catechol-2,3-dioxygenase
+3222_contigs_01534	CDS	pbpX_2	Putative penicillin-binding protein PbpX
+3222_contigs_01535	CDS	yvyI	5.3.1.8	Putative mannose-6-phosphate isomerase YvyI
+3222_contigs_01536	CDS	hypothetical protein
+3222_contigs_01537	CDS	rihA	3.2.-.-	Pyrimidine-specific ribonucleoside hydrolase RihA
+3222_contigs_01538	CDS	cobQ	Cobyric acid synthase
+3222_contigs_01539	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+3222_contigs_01540	CDS	dauR_1	Transcriptional regulator DauR
+3222_contigs_01541	CDS	3.5.4.32	8-oxoguanine deaminase
+3222_contigs_01542	CDS	sfrB	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit beta
+3222_contigs_01543	CDS	3.5.2.-	D-hydantoinase
+3222_contigs_01544	CDS	dpaL	4.3.1.15	Diaminopropionate ammonia-lyase
+3222_contigs_01545	CDS	lysK	3.5.1.-	N-acetyl-lysine deacetylase
+3222_contigs_01546	CDS	dapE_2	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+3222_contigs_01547	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+3222_contigs_01548	CDS	arcC1_2	2.7.2.2	Carbamate kinase 1
+3222_contigs_01549	CDS	yabJ_2	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+3222_contigs_01550	CDS	uacT	Uric acid transporter UacT
+3222_contigs_01551	CDS	mopA	Molybdenum-pterin-binding protein MopA
+3222_contigs_01552	CDS	pucA	1.17.1.4	putative xanthine dehydrogenase subunit A
+3222_contigs_01553	CDS	pucD	1.17.1.4	putative xanthine dehydrogenase subunit D
+3222_contigs_01554	CDS	pucB	Purine catabolism protein PucB
+3222_contigs_01555	CDS	sufS_2	2.8.1.7	Cysteine desulfurase SufS
+3222_contigs_01556	CDS	selD	2.7.9.3	Selenide, water dikinase
+3222_contigs_01557	CDS	hypothetical protein
+3222_contigs_01558	CDS	hypothetical protein
+3222_contigs_01559	CDS	hypothetical protein
+3222_contigs_01560	CDS	hypothetical protein
+3222_contigs_01561	CDS	Flavodoxin
+3222_contigs_01562	CDS	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+3222_contigs_01563	CDS	gltD	1.4.1.13	Glutamate synthase [NADPH] small chain
+3222_contigs_01564	CDS	por_2	1.2.7.1	Pyruvate synthase
+3222_contigs_01565	CDS	ntpJ_1	Potassium/sodium uptake protein NtpJ
+3222_contigs_01566	CDS	1.3.5.4	Fumarate reductase flavoprotein subunit
+3222_contigs_01567	CDS	tdk	2.7.1.21	Thymidine kinase
+3222_contigs_01568	CDS	prfA	Peptide chain release factor 1
+3222_contigs_01569	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+3222_contigs_01570	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+3222_contigs_01571	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+3222_contigs_01572	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+3222_contigs_01573	CDS	hypothetical protein
+3222_contigs_01574	CDS	hypothetical protein
+3222_contigs_01575	tRNA	tRNA-Thr(cgt)
+3222_contigs_01576	CDS	hypothetical protein
+3222_contigs_01577	CDS	ygaZ	Inner membrane protein YgaZ
+3222_contigs_01578	CDS	sutR	HTH-type transcriptional regulator SutR
+3222_contigs_01579	CDS	hypothetical protein
+3222_contigs_01580	CDS	hypothetical protein
+3222_contigs_01581	CDS	hypothetical protein
+3222_contigs_01582	CDS	hypothetical protein
+3222_contigs_01583	CDS	hypothetical protein
+3222_contigs_01584	CDS	hypothetical protein
+3222_contigs_01585	CDS	hypothetical protein
+3222_contigs_01586	CDS	rodA_1	2.4.1.129	Peptidoglycan glycosyltransferase RodA
+3222_contigs_01587	CDS	spxA_2	Regulatory protein Spx
+3222_contigs_01588	CDS	Glycine cleavage system H-like protein
+3222_contigs_01589	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+3222_contigs_01590	CDS	metP_2	Methionine import system permease protein MetP
+3222_contigs_01591	CDS	metQ_3	Methionine-binding lipoprotein MetQ
+3222_contigs_01592	CDS	uppS	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+3222_contigs_01593	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+3222_contigs_01594	CDS	hypothetical protein
+3222_contigs_01595	CDS	hypothetical protein
+3222_contigs_01596	CDS	hypothetical protein
+3222_contigs_01597	CDS	licT_3	Transcription antiterminator LicT
+3222_contigs_01598	CDS	bglF_5	PTS system beta-glucoside-specific EIIBCA component
+3222_contigs_01599	CDS	bglH_4	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+3222_contigs_01600	CDS	bglA_2	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglA
+3222_contigs_01601	CDS	gpmA_2	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+3222_contigs_01602	CDS	hypothetical protein
+3222_contigs_01603	CDS	hypothetical protein
+3222_contigs_01604	CDS	adaA_2	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+3222_contigs_01605	CDS	adaB	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase, inducible
+3222_contigs_01606	CDS	tag_2	3.2.2.20	DNA-3-methyladenine glycosylase 1
+3222_contigs_01607	CDS	hypothetical protein
+3222_contigs_01608	CDS	zitB	Zinc transporter ZitB
+3222_contigs_01609	CDS	hypothetical protein
+3222_contigs_01610	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+3222_contigs_01611	CDS	fabF_2	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+3222_contigs_01612	CDS	fabZ_2	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+3222_contigs_01613	CDS	hypothetical protein
+3222_contigs_01614	CDS	pyrDA	1.3.98.1	Dihydroorotate dehydrogenase A (fumarate)
+3222_contigs_01615	CDS	hypothetical protein
+3222_contigs_01616	CDS	efp	Elongation factor P
+3222_contigs_01617	CDS	hypothetical protein
+3222_contigs_01618	CDS	cysM	2.5.1.47	Cysteine synthase
+3222_contigs_01619	CDS	metC	4.4.1.8	Cystathionine beta-lyase
+3222_contigs_01620	CDS	bglA_3	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglA
+3222_contigs_01621	CDS	gmuC	PTS system oligo-beta-mannoside-specific EIIC component
+3222_contigs_01622	CDS	glvR_2	HTH-type transcriptional regulator GlvR
+3222_contigs_01623	CDS	folA_2	1.5.1.3	Dihydrofolate reductase
+3222_contigs_01624	CDS	ntpJ_2	Potassium/sodium uptake protein NtpJ
+3222_contigs_01625	CDS	napA	Na(+)/H(+) antiporter
+3222_contigs_01626	CDS	copY	Transcriptional repressor CopY
+3222_contigs_01627	CDS	copA	3.6.3.54	Copper-exporting P-type ATPase A
+3222_contigs_01628	CDS	hypothetical protein
+3222_contigs_01629	CDS	hypothetical protein
+3222_contigs_01630	CDS	ytrA	HTH-type transcriptional repressor YtrA
+3222_contigs_01631	CDS	pepC	3.4.22.40	Aminopeptidase C
+3222_contigs_01632	CDS	flr	Flavoredoxin
+3222_contigs_01633	CDS	mhqA_3	1.13.11.-	Putative ring-cleaving dioxygenase MhqA
+3222_contigs_01634	CDS	ykkC	Multidrug resistance protein YkkC
+3222_contigs_01635	CDS	ykkD	Multidrug resistance protein YkkD
+3222_contigs_01636	CDS	chiD	3.2.1.14	Chitinase D
+3222_contigs_01637	CDS	gbpA_2	GlcNAc-binding protein A
+3222_contigs_01638	CDS	hypothetical protein
+3222_contigs_01639	CDS	hypothetical protein
+3222_contigs_01640	CDS	hypothetical protein
+3222_contigs_01641	CDS	yclM	2.7.2.4	Aspartokinase 3
+3222_contigs_01642	CDS	yqaB	3.1.3.-	Fructose-1-phosphate phosphatase YqaB
+3222_contigs_01643	CDS	ezrA	Septation ring formation regulator EzrA
+3222_contigs_01644	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+3222_contigs_01645	CDS	srrA_1	Transcriptional regulatory protein SrrA
+3222_contigs_01646	CDS	walK_3	2.7.13.3	Sensor histidine kinase WalK
+3222_contigs_01647	CDS	hypothetical protein
+3222_contigs_01648	CDS	hypothetical protein
+3222_contigs_01649	CDS	hypothetical protein
+3222_contigs_01650	CDS	hypothetical protein
+3222_contigs_01651	CDS	atzC_1	3.5.4.42	N-isopropylammelide isopropyl amidohydrolase
+3222_contigs_01652	CDS	aes_2	3.1.1.-	Acetyl esterase
+3222_contigs_01653	CDS	pucR_3	Purine catabolism regulatory protein
+3222_contigs_01654	CDS	hypothetical protein
+3222_contigs_01655	CDS	hypothetical protein
+3222_contigs_01656	CDS	sauU_2	putative sulfoacetate transporter SauU
+3222_contigs_01657	CDS	ttuB	Putative tartrate transporter
+3222_contigs_01658	CDS	arcC1_3	2.7.2.2	Carbamate kinase 1
+3222_contigs_01659	CDS	gltP	Proton/glutamate-aspartate symporter
+3222_contigs_01660	CDS	allD	1.1.1.350	Ureidoglycolate dehydrogenase (NAD(+))
+3222_contigs_01661	CDS	hypothetical protein
+3222_contigs_01662	CDS	atzC_2	3.5.4.42	N-isopropylammelide isopropyl amidohydrolase
+3222_contigs_01663	CDS	hypothetical protein
+3222_contigs_01664	CDS	hypothetical protein
+3222_contigs_01665	CDS	hypothetical protein
+3222_contigs_01666	CDS	hypothetical protein
+3222_contigs_01667	CDS	hypothetical protein
+3222_contigs_01668	CDS	cwlO	3.4.-.-	Peptidoglycan DL-endopeptidase CwlO
+3222_contigs_01669	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+3222_contigs_01670	CDS	tqsA_2	AI-2 transport protein TqsA
+3222_contigs_01671	CDS	hypothetical protein
+3222_contigs_01672	CDS	hypothetical protein
+3222_contigs_01673	CDS	hypothetical protein
+3222_contigs_01674	CDS	pcp	3.4.19.3	Pyrrolidone-carboxylate peptidase
+3222_contigs_01675	CDS	nhaC_2	Na(+)/H(+) antiporter NhaC
+3222_contigs_01676	CDS	mgrA	HTH-type transcriptional regulator MgrA
+3222_contigs_01677	CDS	yodC_2	1.-.-.-	Putative NAD(P)H nitroreductase YodC
+3222_contigs_01678	CDS	yidA_2	3.1.3.23	Sugar phosphatase YidA
+3222_contigs_01679	CDS	mtlA_1	PTS system mannitol-specific EIICB component
+3222_contigs_01680	CDS	mtlR	Transcriptional regulator MtlR
+3222_contigs_01681	CDS	mtlF_1	2.7.1.197	Mannitol-specific phosphotransferase enzyme IIA component
+3222_contigs_01682	CDS	mtlA_2	PTS system mannitol-specific EIICB component
+3222_contigs_01683	CDS	mtlF_2	2.7.1.197	Mannitol-specific phosphotransferase enzyme IIA component
+3222_contigs_01684	CDS	mtlD	1.1.1.17	Mannitol-1-phosphate 5-dehydrogenase
+3222_contigs_01685	CDS	hypothetical protein
+3222_contigs_01686	CDS	spsB_2	3.4.21.89	Signal peptidase IB
+3222_contigs_01687	CDS	hypothetical protein
+3222_contigs_01688	CDS	iphP	3.1.3.48	Tyrosine-protein phosphatase
+3222_contigs_01689	CDS	hypothetical protein
+3222_contigs_01690	CDS	yueB	ESX secretion system protein YueB
+3222_contigs_01691	CDS	fieF	Ferrous-iron efflux pump FieF
+3222_contigs_01692	CDS	plaP	Low-affinity putrescine importer PlaP
+3222_contigs_01693	CDS	hypothetical protein
+3222_contigs_01694	CDS	opuCD	Glycine betaine/carnitine/choline transport system permease protein OpuCD
+3222_contigs_01695	CDS	opuCC_2	Glycine betaine/carnitine/choline-binding protein OpuCC
+3222_contigs_01696	CDS	opuCB	Carnitine transport permease protein OpuCB
+3222_contigs_01697	CDS	opuCA_2	3.6.3.32	Carnitine transport ATP-binding protein OpuCA
+3222_contigs_01698	CDS	mhqA_4	1.13.11.-	Putative ring-cleaving dioxygenase MhqA
+3222_contigs_01699	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+3222_contigs_01700	CDS	hypothetical protein
+3222_contigs_01701	CDS	3.6.3.8	Calcium-transporting ATPase 1
+3222_contigs_01702	CDS	kup	Low affinity potassium transport system protein kup
+3222_contigs_01703	CDS	hypothetical protein
+3222_contigs_01704	CDS	copB	3.6.3.54	Copper-exporting P-type ATPase B
+3222_contigs_01705	CDS	hypothetical protein
+3222_contigs_01706	CDS	ydhF	1.-.-.-	Oxidoreductase YdhF
+3222_contigs_01707	CDS	polA	2.7.7.7	DNA polymerase I
+3222_contigs_01708	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+3222_contigs_01709	CDS	coaE_1	2.7.1.24	Dephospho-CoA kinase
+3222_contigs_01710	CDS	nrdR	Transcriptional repressor NrdR
+3222_contigs_01711	CDS	dnaB	Replication initiation and membrane attachment protein
+3222_contigs_01712	CDS	dnaI	Primosomal protein DnaI
+3222_contigs_01713	CDS	hypothetical protein
+3222_contigs_01714	CDS	hypothetical protein
+3222_contigs_01715	CDS	hypothetical protein
+3222_contigs_01716	CDS	icaA	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+3222_contigs_01717	CDS	hypothetical protein
+3222_contigs_01718	CDS	hypothetical protein
+3222_contigs_01719	CDS	hypothetical protein
+3222_contigs_01720	CDS	2.6.1.1	Aspartate aminotransferase
+3222_contigs_01721	CDS	artM	Arginine transport ATP-binding protein ArtM
+3222_contigs_01722	CDS	yecS_1	L-cystine transport system permease protein YecS
+3222_contigs_01723	CDS	ybdH_2	1.1.-.-	putative oxidoreductase YbdH
+3222_contigs_01724	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+3222_contigs_01725	CDS	hypothetical protein
+3222_contigs_01726	CDS	comN	Post-transcriptional regulator ComN
+3222_contigs_01727	CDS	adhE_3	Aldehyde-alcohol dehydrogenase
+3222_contigs_01728	CDS	fni	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+3222_contigs_01729	CDS	2.7.4.2	Phosphomevalonate kinase
+3222_contigs_01730	CDS	thrB_2	2.7.1.39	Homoserine kinase
+3222_contigs_01731	CDS	galK_1	2.7.1.6	Galactokinase
+3222_contigs_01732	CDS	Pentapeptide repeat protein
+3222_contigs_01733	CDS	hypothetical protein
+3222_contigs_01734	CDS	dppE_6	Dipeptide-binding protein DppE
+3222_contigs_01735	CDS	hypothetical protein
+3222_contigs_01736	CDS	oppB	Oligopeptide transport system permease protein OppB
+3222_contigs_01737	CDS	dppC	Dipeptide transport system permease protein DppC
+3222_contigs_01738	CDS	oppD_2	Oligopeptide transport ATP-binding protein OppD
+3222_contigs_01739	CDS	oppF_2	Oligopeptide transport ATP-binding protein OppF
+3222_contigs_01740	CDS	hypothetical protein
+3222_contigs_01741	CDS	infC	Translation initiation factor IF-3
+3222_contigs_01742	CDS	rpmI	50S ribosomal protein L35
+3222_contigs_01743	CDS	rplT	50S ribosomal protein L20
+3222_contigs_01744	CDS	hypothetical protein
+3222_contigs_01745	CDS	hypothetical protein
+3222_contigs_01746	CDS	esaA	ESAT-6 secretion accessory factor EsaA
+3222_contigs_01747	CDS	esxA	ESAT-6 secretion system extracellular protein A
+3222_contigs_01748	CDS	hypothetical protein
+3222_contigs_01749	CDS	yvoA_2	HTH-type transcriptional repressor YvoA
+3222_contigs_01750	CDS	hadI	3.-.-.-	2-hydroxyisocaproyl-CoA dehydratase activator
+3222_contigs_01751	CDS	acrR	HTH-type transcriptional regulator AcrR
+3222_contigs_01752	CDS	hypothetical protein
+3222_contigs_01753	tRNA	tRNA-Gln(ttg)
+3222_contigs_01754	tRNA	tRNA-Tyr(gta)
+3222_contigs_01755	CDS	hypothetical protein
+3222_contigs_01756	CDS	yqiK	Inner membrane protein YqiK
+3222_contigs_01757	CDS	yuaF	putative membrane protein YuaF
+3222_contigs_01758	CDS	hypothetical protein
+3222_contigs_01759	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_01760	CDS	endA	3.1.30.-	DNA-entry nuclease
+3222_contigs_01761	CDS	hypothetical protein
+3222_contigs_01762	CDS	nagA_2	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+3222_contigs_01763	CDS	hypothetical protein
+3222_contigs_01764	CDS	hypothetical protein
+3222_contigs_01765	CDS	alaA	2.6.1.2	Glutamate-pyruvate aminotransferase AlaA
+3222_contigs_01766	tRNA	tRNA-Leu(gag)
+3222_contigs_01767	CDS	Protein SprT-like protein
+3222_contigs_01768	CDS	rpsA	30S ribosomal protein S1
+3222_contigs_01769	CDS	pphA	3.1.3.16	Serine/threonine-protein phosphatase 1
+3222_contigs_01770	CDS	hypothetical protein
+3222_contigs_01771	CDS	dnaJ	Chaperone protein DnaJ
+3222_contigs_01772	CDS	dnaK	Chaperone protein DnaK
+3222_contigs_01773	CDS	grpE	Protein GrpE
+3222_contigs_01774	CDS	hrcA	Heat-inducible transcription repressor HrcA
+3222_contigs_01775	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+3222_contigs_01776	CDS	mgtA_2	3.6.3.2	Magnesium-transporting ATPase, P-type 1
+3222_contigs_01777	CDS	cynR_2	HTH-type transcriptional regulator CynR
+3222_contigs_01778	CDS	cynR_3	HTH-type transcriptional regulator CynR
+3222_contigs_01779	CDS	rodA_2	2.4.1.129	Peptidoglycan glycosyltransferase RodA
+3222_contigs_01780	CDS	ftsW_2	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+3222_contigs_01781	CDS	hypothetical protein
+3222_contigs_01782	CDS	hypothetical protein
+3222_contigs_01783	CDS	hypothetical protein
+3222_contigs_01784	CDS	hypothetical protein
+3222_contigs_01785	CDS	ribF	Riboflavin biosynthesis protein RibF
+3222_contigs_01786	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+3222_contigs_01787	CDS	lytA	3.5.1.28	Autolysin
+3222_contigs_01788	CDS	hypothetical protein
+3222_contigs_01789	CDS	hypothetical protein
+3222_contigs_01790	CDS	hypothetical protein
+3222_contigs_01791	CDS	hypothetical protein
+3222_contigs_01792	CDS	hypothetical protein
+3222_contigs_01793	CDS	hypothetical protein
+3222_contigs_01794	CDS	hypothetical protein
+3222_contigs_01795	CDS	hypothetical protein
+3222_contigs_01796	CDS	hypothetical protein
+3222_contigs_01797	CDS	hypothetical protein
+3222_contigs_01798	CDS	hypothetical protein
+3222_contigs_01799	CDS	hypothetical protein
+3222_contigs_01800	CDS	hypothetical protein
+3222_contigs_01801	CDS	dnaC_2	DNA replication protein DnaC
+3222_contigs_01802	CDS	hypothetical protein
+3222_contigs_01803	CDS	hypothetical protein
+3222_contigs_01804	CDS	hypothetical protein
+3222_contigs_01805	CDS	hypothetical protein
+3222_contigs_01806	CDS	rbfA	Ribosome-binding factor A
+3222_contigs_01807	CDS	infB	Translation initiation factor IF-2
+3222_contigs_01808	CDS	rplGA	putative ribosomal protein YlxQ
+3222_contigs_01809	CDS	hypothetical protein
+3222_contigs_01810	CDS	nusA	Transcription termination/antitermination protein NusA
+3222_contigs_01811	CDS	rimP	Ribosome maturation factor RimP
+3222_contigs_01812	CDS	sdrE	Serine-aspartate repeat-containing protein E
+3222_contigs_01813	CDS	ctpE_2	3.6.3.-	putative cation-transporting ATPase E
+3222_contigs_01814	CDS	hypothetical protein
+3222_contigs_01815	CDS	hypothetical protein
+3222_contigs_01816	CDS	yteP_1	putative multiple-sugar transport system permease YteP
+3222_contigs_01817	CDS	sugB	Trehalose transport system permease protein SugB
+3222_contigs_01818	CDS	hypothetical protein
+3222_contigs_01819	CDS	hypothetical protein
+3222_contigs_01820	CDS	2.7.13.3	putative sensor-like histidine kinase
+3222_contigs_01821	CDS	putative response regulatory protein
+3222_contigs_01822	CDS	hypothetical protein
+3222_contigs_01823	CDS	hypothetical protein
+3222_contigs_01824	CDS	hypothetical protein
+3222_contigs_01825	CDS	hypothetical protein
+3222_contigs_01826	CDS	treB	PTS system trehalose-specific EIIBC component
+3222_contigs_01827	CDS	hypothetical protein
+3222_contigs_01828	CDS	hypothetical protein
+3222_contigs_01829	CDS	hypothetical protein
+3222_contigs_01830	CDS	hypothetical protein
+3222_contigs_01831	CDS	yddE	5.1.-.-	putative isomerase YddE
+3222_contigs_01832	CDS	lrp	Leucine-rich protein
+3222_contigs_01833	CDS	tadA_2	3.5.4.33	tRNA-specific adenosine deaminase
+3222_contigs_01834	CDS	pepS	3.4.11.-	Aminopeptidase PepS
+3222_contigs_01835	CDS	hypothetical protein
+3222_contigs_01836	CDS	crtK-2	Tryptophan-rich protein TspO
+3222_contigs_01837	CDS	Flavodoxin
+3222_contigs_01838	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+3222_contigs_01839	CDS	hypothetical protein
+3222_contigs_01840	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+3222_contigs_01841	CDS	wbbL	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+3222_contigs_01842	CDS	hypothetical protein
+3222_contigs_01843	CDS	epsE	2.4.-.-	Putative glycosyltransferase EpsE
+3222_contigs_01844	CDS	rmlA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase
+3222_contigs_01845	CDS	rfbC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+3222_contigs_01846	CDS	rmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+3222_contigs_01847	CDS	rmlD	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+3222_contigs_01848	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+3222_contigs_01849	CDS	hypothetical protein
+3222_contigs_01850	CDS	arnE	4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+3222_contigs_01851	CDS	tagG	Teichoic acid translocation permease protein TagG
+3222_contigs_01852	CDS	tagH	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+3222_contigs_01853	CDS	kfoC_1	Chondroitin synthase
+3222_contigs_01854	CDS	kfoC_2	Chondroitin synthase
+3222_contigs_01855	CDS	hypothetical protein
+3222_contigs_01856	CDS	hypothetical protein
+3222_contigs_01857	CDS	wecA	2.7.8.40	UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+3222_contigs_01858	CDS	wfgD	2.4.1.305	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+3222_contigs_01859	CDS	hypothetical protein
+3222_contigs_01860	CDS	hypothetical protein
+3222_contigs_01861	CDS	hypothetical protein
+3222_contigs_01862	CDS	uvrA_1	UvrABC system protein A
+3222_contigs_01863	CDS	hypothetical protein
+3222_contigs_01864	CDS	hypothetical protein
+3222_contigs_01865	CDS	3.1.1.10	Tropinesterase
+3222_contigs_01866	CDS	mprF_2	2.3.2.3	Phosphatidylglycerol lysyltransferase
+3222_contigs_01867	CDS	yqfL_2	2.7.11.32	Putative pyruvate, phosphate dikinase regulatory protein
+3222_contigs_01868	CDS	ccpN	Transcriptional repressor CcpN
+3222_contigs_01869	CDS	ppdK	2.7.9.1	Pyruvate, phosphate dikinase
+3222_contigs_01870	CDS	hypothetical protein
+3222_contigs_01871	tRNA	tRNA-Arg(cct)
+3222_contigs_01872	CDS	hypothetical protein
+3222_contigs_01873	CDS	hypothetical protein
+3222_contigs_01874	CDS	gmuD	3.2.1.86	6-phospho-beta-glucosidase GmuD
+3222_contigs_01875	CDS	licC_5	Lichenan permease IIC component
+3222_contigs_01876	CDS	licA_2	2.7.1.-	Lichenan-specific phosphotransferase enzyme IIA component
+3222_contigs_01877	CDS	celA_3	2.7.1.205	PTS system cellobiose-specific EIIB component
+3222_contigs_01878	CDS	hypothetical protein
+3222_contigs_01879	CDS	hypothetical protein
+3222_contigs_01880	CDS	hypothetical protein
+3222_contigs_01881	CDS	chbC	PTS system N,N'-diacetylchitobiose-specific EIIC component
+3222_contigs_01882	CDS	celA_4	2.7.1.205	PTS system cellobiose-specific EIIB component
+3222_contigs_01883	CDS	dgaR_5	Transcriptional regulatory protein DagR
+3222_contigs_01884	CDS	yfmL	3.6.4.13	putative ATP-dependent RNA helicase YfmL
+3222_contigs_01885	CDS	afr_1	1.1.1.292	1,5-anhydro-D-fructose reductase
+3222_contigs_01886	CDS	sfsA	Sugar fermentation stimulation protein A
+3222_contigs_01887	CDS	hypothetical protein
+3222_contigs_01888	CDS	ideR	Iron-dependent repressor IdeR
+3222_contigs_01889	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+3222_contigs_01890	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+3222_contigs_01891	CDS	divIVA	Cell division protein DivIVA
+3222_contigs_01892	CDS	hypothetical protein
+3222_contigs_01893	CDS	hypothetical protein
+3222_contigs_01894	CDS	sepF	Cell division protein SepF
+3222_contigs_01895	CDS	hypothetical protein
+3222_contigs_01896	CDS	ftsZ	Cell division protein FtsZ
+3222_contigs_01897	CDS	ftsA_2	Cell division protein FtsA
+3222_contigs_01898	CDS	divIB	Cell division protein DivIB
+3222_contigs_01899	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+3222_contigs_01900	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+3222_contigs_01901	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+3222_contigs_01902	CDS	pbpX_3	Penicillin-binding protein 2X
+3222_contigs_01903	CDS	ftsL	Cell division protein FtsL
+3222_contigs_01904	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+3222_contigs_01905	CDS	mraZ	Transcriptional regulator MraZ
+3222_contigs_01906	CDS	hypothetical protein
+3222_contigs_01907	CDS	corA	Cobalt/magnesium transport protein CorA
+3222_contigs_01908	CDS	gpmA_3	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+3222_contigs_01909	CDS	bdhA_2	1.1.1.-	NADH-dependent butanol dehydrogenase A
+3222_contigs_01910	CDS	feuC	Iron-uptake system permease protein FeuC
+3222_contigs_01911	CDS	feuB_2	Iron-uptake system permease protein FeuB
+3222_contigs_01912	CDS	yusV	putative siderophore transport system ATP-binding protein YusV
+3222_contigs_01913	CDS	fhuD	Iron(3+)-hydroxamate-binding protein FhuD
+3222_contigs_01914	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+3222_contigs_01915	CDS	punA	2.4.2.1	Purine nucleoside phosphorylase 1
+3222_contigs_01916	CDS	deoB	5.4.2.7	Phosphopentomutase
+3222_contigs_01917	CDS	hypothetical protein
+3222_contigs_01918	CDS	hypothetical protein
+3222_contigs_01919	CDS	hypothetical protein
+3222_contigs_01920	CDS	hypothetical protein
+3222_contigs_01921	CDS	hypothetical protein
+3222_contigs_01922	CDS	hypothetical protein
+3222_contigs_01923	CDS	hypothetical protein
+3222_contigs_01924	CDS	mglA	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+3222_contigs_01925	CDS	tmpC_1	Membrane lipoprotein TmpC
+3222_contigs_01926	CDS	tmpC_2	Membrane lipoprotein TmpC
+3222_contigs_01927	CDS	cdd	3.5.4.5	Cytidine deaminase
+3222_contigs_01928	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+3222_contigs_01929	CDS	pdp	2.4.2.2	Pyrimidine-nucleoside phosphorylase
+3222_contigs_01930	CDS	degA_1	HTH-type transcriptional regulator DegA
+3222_contigs_01931	CDS	add	3.5.4.4	Adenosine deaminase
+3222_contigs_01932	CDS	rlmG	2.1.1.174	Ribosomal RNA large subunit methyltransferase G
+3222_contigs_01933	CDS	tesA	3.1.1.1	Esterase TesA
+3222_contigs_01934	CDS	coaA	2.7.1.33	Pantothenate kinase
+3222_contigs_01935	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+3222_contigs_01936	CDS	hypothetical protein
+3222_contigs_01937	CDS	hypothetical protein
+3222_contigs_01938	CDS	hypothetical protein
+3222_contigs_01939	CDS	yabJ_3	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+3222_contigs_01940	CDS	3.2.1.96	Endo-beta-N-acetylglucosaminidase
+3222_contigs_01941	CDS	hypothetical protein
+3222_contigs_01942	CDS	Zinc-type alcohol dehydrogenase-like protein
+3222_contigs_01943	CDS	HTH-type transcriptional regulator
+3222_contigs_01944	CDS	hchA	4.2.1.130	Molecular chaperone Hsp31 and glyoxalase 3
+3222_contigs_01945	CDS	hypothetical protein
+3222_contigs_01946	CDS	ntcA	Global nitrogen regulator
+3222_contigs_01947	CDS	arcC1_4	2.7.2.2	Carbamate kinase 1
+3222_contigs_01948	CDS	arcB	2.1.3.3	Ornithine carbamoyltransferase, catabolic
+3222_contigs_01949	CDS	arcA	3.5.3.6	Arginine deiminase
+3222_contigs_01950	CDS	argR_2	Arginine repressor
+3222_contigs_01951	CDS	argR_3	Arginine repressor
+3222_contigs_01952	CDS	3.1.1.23	Monoacylglycerol lipase
+3222_contigs_01953	CDS	serS_2	6.1.1.11	Serine--tRNA ligase
+3222_contigs_01954	CDS	sdhA_2	4.3.1.17	L-serine dehydratase, alpha chain
+3222_contigs_01955	CDS	sdhB_2	4.3.1.17	L-serine dehydratase, beta chain
+3222_contigs_01956	CDS	hypothetical protein
+3222_contigs_01957	CDS	dauR_2	Transcriptional regulator DauR
+3222_contigs_01958	CDS	hypothetical protein
+3222_contigs_01959	CDS	focA	putative formate transporter 1
+3222_contigs_01960	CDS	hypothetical protein
+3222_contigs_01961	CDS	hypothetical protein
+3222_contigs_01962	CDS	hypothetical protein
+3222_contigs_01963	CDS	hypothetical protein
+3222_contigs_01964	CDS	adaA_3	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+3222_contigs_01965	CDS	proC_2	1.5.1.2	Pyrroline-5-carboxylate reductase
+3222_contigs_01966	CDS	mapP	3.1.3.90	Maltose 6'-phosphate phosphatase
+3222_contigs_01967	CDS	ptsG_2	2.7.1.199	PTS system glucose-specific EIICBA component
+3222_contigs_01968	CDS	malP	2.4.1.8	Maltose phosphorylase
+3222_contigs_01969	CDS	pgmB	5.4.2.6	Beta-phosphoglucomutase
+3222_contigs_01970	CDS	mro_1	5.1.3.3	Aldose 1-epimerase
+3222_contigs_01971	CDS	malR	HTH-type transcriptional regulator MalR
+3222_contigs_01972	CDS	hypothetical protein
+3222_contigs_01973	CDS	hypothetical protein
+3222_contigs_01974	CDS	mshD_2	2.3.1.189	Mycothiol acetyltransferase
+3222_contigs_01975	CDS	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+3222_contigs_01976	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+3222_contigs_01977	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+3222_contigs_01978	CDS	ywpJ	3.1.3.-	Phosphatase YwpJ
+3222_contigs_01979	CDS	hypothetical protein
+3222_contigs_01980	CDS	hypothetical protein
+3222_contigs_01981	CDS	yocH	Cell wall-binding protein YocH
+3222_contigs_01982	CDS	hypothetical protein
+3222_contigs_01983	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_01984	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_01985	CDS	folT	Folate transporter FolT
+3222_contigs_01986	CDS	mgsA	4.2.3.3	Methylglyoxal synthase
+3222_contigs_01987	CDS	sugC_1	3.6.3.-	Trehalose import ATP-binding protein SugC
+3222_contigs_01988	CDS	niaX	Niacin transporter NiaX
+3222_contigs_01989	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+3222_contigs_01990	CDS	rnmV	3.1.26.8	Ribonuclease M5
+3222_contigs_01991	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+3222_contigs_01992	CDS	helD	3.6.4.12	DNA helicase IV
+3222_contigs_01993	CDS	hypothetical protein
+3222_contigs_01994	CDS	hypothetical protein
+3222_contigs_01995	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+3222_contigs_01996	CDS	yhdG	putative amino acid permease YhdG
+3222_contigs_01997	CDS	glcU_1	putative glucose uptake protein GlcU
+3222_contigs_01998	CDS	graS	2.7.13.3	Sensor histidine kinase GraS
+3222_contigs_01999	CDS	graR	Response regulator protein GraR
+3222_contigs_02000	CDS	hypothetical protein
+3222_contigs_02001	CDS	hypothetical protein
+3222_contigs_02002	CDS	cysL_2	HTH-type transcriptional regulator CysL
+3222_contigs_02003	CDS	hypothetical protein
+3222_contigs_02004	CDS	bicA	Bicarbonate transporter BicA
+3222_contigs_02005	CDS	coaE_2	2.7.1.24	Dephospho-CoA kinase
+3222_contigs_02006	CDS	yjaB_2	2.3.1.-	putative N-acetyltransferase YjaB
+3222_contigs_02007	CDS	hypothetical protein
+3222_contigs_02008	CDS	rplS	50S ribosomal protein L19
+3222_contigs_02009	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+3222_contigs_02010	CDS	rimM	Ribosome maturation factor RimM
+3222_contigs_02011	CDS	mntH_1	Divalent metal cation transporter MntH
+3222_contigs_02012	CDS	hypothetical protein
+3222_contigs_02013	CDS	hypothetical protein
+3222_contigs_02014	CDS	hypothetical protein
+3222_contigs_02015	CDS	ybhL	Inner membrane protein YbhL
+3222_contigs_02016	CDS	phaJ	4.2.1.119	(R)-specific enoyl-CoA hydratase
+3222_contigs_02017	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+3222_contigs_02018	CDS	hypothetical protein
+3222_contigs_02019	CDS	hypothetical protein
+3222_contigs_02020	CDS	hypothetical protein
+3222_contigs_02021	CDS	bglK	2.7.1.85	Beta-glucoside kinase
+3222_contigs_02022	CDS	Putative membrane protein insertion efficiency factor
+3222_contigs_02023	CDS	hypothetical protein
+3222_contigs_02024	CDS	engB	putative GTP-binding protein EngB
+3222_contigs_02025	CDS	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+3222_contigs_02026	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+3222_contigs_02027	CDS	hypothetical protein
+3222_contigs_02028	CDS	dcuD	Putative cryptic C4-dicarboxylate transporter DcuD
+3222_contigs_02029	CDS	hypothetical protein
+3222_contigs_02030	CDS	rihC	3.2.-.-	Non-specific ribonucleoside hydrolase RihC
+3222_contigs_02031	CDS	rbsK/rbiA_1	Bifunctional ribokinase/ribose-5-phosphate isomerase A
+3222_contigs_02032	CDS	hypothetical protein
+3222_contigs_02033	CDS	hypothetical protein
+3222_contigs_02034	CDS	hypothetical protein
+3222_contigs_02035	CDS	glpF	Glycerol uptake facilitator protein
+3222_contigs_02036	CDS	glpO	1.1.3.21	Alpha-glycerophosphate oxidase
+3222_contigs_02037	CDS	glpK	2.7.1.30	Glycerol kinase
+3222_contigs_02038	CDS	hypothetical protein
+3222_contigs_02039	CDS	npr_2	1.11.1.1	NADH peroxidase
+3222_contigs_02040	CDS	hypothetical protein
+3222_contigs_02041	CDS	hypothetical protein
+3222_contigs_02042	CDS	hypothetical protein
+3222_contigs_02043	CDS	hypothetical protein
+3222_contigs_02044	CDS	hypothetical protein
+3222_contigs_02045	CDS	3.6.3.8	Calcium-transporting ATPase 1
+3222_contigs_02046	CDS	hypothetical protein
+3222_contigs_02047	CDS	yeiL	Regulatory protein YeiL
+3222_contigs_02048	CDS	hypothetical protein
+3222_contigs_02049	CDS	ydhC	Inner membrane transport protein YdhC
+3222_contigs_02050	CDS	hypothetical protein
+3222_contigs_02051	CDS	hypothetical protein
+3222_contigs_02052	CDS	hypothetical protein
+3222_contigs_02053	CDS	Pesticidal crystal protein Cry22Aa
+3222_contigs_02054	CDS	hypothetical protein
+3222_contigs_02055	CDS	hypothetical protein
+3222_contigs_02056	CDS	hypothetical protein
+3222_contigs_02057	CDS	hypothetical protein
+3222_contigs_02058	CDS	zosA_2	3.6.3.-	Zinc-transporting ATPase
+3222_contigs_02059	CDS	hypothetical protein
+3222_contigs_02060	CDS	glnQ_2	Glutamine transport ATP-binding protein GlnQ
+3222_contigs_02061	CDS	glnH	Glutamine-binding periplasmic protein
+3222_contigs_02062	CDS	uvrB	UvrABC system protein B
+3222_contigs_02063	CDS	uvrA_2	UvrABC system protein A
+3222_contigs_02064	CDS	hypothetical protein
+3222_contigs_02065	CDS	yvcJ	Nucleotide-binding protein YvcJ
+3222_contigs_02066	CDS	Putative gluconeogenesis factor
+3222_contigs_02067	CDS	whiA	Putative sporulation transcription regulator WhiA
+3222_contigs_02068	CDS	hypothetical protein
+3222_contigs_02069	CDS	hypothetical protein
+3222_contigs_02070	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+3222_contigs_02071	CDS	hypothetical protein
+3222_contigs_02072	CDS	hypothetical protein
+3222_contigs_02073	CDS	hypothetical protein
+3222_contigs_02074	CDS	hypothetical protein
+3222_contigs_02075	CDS	hypothetical protein
+3222_contigs_02076	CDS	glpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase
+3222_contigs_02077	CDS	hypothetical protein
+3222_contigs_02078	CDS	cspL	Cold shock protein 2
+3222_contigs_02079	CDS	hypothetical protein
+3222_contigs_02080	CDS	dam	2.1.1.72	DNA adenine methylase
+3222_contigs_02081	CDS	hypothetical protein
+3222_contigs_02082	CDS	hypothetical protein
+3222_contigs_02083	CDS	hypothetical protein
+3222_contigs_02084	CDS	hypothetical protein
+3222_contigs_02085	CDS	lepA	3.6.5.-	Elongation factor 4
+3222_contigs_02086	CDS	hypothetical protein
+3222_contigs_02087	CDS	hypothetical protein
+3222_contigs_02088	CDS	clpB	Chaperone protein ClpB
+3222_contigs_02089	CDS	catD	1.-.-.-	Putative oxidoreductase CatD
+3222_contigs_02090	CDS	hypothetical protein
+3222_contigs_02091	CDS	hypothetical protein
+3222_contigs_02092	CDS	hypothetical protein
+3222_contigs_02093	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+3222_contigs_02094	CDS	purK_2	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+3222_contigs_02095	CDS	hypothetical protein
+3222_contigs_02096	CDS	pucK_2	Uric acid permease PucK
+3222_contigs_02097	CDS	xpt	2.4.2.22	Xanthine phosphoribosyltransferase
+3222_contigs_02098	CDS	hypothetical protein
+3222_contigs_02099	CDS	lytG	3.2.1.-	Exo-glucosaminidase LytG
+3222_contigs_02100	CDS	hypothetical protein
+3222_contigs_02101	CDS	hypothetical protein
+3222_contigs_02102	CDS	afr_2	1.1.1.292	1,5-anhydro-D-fructose reductase
+3222_contigs_02103	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+3222_contigs_02104	CDS	2.6.1.1	Aspartate aminotransferase
+3222_contigs_02105	CDS	hypothetical protein
+3222_contigs_02106	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+3222_contigs_02107	CDS	hypothetical protein
+3222_contigs_02108	CDS	ycaM	Inner membrane transporter YcaM
+3222_contigs_02109	CDS	polC_2	2.7.7.7	DNA polymerase III PolC-type
+3222_contigs_02110	CDS	hypothetical protein
+3222_contigs_02111	CDS	rnhC	3.1.26.4	Ribonuclease HIII
+3222_contigs_02112	CDS	rlmI	2.1.1.191	Ribosomal RNA large subunit methyltransferase I
+3222_contigs_02113	CDS	ltaS1_2	Lipoteichoic acid synthase 1
+3222_contigs_02114	CDS	hypothetical protein
+3222_contigs_02115	CDS	hypothetical protein
+3222_contigs_02116	CDS	phoR_2	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+3222_contigs_02117	CDS	srrA_2	Transcriptional regulatory protein SrrA
+3222_contigs_02118	CDS	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+3222_contigs_02119	CDS	hypothetical protein
+3222_contigs_02120	CDS	hypothetical protein
+3222_contigs_02121	CDS	hypothetical protein
+3222_contigs_02122	CDS	thiQ	3.6.3.-	Thiamine import ATP-binding protein ThiQ
+3222_contigs_02123	CDS	lsrC	Autoinducer 2 import system permease protein LsrC
+3222_contigs_02124	CDS	hypothetical protein
+3222_contigs_02125	CDS	hypothetical protein
+3222_contigs_02126	CDS	hypothetical protein
+3222_contigs_02127	CDS	hypothetical protein
+3222_contigs_02128	CDS	hypothetical protein
+3222_contigs_02129	CDS	hypothetical protein
+3222_contigs_02130	CDS	hypothetical protein
+3222_contigs_02131	CDS	yhhX	1.-.-.-	putative oxidoreductase YhhX
+3222_contigs_02132	CDS	bglC_2	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglC
+3222_contigs_02133	CDS	gmuR	HTH-type transcriptional regulator GmuR
+3222_contigs_02134	CDS	hypothetical protein
+3222_contigs_02135	CDS	exuR	putative HTH-type transcriptional repressor ExuR
+3222_contigs_02136	CDS	2.4.1.333	1,2-beta-oligoglucan phosphorylase
+3222_contigs_02137	CDS	3.2.1.21	Beta-glucosidase BoGH3B
+3222_contigs_02138	CDS	hypothetical protein
+3222_contigs_02139	CDS	axeA	3.1.1.41	Cephalosporin-C deacetylase
+3222_contigs_02140	CDS	hypothetical protein
+3222_contigs_02141	CDS	lipO	Lipoprotein LipO
+3222_contigs_02142	CDS	araQ_1	L-arabinose transport system permease protein AraQ
+3222_contigs_02143	CDS	yteP_2	putative multiple-sugar transport system permease YteP
+3222_contigs_02144	CDS	cpdA_1	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+3222_contigs_02145	CDS	hypothetical protein
+3222_contigs_02146	CDS	hypothetical protein
+3222_contigs_02147	CDS	hin	DNA-invertase hin
+3222_contigs_02148	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+3222_contigs_02149	CDS	rpsL	30S ribosomal protein S12
+3222_contigs_02150	CDS	rpsG	30S ribosomal protein S7
+3222_contigs_02151	CDS	fus	Elongation factor G
+3222_contigs_02152	CDS	tuf	Elongation factor Tu
+3222_contigs_02153	CDS	pdxK_2	2.7.1.35	Pyridoxine kinase
+3222_contigs_02154	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+3222_contigs_02155	CDS	rpsJ	30S ribosomal protein S10
+3222_contigs_02156	CDS	rplC	50S ribosomal protein L3
+3222_contigs_02157	CDS	rplD	50S ribosomal protein L4
+3222_contigs_02158	CDS	rplW	50S ribosomal protein L23
+3222_contigs_02159	CDS	rplB	50S ribosomal protein L2
+3222_contigs_02160	CDS	rpsS	30S ribosomal protein S19
+3222_contigs_02161	CDS	rplV	50S ribosomal protein L22
+3222_contigs_02162	CDS	rpsC	30S ribosomal protein S3
+3222_contigs_02163	CDS	rplP	50S ribosomal protein L16
+3222_contigs_02164	CDS	rpmC	50S ribosomal protein L29
+3222_contigs_02165	CDS	rpsQ	30S ribosomal protein S17
+3222_contigs_02166	CDS	rplN	50S ribosomal protein L14
+3222_contigs_02167	CDS	rplX	50S ribosomal protein L24
+3222_contigs_02168	CDS	rplE	50S ribosomal protein L5
+3222_contigs_02169	CDS	rpsZ	30S ribosomal protein S14 type Z
+3222_contigs_02170	CDS	rpsH	30S ribosomal protein S8
+3222_contigs_02171	CDS	rplF	50S ribosomal protein L6
+3222_contigs_02172	CDS	hypothetical protein
+3222_contigs_02173	CDS	rplR	50S ribosomal protein L18
+3222_contigs_02174	CDS	rpsE	30S ribosomal protein S5
+3222_contigs_02175	CDS	rpmD	50S ribosomal protein L30
+3222_contigs_02176	CDS	rplO	50S ribosomal protein L15
+3222_contigs_02177	CDS	secY	Protein translocase subunit SecY
+3222_contigs_02178	CDS	adk	2.7.4.3	Adenylate kinase
+3222_contigs_02179	CDS	infA	Translation initiation factor IF-1
+3222_contigs_02180	CDS	rpmJ	50S ribosomal protein L36
+3222_contigs_02181	CDS	rpsM	30S ribosomal protein S13
+3222_contigs_02182	CDS	rpsK	30S ribosomal protein S11
+3222_contigs_02183	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+3222_contigs_02184	CDS	rplQ	50S ribosomal protein L17
+3222_contigs_02185	CDS	hypothetical protein
+3222_contigs_02186	CDS	hypothetical protein
+3222_contigs_02187	CDS	yxeP_2	3.-.-.-	putative hydrolase YxeP
+3222_contigs_02188	CDS	ecfA1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+3222_contigs_02189	CDS	ecfA2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+3222_contigs_02190	CDS	ecfT_2	Energy-coupling factor transporter transmembrane protein EcfT
+3222_contigs_02191	CDS	truA_2	5.4.99.12	tRNA pseudouridine synthase A
+3222_contigs_02192	CDS	hypothetical protein
+3222_contigs_02193	CDS	brnQ	Branched-chain amino acid transport system 2 carrier protein
+3222_contigs_02194	CDS	speG_2	2.3.1.57	Spermidine N(1)-acetyltransferase
+3222_contigs_02195	CDS	fas6	3.2.2.-	Cytokinin riboside 5'-monophosphate phosphoribohydrolase
+3222_contigs_02196	CDS	tcyC	3.6.3.-	L-cystine import ATP-binding protein TcyC
+3222_contigs_02197	CDS	glnP_2	Glutamine transport system permease protein GlnP
+3222_contigs_02198	CDS	ydjZ	TVP38/TMEM64 family inner membrane protein YdjZ
+3222_contigs_02199	CDS	hypothetical protein
+3222_contigs_02200	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+3222_contigs_02201	CDS	3.1.3.-	Phosphorylated carbohydrates phosphatase
+3222_contigs_02202	CDS	hypothetical protein
+3222_contigs_02203	CDS	cspLA_2	Cold shock-like protein CspLA
+3222_contigs_02204	CDS	rnj1	3.1.-.-	Ribonuclease J 1
+3222_contigs_02205	CDS	hypothetical protein
+3222_contigs_02206	CDS	ybaN	Inner membrane protein YbaN
+3222_contigs_02207	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_02208	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_02209	CDS	lacA	2.3.1.18	Galactoside O-acetyltransferase
+3222_contigs_02210	CDS	mnaA	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase
+3222_contigs_02211	CDS	3.1.3.5	5'-nucleotidase
+3222_contigs_02212	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+3222_contigs_02213	CDS	greA	Transcription elongation factor GreA
+3222_contigs_02214	CDS	hypothetical protein
+3222_contigs_02215	CDS	liaS	2.7.13.3	Sensor histidine kinase LiaS
+3222_contigs_02216	CDS	vraR	Response regulator protein VraR
+3222_contigs_02217	CDS	ktrA	Ktr system potassium uptake protein A
+3222_contigs_02218	CDS	hypothetical protein
+3222_contigs_02219	CDS	csbB	2.4.-.-	Putative glycosyltransferase CsbB
+3222_contigs_02220	CDS	sugC_2	3.6.3.-	Trehalose import ATP-binding protein SugC
+3222_contigs_02221	CDS	lacF	Lactose transport system permease protein LacF
+3222_contigs_02222	CDS	araQ_2	L-arabinose transport system permease protein AraQ
+3222_contigs_02223	CDS	rnj	3.1.-.-	Ribonuclease J
+3222_contigs_02224	CDS	ugpB	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+3222_contigs_02225	CDS	yfkN_3	Trifunctional nucleotide phosphoesterase protein YfkN
+3222_contigs_02226	CDS	ghrB	1.1.1.79	Glyoxylate/hydroxypyruvate reductase B
+3222_contigs_02227	CDS	yumC	1.18.1.2	Ferredoxin--NADP reductase 2
+3222_contigs_02228	CDS	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+3222_contigs_02229	CDS	hypothetical protein
+3222_contigs_02230	CDS	patB_2	4.4.1.8	Cystathionine beta-lyase PatB
+3222_contigs_02231	CDS	yugI_1	General stress protein 13
+3222_contigs_02232	CDS	hypothetical protein
+3222_contigs_02233	CDS	hypothetical protein
+3222_contigs_02234	CDS	hypothetical protein
+3222_contigs_02235	CDS	yhaH	Inner membrane protein YhaH
+3222_contigs_02236	CDS	hypothetical protein
+3222_contigs_02237	CDS	bltD	2.3.1.57	Spermine/spermidine acetyltransferase
+3222_contigs_02238	CDS	hypothetical protein
+3222_contigs_02239	CDS	Putative universal stress protein
+3222_contigs_02240	CDS	hypothetical protein
+3222_contigs_02241	CDS	hypothetical protein
+3222_contigs_02242	CDS	hypothetical protein
+3222_contigs_02243	CDS	dinB_2	2.7.7.7	DNA polymerase IV
+3222_contigs_02244	CDS	tetA	Tetracycline resistance protein, class B
+3222_contigs_02245	CDS	hypothetical protein
+3222_contigs_02246	CDS	ant1	2.7.7.47	Streptomycin 3''-adenylyltransferase
+3222_contigs_02247	CDS	hypothetical protein
+3222_contigs_02248	CDS	hypothetical protein
+3222_contigs_02249	CDS	hypothetical protein
+3222_contigs_02250	CDS	hypothetical protein
+3222_contigs_02251	CDS	lacR	HTH-type transcriptional regulator LacR
+3222_contigs_02252	CDS	galT_2	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+3222_contigs_02253	CDS	galE_2	5.1.3.2	UDP-glucose 4-epimerase
+3222_contigs_02254	CDS	galK_2	2.7.1.6	Galactokinase
+3222_contigs_02255	CDS	mro_2	5.1.3.3	Aldose 1-epimerase
+3222_contigs_02256	CDS	hypothetical protein
+3222_contigs_02257	CDS	maa_1	2.3.1.79	Maltose O-acetyltransferase
+3222_contigs_02258	CDS	hypothetical protein
+3222_contigs_02259	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+3222_contigs_02260	CDS	atzC_3	3.5.4.42	N-isopropylammelide isopropyl amidohydrolase
+3222_contigs_02261	CDS	atzC_4	3.5.4.42	N-isopropylammelide isopropyl amidohydrolase
+3222_contigs_02262	CDS	dppE_7	Dipeptide-binding protein DppE
+3222_contigs_02263	CDS	hypothetical protein
+3222_contigs_02264	CDS	pucR_4	Purine catabolism regulatory protein
+3222_contigs_02265	CDS	Putative universal stress protein
+3222_contigs_02266	CDS	mntH_2	Divalent metal cation transporter MntH
+3222_contigs_02267	CDS	tmrB	Tunicamycin resistance protein
+3222_contigs_02268	CDS	cmpB	Bicarbonate transport system permease protein CmpB
+3222_contigs_02269	CDS	ssuB	3.6.3.-	Aliphatic sulfonates import ATP-binding protein SsuB
+3222_contigs_02270	CDS	cmpC	3.6.3.-	Bicarbonate transport ATP-binding protein CmpC
+3222_contigs_02271	CDS	hypothetical protein
+3222_contigs_02272	tRNA	tRNA-Leu(caa)
+3222_contigs_02273	tRNA	tRNA-Cys(gca)
+3222_contigs_02274	tRNA	tRNA-Gln(ttg)
+3222_contigs_02275	tRNA	tRNA-His(gtg)
+3222_contigs_02276	tRNA	tRNA-Trp(cca)
+3222_contigs_02277	tRNA	tRNA-Tyr(gta)
+3222_contigs_02278	tRNA	tRNA-Phe(gaa)
+3222_contigs_02279	tRNA	tRNA-Asp(gtc)
+3222_contigs_02280	CDS	valS	6.1.1.9	Valine--tRNA ligase
+3222_contigs_02281	CDS	tpx	1.11.1.-	putative thiol peroxidase
+3222_contigs_02282	CDS	rex_2	Redox-sensing transcriptional repressor Rex
+3222_contigs_02283	CDS	thiI	2.8.1.4	putative tRNA sulfurtransferase
+3222_contigs_02284	CDS	pbuG	Guanine/hypoxanthine permease PbuG
+3222_contigs_02285	CDS	1.-.-.-	putative oxidoreductase
+3222_contigs_02286	CDS	2.3.1.-	Putative acetyltransferase
+3222_contigs_02287	CDS	cynR_4	HTH-type transcriptional regulator CynR
+3222_contigs_02288	CDS	glcU_2	putative glucose uptake protein GlcU
+3222_contigs_02289	CDS	rbsD	5.4.99.62	D-ribose pyranase
+3222_contigs_02290	CDS	rbsK/rbiA_2	Bifunctional ribokinase/ribose-5-phosphate isomerase A
+3222_contigs_02291	CDS	degA_2	HTH-type transcriptional regulator DegA
+3222_contigs_02292	CDS	mlhB	3.1.1.83	Monoterpene epsilon-lactone hydrolase
+3222_contigs_02293	CDS	ulaA_2	Ascorbate-specific PTS system EIIC component
+3222_contigs_02294	CDS	hypothetical protein
+3222_contigs_02295	CDS	ulaC	2.7.1.194	Ascorbate-specific PTS system EIIA component
+3222_contigs_02296	CDS	hypothetical protein
+3222_contigs_02297	CDS	hypothetical protein
+3222_contigs_02298	CDS	hypothetical protein
+3222_contigs_02299	CDS	hypothetical protein
+3222_contigs_02300	CDS	strB1	2.1.4.2	Inosamine-phosphate amidinotransferase 1
+3222_contigs_02301	CDS	phoB	3.1.3.1	Alkaline phosphatase 3
+3222_contigs_02302	CDS	mutS2_2	3.1.-.-	Endonuclease MutS2
+3222_contigs_02303	CDS	dgaF	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+3222_contigs_02304	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+3222_contigs_02305	CDS	dus_2	1.3.1.-	putative tRNA-dihydrouridine synthase
+3222_contigs_02306	CDS	hslO	33 kDa chaperonin
+3222_contigs_02307	CDS	hypothetical protein
+3222_contigs_02308	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+3222_contigs_02309	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+3222_contigs_02310	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+3222_contigs_02311	CDS	yugI_2	General stress protein 13
+3222_contigs_02312	CDS	hypothetical protein
+3222_contigs_02313	CDS	hypothetical protein
+3222_contigs_02314	CDS	murJ_2	Lipid II flippase MurJ
+3222_contigs_02315	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+3222_contigs_02316	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+3222_contigs_02317	CDS	ldh	1.1.1.27	L-lactate dehydrogenase
+3222_contigs_02318	CDS	aldA	1.2.1.3	Putative aldehyde dehydrogenase AldA
+3222_contigs_02319	CDS	N-acetylmuramoyl-L-alanine amidase domain-containing protein
+3222_contigs_02320	CDS	niaR	putative transcription repressor NiaR
+3222_contigs_02321	CDS	maa_2	2.3.1.79	Maltose O-acetyltransferase
+3222_contigs_02322	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+3222_contigs_02323	CDS	hypothetical protein
+3222_contigs_02324	CDS	hypothetical protein
+3222_contigs_02325	CDS	hypothetical protein
+3222_contigs_02326	CDS	hypothetical protein
+3222_contigs_02327	CDS	hypothetical protein
+3222_contigs_02328	CDS	hypothetical protein
+3222_contigs_02329	CDS	hrtA	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+3222_contigs_02330	CDS	putative ABC transporter permease
+3222_contigs_02331	CDS	tetC	Transposon Tn10 TetC protein
+3222_contigs_02332	CDS	hypothetical protein
+3222_contigs_02333	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_02334	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_02335	CDS	tetR_2	Tetracycline repressor protein class A from transposon 1721
+3222_contigs_02336	CDS	frmB	3.1.2.12	S-formylglutathione hydrolase FrmB
+3222_contigs_02337	CDS	bmr3	Multidrug resistance protein 3
+3222_contigs_02338	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+3222_contigs_02339	CDS	oatA	2.3.1.-	O-acetyltransferase OatA
+3222_contigs_02340	CDS	rpoN1	RNA polymerase sigma-54 factor 1
+3222_contigs_02341	tRNA	tRNA-Arg(ccg)
+3222_contigs_02342	CDS	xerC_2	Tyrosine recombinase XerC
+3222_contigs_02343	CDS	hypothetical protein
+3222_contigs_02344	CDS	hypothetical protein
+3222_contigs_02345	CDS	hypothetical protein
+3222_contigs_02346	CDS	hypothetical protein
+3222_contigs_02347	CDS	arlS	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+3222_contigs_02348	CDS	arlR	Response regulator ArlR
+3222_contigs_02349	CDS	gnd	1.1.1.44	6-phosphogluconate dehydrogenase, decarboxylating
+3222_contigs_02350	CDS	rpmF	50S ribosomal protein L32
+3222_contigs_02351	CDS	hypothetical protein
+3222_contigs_02352	CDS	pyk	2.7.1.40	Pyruvate kinase
+3222_contigs_02353	CDS	pfkA	2.7.1.11	ATP-dependent 6-phosphofructokinase
+3222_contigs_02354	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+3222_contigs_02355	CDS	hypothetical protein
+3222_contigs_02356	CDS	yjhB_2	Putative metabolite transport protein YjhB
+3222_contigs_02357	CDS	pbuO	Guanine/hypoxanthine permease PbuO
+3222_contigs_02358	CDS	hypothetical protein
+3222_contigs_02359	CDS	hypothetical protein
+3222_contigs_02360	CDS	yitU	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+3222_contigs_02361	CDS	hypothetical protein
+3222_contigs_02362	CDS	asD	2.6.1.1	Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+3222_contigs_02363	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+3222_contigs_02364	CDS	hypothetical protein
+3222_contigs_02365	CDS	hypothetical protein
+3222_contigs_02366	CDS	hypothetical protein
+3222_contigs_02367	CDS	ykoT	2.4.-.-	putative glycosyltransferase YkoT
+3222_contigs_02368	CDS	hypothetical protein
+3222_contigs_02369	CDS	hypothetical protein
+3222_contigs_02370	CDS	fliY	L-cystine-binding protein FliY
+3222_contigs_02371	CDS	glnQ_3	Glutamine transport ATP-binding protein GlnQ
+3222_contigs_02372	CDS	yecS_2	L-cystine transport system permease protein YecS
+3222_contigs_02373	CDS	dppE_8	Dipeptide-binding protein DppE
+3222_contigs_02374	CDS	hypothetical protein
+3222_contigs_02375	CDS	hypothetical protein
+3222_contigs_02376	CDS	rplY	50S ribosomal protein L25
+3222_contigs_02377	CDS	rsuA_2	5.4.99.19	Ribosomal small subunit pseudouridine synthase A
+3222_contigs_02378	CDS	yfnB_2	3.-.-.-	Putative HAD-hydrolase YfnB
+3222_contigs_02379	CDS	yvbK	2.3.1.-	putative N-acetyltransferase YvbK
+3222_contigs_02380	CDS	udk	2.7.1.48	Uridine kinase
+3222_contigs_02381	CDS	ndoA_1	3.1.27.-	Endoribonuclease EndoA
+3222_contigs_02382	CDS	afr_3	1.1.1.292	1,5-anhydro-D-fructose reductase
+3222_contigs_02383	CDS	licR_3	putative licABCH operon regulator
+3222_contigs_02384	CDS	hypothetical protein
+3222_contigs_02385	CDS	hypothetical protein
+3222_contigs_02386	CDS	hypothetical protein
+3222_contigs_02387	CDS	hypothetical protein
+3222_contigs_02388	CDS	hypothetical protein
+3222_contigs_02389	CDS	licC_6	Lichenan permease IIC component
+3222_contigs_02390	CDS	hypothetical protein
+3222_contigs_02391	CDS	hypothetical protein
+3222_contigs_02392	CDS	3.1.1.-	Deacetylase
+3222_contigs_02393	CDS	proS	6.1.1.15	Proline--tRNA ligase
+3222_contigs_02394	CDS	rasP	3.4.24.-	Regulator of sigma-W protease RasP
+3222_contigs_02395	CDS	hypothetical protein
+3222_contigs_02396	CDS	gdh_2	1.1.1.47	Glucose 1-dehydrogenase
+3222_contigs_02397	CDS	hypothetical protein
+3222_contigs_02398	CDS	hypothetical protein
+3222_contigs_02399	CDS	hypothetical protein
+3222_contigs_02400	CDS	hypothetical protein
+3222_contigs_02401	CDS	hypothetical protein
+3222_contigs_02402	CDS	hypothetical protein
+3222_contigs_02403	CDS	ftsK_2	DNA translocase FtsK
+3222_contigs_02404	CDS	hypothetical protein
+3222_contigs_02405	CDS	hypothetical protein
+3222_contigs_02406	CDS	bin3	Putative transposon Tn552 DNA-invertase bin3
+3222_contigs_02407	CDS	hypothetical protein
+3222_contigs_02408	CDS	hypothetical protein
+3222_contigs_02409	CDS	hypothetical protein
+3222_contigs_02410	CDS	clpC_2	putative ATP-dependent Clp protease ATP-binding subunit
+3222_contigs_02411	CDS	hypothetical protein
+3222_contigs_02412	CDS	hypothetical protein
+3222_contigs_02413	CDS	hypothetical protein
+3222_contigs_02414	CDS	hypothetical protein
+3222_contigs_02415	CDS	hypothetical protein
+3222_contigs_02416	CDS	hypothetical protein
+3222_contigs_02417	CDS	hypothetical protein
+3222_contigs_02418	CDS	hypothetical protein
+3222_contigs_02419	CDS	hypothetical protein
+3222_contigs_02420	CDS	hypothetical protein
+3222_contigs_02421	CDS	hypothetical protein
+3222_contigs_02422	CDS	hypothetical protein
+3222_contigs_02423	CDS	traC	2.7.7.-	DNA primase TraC
+3222_contigs_02424	CDS	yurK_2	putative HTH-type transcriptional regulator YurK
+3222_contigs_02425	CDS	3.2.1.180	Unsaturated chondroitin disaccharide hydrolase
+3222_contigs_02426	CDS	levE_2	2.7.1.202	PTS system fructose-specific EIIB component
+3222_contigs_02427	CDS	agaC_5	N-acetylgalactosamine permease IIC component 1
+3222_contigs_02428	CDS	manZ_9	PTS system mannose-specific EIID component
+3222_contigs_02429	CDS	hypothetical protein
+3222_contigs_02430	CDS	levD_2	2.7.1.202	PTS system fructose-specific EIIA component
+3222_contigs_02431	CDS	4.2.2.1	Hyaluronate lyase
+3222_contigs_02432	CDS	hypothetical protein
+3222_contigs_02433	CDS	hypothetical protein
+3222_contigs_02434	CDS	cna	Collagen adhesin
+3222_contigs_02435	CDS	hypothetical protein
+3222_contigs_02436	tmRNA	ssrA	transfer-messenger RNA, SsrA
+3222_contigs_02437	CDS	hypothetical protein
+3222_contigs_02438	CDS	hypothetical protein
+3222_contigs_02439	CDS	hypothetical protein
+3222_contigs_02440	CDS	hypothetical protein
+3222_contigs_02441	CDS	hypothetical protein
+3222_contigs_02442	CDS	hypothetical protein
+3222_contigs_02443	CDS	hypothetical protein
+3222_contigs_02444	CDS	hypothetical protein
+3222_contigs_02445	CDS	atxA	Anthrax toxin expression trans-acting positive regulator
+3222_contigs_02446	CDS	2.7.1.-	Putative lipid kinase
+3222_contigs_02447	CDS	hypothetical protein
+3222_contigs_02448	CDS	hypothetical protein
+3222_contigs_02449	CDS	hypothetical protein
+3222_contigs_02450	CDS	ndoA_2	3.1.27.-	Endoribonuclease EndoA
+3222_contigs_02451	CDS	alr	5.1.1.1	Alanine racemase
+3222_contigs_02452	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+3222_contigs_02453	CDS	hypothetical protein
+3222_contigs_02454	CDS	cshA	3.6.4.13	ATP-dependent RNA helicase CshA
+3222_contigs_02455	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+3222_contigs_02456	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+3222_contigs_02457	CDS	hypothetical protein
+3222_contigs_02458	CDS	gyrB_2	5.99.1.3	Type 2 topoisomerase subunit B
+3222_contigs_02459	CDS	iolC	2.7.1.92	5-dehydro-2-deoxygluconokinase
+3222_contigs_02460	CDS	ziaR	Transcriptional repressor SmtB 
+3222_contigs_02461	CDS	cadA_2	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+3222_contigs_02462	CDS	hypothetical protein
+3222_contigs_02463	CDS	hypothetical protein
+3222_contigs_02464	CDS	hypothetical protein
+3222_contigs_02465	CDS	hypothetical protein
+3222_contigs_02466	CDS	hypothetical protein
+3222_contigs_02467	CDS	hypothetical protein
+3222_contigs_02468	CDS	hypothetical protein
+3222_contigs_02469	CDS	hypothetical protein
+3222_contigs_02470	CDS	sorA_6	PTS system sorbose-specific EIIC component
+3222_contigs_02471	CDS	levE_3	2.7.1.202	PTS system fructose-specific EIIB component
+3222_contigs_02472	CDS	bga	3.2.1.23	Beta-galactosidase
+3222_contigs_02473	CDS	lacC_2	2.7.1.144	Tagatose-6-phosphate kinase
+3222_contigs_02474	CDS	lacD_2	4.1.2.40	Tagatose 1,6-diphosphate aldolase
+3222_contigs_02475	CDS	agaS	5.3.1.-	Putative tagatose-6-phosphate ketose/aldose isomerase
+3222_contigs_02476	CDS	yvoA_3	HTH-type transcriptional repressor YvoA
+3222_contigs_02477	CDS	gspA_1	General stress protein A
+3222_contigs_02478	CDS	gspA_2	General stress protein A
+3222_contigs_02479	CDS	hypothetical protein
+3222_contigs_02480	CDS	recN	DNA repair protein RecN
+3222_contigs_02481	CDS	argR_4	Arginine repressor
+3222_contigs_02482	CDS	tlyA	Hemolysin A
+3222_contigs_02483	CDS	2.5.1.10	Farnesyl diphosphate synthase
+3222_contigs_02484	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+3222_contigs_02485	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+3222_contigs_02486	CDS	folD	Bifunctional protein FolD protein
+3222_contigs_02487	CDS	nusB	N utilization substance protein B 
+3222_contigs_02488	CDS	Alkaline shock protein 23
+3222_contigs_02489	CDS	hypothetical protein
+3222_contigs_02490	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+3222_contigs_02491	CDS	cpdA_2	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+3222_contigs_02492	CDS	psiE	Protein PsiE
+3222_contigs_02493	CDS	hypothetical protein
+3222_contigs_02494	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+3222_contigs_02495	CDS	hypothetical protein
+3222_contigs_02496	CDS	hypothetical protein
+3222_contigs_02497	CDS	hypothetical protein
+3222_contigs_02498	CDS	tqsA_3	AI-2 transport protein TqsA
+3222_contigs_02499	CDS	3.2.1.97	Endo-alpha-N-acetylgalactosaminidase
+3222_contigs_02500	CDS	manX_5	2.7.1.191	PTS system mannose-specific EIIAB component
+3222_contigs_02501	CDS	manZ_10	PTS system mannose-specific EIID component
+3222_contigs_02502	CDS	hypothetical protein
+3222_contigs_02503	CDS	trpS2	6.1.1.2	Tryptophan--tRNA ligase 2
+3222_contigs_02504	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_02505	CDS	putative ABC transporter ATP-binding protein
+3222_contigs_02506	CDS	tipA	HTH-type transcriptional activator TipA
+3222_contigs_02507	CDS	hypothetical protein
+3222_contigs_02508	CDS	hypothetical protein
+3222_contigs_02509	CDS	hypothetical protein
+3222_contigs_02510	CDS	hypothetical protein
+3222_contigs_02511	CDS	banIM	2.1.1.37	Modification methylase BanI
+3222_contigs_02512	CDS	hpaIIM	2.1.1.37	Modification methylase HpaII
+3222_contigs_02513	CDS	ftsK_3	DNA translocase FtsK
+3222_contigs_02514	CDS	hypothetical protein
+3222_contigs_02515	CDS	hypothetical protein
+3222_contigs_02516	CDS	hypothetical protein
+3222_contigs_02517	CDS	hypothetical protein
+3222_contigs_02518	CDS	hypothetical protein
+3222_contigs_02519	CDS	hypothetical protein
+3222_contigs_02520	CDS	panE_3	1.1.1.169	2-dehydropantoate 2-reductase
+3222_contigs_02521	CDS	hypothetical protein
+3222_contigs_02522	CDS	hypothetical protein
+3222_contigs_02523	CDS	hypothetical protein
+3222_contigs_02524	CDS	hypothetical protein
+3222_contigs_02525	CDS	cbh_2	3.5.1.24	Choloylglycine hydrolase
+3222_contigs_02526	CDS	hypothetical protein
+3222_contigs_02527	CDS	hypothetical protein
+3222_contigs_02528	CDS	hypothetical protein
+3222_contigs_02529	CDS	hypothetical protein
+3222_contigs_02530	CDS	hypothetical protein
+3222_contigs_02531	CDS	hypothetical protein
+3222_contigs_02532	CDS	hypothetical protein
+3222_contigs_02533	CDS	hypothetical protein
+3222_contigs_02534	CDS	hypothetical protein
+3222_contigs_02535	CDS	hypothetical protein
+3222_contigs_02536	CDS	hypothetical protein
+3222_contigs_02537	CDS	trxB_2	1.8.1.9	Thioredoxin reductase
+3222_contigs_02538	CDS	hypothetical protein
+3222_contigs_02539	CDS	hypothetical protein
+3222_contigs_02540	CDS	yknY_3	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+3222_contigs_02541	CDS	slyA_3	Transcriptional regulator SlyA
+3222_contigs_02542	CDS	3.2.1.-	Autolysin
+3222_contigs_02543	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+3222_contigs_02544	CDS	hypothetical protein
+3222_contigs_02545	CDS	hypothetical protein
+3222_contigs_02546	CDS	dppE_9	Dipeptide-binding protein DppE
+3222_contigs_02547	CDS	hypothetical protein
+3222_contigs_02548	CDS	hypothetical protein
+3222_contigs_02549	CDS	soj_2	3.6.-.-	Sporulation initiation inhibitor protein Soj
+3222_contigs_02550	CDS	hypothetical protein
+3222_contigs_02551	CDS	hypothetical protein
+3222_contigs_02552	CDS	hypothetical protein
+3222_contigs_02553	CDS	exoA_2	3.1.11.2	Exodeoxyribonuclease
+3222_contigs_02554	CDS	hypothetical protein
+3222_contigs_02555	CDS	hypothetical protein
+3222_contigs_02556	CDS	hypothetical protein
+3222_contigs_02557	CDS	hypothetical protein
+3222_contigs_02558	CDS	bcr	Bicyclomycin resistance protein
+3222_contigs_02559	CDS	hypothetical protein
+3222_contigs_02560	CDS	hypothetical protein
+3222_contigs_02561	CDS	hypothetical protein
+3222_contigs_02562	CDS	hypothetical protein
+3222_contigs_02563	CDS	dinB_3	2.7.7.7	DNA polymerase IV
+3222_contigs_02564	CDS	hypothetical protein
+3222_contigs_02565	CDS	hypothetical protein
+3222_contigs_02566	CDS	hypothetical protein
+3222_contigs_02567	tRNA	tRNA-Arg(tct)
+3222_contigs_02568	CDS	rplU	50S ribosomal protein L21
+3222_contigs_02569	CDS	hypothetical protein
+3222_contigs_02570	CDS	rpmA	50S ribosomal protein L27
+3222_contigs_02571	CDS	hypothetical protein
+3222_contigs_02572	rRNA	23S ribosomal RNA
+3222_contigs_02573	rRNA	5S ribosomal RNA
+3222_contigs_02574	CDS	hypothetical protein
+3222_contigs_02575	CDS	mazF	3.1.27.-	Endoribonuclease MazF
+3222_contigs_02576	CDS	hypothetical protein
+3222_contigs_02577	CDS	tnpR	Transposon gamma-delta resolvase
+3222_contigs_02578	CDS	hypothetical protein
+3222_contigs_02579	CDS	azoB	1.7.-.-	NAD(P)H azoreductase
+3222_contigs_02580	CDS	qorB	1.6.5.2	Quinone oxidoreductase 2
+3222_contigs_02581	CDS	hypothetical protein
+3222_contigs_02582	CDS	hypothetical protein
+3222_contigs_02583	CDS	2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+3222_contigs_02584	rRNA	16S ribosomal RNA
+3222_contigs_02585	CDS	hypothetical protein
+3222_contigs_02586	CDS	hypothetical protein
+3222_contigs_02587	CDS	hypothetical protein
+3222_contigs_02588	CDS	hypothetical protein
+3222_contigs_02589	CDS	hypothetical protein
+3222_contigs_02590	CDS	hypothetical protein
+3222_contigs_02591	CDS	hypothetical protein
+3222_contigs_02592	CDS	hypothetical protein
+3222_contigs_02593	CDS	hypothetical protein
+3222_contigs_02594	CDS	dgaE	4.3.1.29	D-glucosaminate-6-phosphate ammonia lyase
+3222_contigs_02595	CDS	hypothetical protein
+3222_contigs_02596	CDS	hypothetical protein
+3222_contigs_02597	CDS	Zinc-type alcohol dehydrogenase-like protein
+3222_contigs_02598	CDS	hypothetical protein

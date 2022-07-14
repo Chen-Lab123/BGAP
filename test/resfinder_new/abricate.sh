@@ -1,0 +1,3 @@
+/datapool/software/anaconda3/bin/abricate /datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/3222_contigs.fas --db resfinder_new --minid=75 > ./resfinder_new/result/3222_contigs_resfinder_new.tab
+/datapool/software/anaconda3/bin/abricate /datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5202_contigs.fas --db resfinder_new --minid=75 > ./resfinder_new/result/5202_contigs_resfinder_new.tab
+/datapool/software/anaconda3/bin/abricate /datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas --db resfinder_new --minid=75 > ./resfinder_new/result/5403_contigs_resfinder_new.tab

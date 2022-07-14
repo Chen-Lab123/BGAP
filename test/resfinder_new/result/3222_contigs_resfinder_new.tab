@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/3222_contigs.fas	Contig1	99492	100988	lsa(A)_3	1-1497/1497	===============	0/0	100.00	97.86	resfinder	AY737526
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/3222_contigs.fas	Contig33	3381	5495	ClpL_1	1-2115/2115	===============	0/0	100.00	99.15	resfinder	CP023753
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/3222_contigs.fas	Contig8	77985	79904	tet(M)_1	1-1920/1920	===============	0/0	100.00	99.64	resfinder	X92947

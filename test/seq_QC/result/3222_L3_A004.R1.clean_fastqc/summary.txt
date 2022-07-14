@@ -1,0 +1,11 @@
+PASS	Basic Statistics	3222_L3_A004.R1.clean.fastq.gz
+PASS	Per base sequence quality	3222_L3_A004.R1.clean.fastq.gz
+PASS	Per tile sequence quality	3222_L3_A004.R1.clean.fastq.gz
+PASS	Per sequence quality scores	3222_L3_A004.R1.clean.fastq.gz
+WARN	Per base sequence content	3222_L3_A004.R1.clean.fastq.gz
+PASS	Per sequence GC content	3222_L3_A004.R1.clean.fastq.gz
+PASS	Per base N content	3222_L3_A004.R1.clean.fastq.gz
+PASS	Sequence Length Distribution	3222_L3_A004.R1.clean.fastq.gz
+WARN	Sequence Duplication Levels	3222_L3_A004.R1.clean.fastq.gz
+PASS	Overrepresented sequences	3222_L3_A004.R1.clean.fastq.gz
+PASS	Adapter Content	3222_L3_A004.R1.clean.fastq.gz

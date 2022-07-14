@@ -1,0 +1,5552 @@
+FT   variation       958
+FT                   /colour=4
+FT                   /gene=group_1218
+FT                   /taxa="5403_contigs"
+FT   variation       6
+FT                   /colour=4
+FT                   /gene=cadA_2
+FT                   /taxa="5202_contigs"
+FT   variation       1251
+FT                   /colour=4
+FT                   /gene=group_1174
+FT                   /taxa="5403_contigs"
+FT   variation       772
+FT                   /colour=4
+FT                   /gene=rpsN2_2
+FT                   /taxa="5403_contigs"
+FT   variation       1348
+FT                   /colour=10
+FT                   /gene=group_914
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       296
+FT                   /colour=4
+FT                   /gene=soj_2
+FT                   /taxa="3222_contigs"
+FT   variation       71
+FT                   /colour=4
+FT                   /gene=copB_1
+FT                   /taxa="5202_contigs"
+FT   variation       808
+FT                   /colour=4
+FT                   /gene=group_1589
+FT                   /taxa="5403_contigs"
+FT   variation       1236
+FT                   /colour=4
+FT                   /gene=group_820
+FT                   /taxa="5202_contigs"
+FT   variation       990
+FT                   /colour=4
+FT                   /gene=group_1357
+FT                   /taxa="5403_contigs"
+FT   variation       940
+FT                   /colour=4
+FT                   /gene=group_1193
+FT                   /taxa="5403_contigs"
+FT   variation       739
+FT                   /colour=4
+FT                   /gene=group_1445
+FT                   /taxa="5403_contigs"
+FT   variation       109
+FT                   /colour=4
+FT                   /gene=group_1481
+FT                   /taxa="5403_contigs"
+FT   variation       518
+FT                   /colour=10
+FT                   /gene=wfgD
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1242
+FT                   /colour=10
+FT                   /gene=group_468
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       279
+FT                   /colour=4
+FT                   /gene=group_627
+FT                   /taxa="3222_contigs"
+FT   variation       810
+FT                   /colour=4
+FT                   /gene=group_1591
+FT                   /taxa="5403_contigs"
+FT   variation       1001
+FT                   /colour=4
+FT                   /gene=group_1340
+FT                   /taxa="5403_contigs"
+FT   variation       693
+FT                   /colour=4
+FT                   /gene=group_1276
+FT                   /taxa="5403_contigs"
+FT   variation       280
+FT                   /colour=4
+FT                   /gene=group_628
+FT                   /taxa="3222_contigs"
+FT   variation       1320
+FT                   /colour=4
+FT                   /gene=group_1022
+FT                   /taxa="5202_contigs"
+FT   variation       839
+FT                   /colour=4
+FT                   /gene=group_1459
+FT                   /taxa="5403_contigs"
+FT   variation       882
+FT                   /colour=4
+FT                   /gene=group_1680
+FT                   /taxa="5403_contigs"
+FT   variation       225
+FT                   /colour=10
+FT                   /gene=group_291
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       89
+FT                   /colour=4
+FT                   /gene=group_1500
+FT                   /taxa="5403_contigs"
+FT   variation       20
+FT                   /colour=4
+FT                   /gene=inlJ
+FT                   /taxa="5403_contigs"
+FT   variation       262
+FT                   /colour=4
+FT                   /gene=group_3
+FT                   /taxa="3222_contigs"
+FT   variation       1286
+FT                   /colour=4
+FT                   /gene=acm
+FT                   /taxa="5202_contigs"
+FT   variation       786
+FT                   /colour=4
+FT                   /gene=group_1647
+FT                   /taxa="5403_contigs"
+FT   variation       440
+FT                   /colour=4
+FT                   /gene=group_654
+FT                   /taxa="3222_contigs"
+FT   variation       1370
+FT                   /colour=4
+FT                   /gene=group_907
+FT                   /taxa="5202_contigs"
+FT   variation       1169
+FT                   /colour=4
+FT                   /gene=group_1087
+FT                   /taxa="5403_contigs"
+FT   variation       654
+FT                   /colour=4
+FT                   /gene=group_1302
+FT                   /taxa="5403_contigs"
+FT   variation       477
+FT                   /colour=10
+FT                   /gene=group_143
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       986
+FT                   /colour=10
+FT                   /gene=group_413
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       317
+FT                   /colour=4
+FT                   /gene=tipA_2
+FT                   /taxa="5403_contigs"
+FT   variation       1176
+FT                   /colour=4
+FT                   /gene=group_828
+FT                   /taxa="5202_contigs"
+FT   variation       652
+FT                   /colour=4
+FT                   /gene=group_1300
+FT                   /taxa="5403_contigs"
+FT   variation       469
+FT                   /colour=10
+FT                   /gene=group_5
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       241
+FT                   /colour=10
+FT                   /gene=group_453
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       407
+FT                   /colour=4
+FT                   /gene=group_683
+FT                   /taxa="3222_contigs"
+FT   variation       1247
+FT                   /colour=4
+FT                   /gene=group_513
+FT                   /taxa="5403_contigs"
+FT   variation       396
+FT                   /colour=4
+FT                   /gene=group_1211
+FT                   /taxa="5403_contigs"
+FT   variation       1262
+FT                   /colour=4
+FT                   /gene=group_1182
+FT                   /taxa="5403_contigs"
+FT   variation       927
+FT                   /colour=4
+FT                   /gene=yjcD
+FT                   /taxa="5403_contigs"
+FT   variation       1322
+FT                   /colour=4
+FT                   /gene=group_1020
+FT                   /taxa="5202_contigs"
+FT   variation       904
+FT                   /colour=4
+FT                   /gene=group_1377
+FT                   /taxa="5403_contigs"
+FT   variation       381
+FT                   /colour=4
+FT                   /gene=group_1159
+FT                   /taxa="5403_contigs"
+FT   variation       24
+FT                   /colour=10
+FT                   /gene=ugpA
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       405
+FT                   /colour=4
+FT                   /gene=group_685
+FT                   /taxa="3222_contigs"
+FT   variation       794
+FT                   /colour=4
+FT                   /gene=group_1660
+FT                   /taxa="5403_contigs"
+FT   variation       5
+FT                   /colour=4
+FT                   /gene=copZ
+FT                   /taxa="5202_contigs"
+FT   variation       1315
+FT                   /colour=4
+FT                   /gene=group_1004
+FT                   /taxa="5202_contigs"
+FT   variation       1196
+FT                   /colour=4
+FT                   /gene=group_1696
+FT                   /taxa="5403_contigs"
+FT   variation       616
+FT                   /colour=4
+FT                   /gene=group_1138
+FT                   /taxa="5403_contigs"
+FT   variation       907
+FT                   /colour=4
+FT                   /gene=group_1358
+FT                   /taxa="5403_contigs"
+FT   variation       920
+FT                   /colour=4
+FT                   /gene=group_1404
+FT                   /taxa="5403_contigs"
+FT   variation       127
+FT                   /colour=10
+FT                   /gene=group_466
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1074
+FT                   /colour=4
+FT                   /gene=group_1372
+FT                   /taxa="5403_contigs"
+FT   variation       1095
+FT                   /colour=4
+FT                   /gene=lytA_1
+FT                   /taxa="5202_contigs"
+FT   variation       543
+FT                   /colour=4
+FT                   /gene=ykoT
+FT                   /taxa="3222_contigs"
+FT   variation       544
+FT                   /colour=4
+FT                   /gene=group_128
+FT                   /taxa="3222_contigs"
+FT   variation       294
+FT                   /colour=10
+FT                   /gene=group_734
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       295
+FT                   /colour=4
+FT                   /gene=group_737
+FT                   /taxa="3222_contigs"
+FT   variation       284
+FT                   /colour=4
+FT                   /gene=ribZ_3
+FT                   /taxa="5202_contigs"
+FT   variation       170
+FT                   /colour=4
+FT                   /gene=group_1575
+FT                   /taxa="5403_contigs"
+FT   variation       210
+FT                   /colour=4
+FT                   /gene=group_773
+FT                   /taxa="5202_contigs"
+FT   variation       529
+FT                   /colour=4
+FT                   /gene=cmpC
+FT                   /taxa="3222_contigs"
+FT   variation       399
+FT                   /colour=10
+FT                   /gene=group_722
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       492
+FT                   /colour=10
+FT                   /gene=group_760
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       303
+FT                   /colour=4
+FT                   /gene=group_212
+FT                   /taxa="5202_contigs"
+FT   variation       649
+FT                   /colour=4
+FT                   /gene=group_1297
+FT                   /taxa="5403_contigs"
+FT   variation       1105
+FT                   /colour=4
+FT                   /gene=group_974
+FT                   /taxa="5202_contigs"
+FT   variation       1203
+FT                   /colour=4
+FT                   /gene=group_1353
+FT                   /taxa="5403_contigs"
+FT   variation       1260
+FT                   /colour=4
+FT                   /gene=group_1184
+FT                   /taxa="5403_contigs"
+FT   variation       261
+FT                   /colour=4
+FT                   /gene=group_613
+FT                   /taxa="3222_contigs"
+FT   variation       1025
+FT                   /colour=4
+FT                   /gene=group_1089
+FT                   /taxa="5403_contigs"
+FT   variation       949
+FT                   /colour=4
+FT                   /gene=tarK
+FT                   /taxa="5403_contigs"
+FT   variation       1076
+FT                   /colour=4
+FT                   /gene=group_1371
+FT                   /taxa="5403_contigs"
+FT   variation       1339
+FT                   /colour=4
+FT                   /gene=group_909
+FT                   /taxa="5202_contigs"
+FT   variation       63
+FT                   /colour=4
+FT                   /gene=group_60
+FT                   /taxa="5202_contigs"
+FT   variation       1156
+FT                   /colour=10
+FT                   /gene=group_472
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       502
+FT                   /colour=4
+FT                   /gene=group_47
+FT                   /taxa="3222_contigs"
+FT   variation       490
+FT                   /colour=4
+FT                   /gene=group_620
+FT                   /taxa="3222_contigs"
+FT   variation       956
+FT                   /colour=4
+FT                   /gene=group_1216
+FT                   /taxa="5403_contigs"
+FT   variation       1364
+FT                   /colour=4
+FT                   /gene=group_833
+FT                   /taxa="5202_contigs"
+FT   variation       1046
+FT                   /colour=4
+FT                   /gene=group_1536
+FT                   /taxa="5403_contigs"
+FT   variation       169
+FT                   /colour=4
+FT                   /gene=group_216
+FT                   /taxa="5403_contigs"
+FT   variation       1278
+FT                   /colour=10
+FT                   /gene=group_494
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       845
+FT                   /colour=4
+FT                   /gene=group_1465
+FT                   /taxa="5403_contigs"
+FT   variation       147
+FT                   /colour=4
+FT                   /gene=group_1427
+FT                   /taxa="5403_contigs"
+FT   variation       641
+FT                   /colour=4
+FT                   /gene=group_1332
+FT                   /taxa="5403_contigs"
+FT   variation       678
+FT                   /colour=4
+FT                   /gene=group_1324
+FT                   /taxa="5403_contigs"
+FT   variation       1141
+FT                   /colour=10
+FT                   /gene=group_483
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1088
+FT                   /colour=4
+FT                   /gene=group_1641
+FT                   /taxa="5403_contigs"
+FT   variation       556
+FT                   /colour=4
+FT                   /gene=group_586
+FT                   /taxa="3222_contigs"
+FT   variation       897
+FT                   /colour=4
+FT                   /gene=group_1665
+FT                   /taxa="5403_contigs"
+FT   variation       343
+FT                   /colour=4
+FT                   /gene=group_706
+FT                   /taxa="3222_contigs"
+FT   variation       304
+FT                   /colour=4
+FT                   /gene=group_997
+FT                   /taxa="5202_contigs"
+FT   variation       1326
+FT                   /colour=10
+FT                   /gene=group_215
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1363
+FT                   /colour=4
+FT                   /gene=group_834
+FT                   /taxa="5202_contigs"
+FT   variation       75
+FT                   /colour=4
+FT                   /gene=group_894
+FT                   /taxa="5202_contigs"
+FT   variation       50
+FT                   /colour=4
+FT                   /gene=group_874
+FT                   /taxa="5202_contigs"
+FT   variation       190
+FT                   /colour=4
+FT                   /gene=clpC_2
+FT                   /taxa="3222_contigs"
+FT   variation       363
+FT                   /colour=4
+FT                   /gene=group_1346
+FT                   /taxa="5403_contigs"
+FT   variation       974
+FT                   /colour=4
+FT                   /gene=group_1197
+FT                   /taxa="5403_contigs"
+FT   variation       1172
+FT                   /colour=4
+FT                   /gene=group_1086
+FT                   /taxa="5403_contigs"
+FT   variation       503
+FT                   /colour=10
+FT                   /gene=group_48
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       595
+FT                   /colour=4
+FT                   /gene=group_1109
+FT                   /taxa="5403_contigs"
+FT   variation       308
+FT                   /colour=10
+FT                   /gene=group_659
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1173
+FT                   /colour=4
+FT                   /gene=group_499
+FT                   /taxa="5403_contigs"
+FT   variation       1285
+FT                   /colour=4
+FT                   /gene=group_837
+FT                   /taxa="5202_contigs"
+FT   variation       846
+FT                   /colour=4
+FT                   /gene=group_1466
+FT                   /taxa="5403_contigs"
+FT   variation       366
+FT                   /colour=10
+FT                   /gene=pimB
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1031
+FT                   /colour=4
+FT                   /gene=group_1551
+FT                   /taxa="5403_contigs"
+FT   variation       1359
+FT                   /colour=4
+FT                   /gene=group_923
+FT                   /taxa="5202_contigs"
+FT   variation       458
+FT                   /colour=4
+FT                   /gene=group_752
+FT                   /taxa="3222_contigs"
+FT   variation       42
+FT                   /colour=4
+FT                   /gene=group_866
+FT                   /taxa="5202_contigs"
+FT   variation       913
+FT                   /colour=4
+FT                   /gene=group_1361
+FT                   /taxa="5403_contigs"
+FT   variation       699
+FT                   /colour=4
+FT                   /gene=group_1282
+FT                   /taxa="5403_contigs"
+FT   variation       379
+FT                   /colour=4
+FT                   /gene=group_757
+FT                   /taxa="3222_contigs"
+FT   variation       803
+FT                   /colour=4
+FT                   /gene=group_1584
+FT                   /taxa="5403_contigs"
+FT   variation       1021
+FT                   /colour=10
+FT                   /gene=Int-Tn_1
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1062
+FT                   /colour=4
+FT                   /gene=xerC_5
+FT                   /taxa="5403_contigs"
+FT   variation       856
+FT                   /colour=4
+FT                   /gene=group_1078
+FT                   /taxa="5403_contigs"
+FT   variation       131
+FT                   /colour=4
+FT                   /gene=group_525
+FT                   /taxa="5403_contigs"
+FT   variation       233
+FT                   /colour=4
+FT                   /gene=group_1407
+FT                   /taxa="5403_contigs"
+FT   variation       966
+FT                   /colour=4
+FT                   /gene=natA_4
+FT                   /taxa="5403_contigs"
+FT   variation       62
+FT                   /colour=4
+FT                   /gene=group_58
+FT                   /taxa="5202_contigs"
+FT   variation       1332
+FT                   /colour=4
+FT                   /gene=group_931
+FT                   /taxa="5202_contigs"
+FT   variation       1045
+FT                   /colour=4
+FT                   /gene=group_1537
+FT                   /taxa="5403_contigs"
+FT   variation       1376
+FT                   /colour=10
+FT                   /gene=group_16
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       952
+FT                   /colour=4
+FT                   /gene=group_1069
+FT                   /taxa="5403_contigs"
+FT   variation       175
+FT                   /colour=4
+FT                   /gene=group_1570
+FT                   /taxa="5403_contigs"
+FT   variation       1038
+FT                   /colour=4
+FT                   /gene=group_1544
+FT                   /taxa="5403_contigs"
+FT   variation       1159
+FT                   /colour=4
+FT                   /gene=group_1518
+FT                   /taxa="5403_contigs"
+FT   variation       1067
+FT                   /colour=4
+FT                   /gene=group_943
+FT                   /taxa="5202_contigs"
+FT   variation       1155
+FT                   /colour=4
+FT                   /gene=group_1516
+FT                   /taxa="5403_contigs"
+FT   variation       912
+FT                   /colour=4
+FT                   /gene=group_1362
+FT                   /taxa="5403_contigs"
+FT   variation       1259
+FT                   /colour=4
+FT                   /gene=group_1185
+FT                   /taxa="5403_contigs"
+FT   variation       145
+FT                   /colour=4
+FT                   /gene=group_1425
+FT                   /taxa="5403_contigs"
+FT   variation       286
+FT                   /colour=4
+FT                   /gene=group_1033
+FT                   /taxa="5202_contigs"
+FT   variation       841
+FT                   /colour=4
+FT                   /gene=sorD
+FT                   /taxa="5403_contigs"
+FT   variation       211
+FT                   /colour=4
+FT                   /gene=group_772
+FT                   /taxa="5202_contigs"
+FT   variation       511
+FT                   /colour=4
+FT                   /gene=group_1253
+FT                   /taxa="5403_contigs"
+FT   variation       252
+FT                   /colour=4
+FT                   /gene=group_935
+FT                   /taxa="5202_contigs"
+FT   variation       539
+FT                   /colour=4
+FT                   /gene=group_569
+FT                   /taxa="3222_contigs"
+FT   variation       562
+FT                   /colour=4
+FT                   /gene=group_543
+FT                   /taxa="3222_contigs"
+FT   variation       707
+FT                   /colour=4
+FT                   /gene=group_1290
+FT                   /taxa="5403_contigs"
+FT   variation       998
+FT                   /colour=4
+FT                   /gene=group_1355
+FT                   /taxa="5403_contigs"
+FT   variation       535
+FT                   /colour=4
+FT                   /gene=group_120
+FT                   /taxa="3222_contigs"
+FT   variation       157
+FT                   /colour=4
+FT                   /gene=araC
+FT                   /taxa="5403_contigs"
+FT   variation       45
+FT                   /colour=4
+FT                   /gene=group_869
+FT                   /taxa="5202_contigs"
+FT   variation       1226
+FT                   /colour=4
+FT                   /gene=group_810
+FT                   /taxa="5202_contigs"
+FT   variation       1111
+FT                   /colour=4
+FT                   /gene=group_968
+FT                   /taxa="5202_contigs"
+FT   variation       1325
+FT                   /colour=10
+FT                   /gene=group_213
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       938
+FT                   /colour=4
+FT                   /gene=Int-Tn_4
+FT                   /taxa="5403_contigs"
+FT   variation       1235
+FT                   /colour=4
+FT                   /gene=hhaIM_1
+FT                   /taxa="5202_contigs"
+FT   variation       1160
+FT                   /colour=4
+FT                   /gene=group_500
+FT                   /taxa="5403_contigs"
+FT   variation       341
+FT                   /colour=4
+FT                   /gene=group_708
+FT                   /taxa="3222_contigs"
+FT   variation       1110
+FT                   /colour=4
+FT                   /gene=clpP1
+FT                   /taxa="5202_contigs"
+FT   variation       1089
+FT                   /colour=4
+FT                   /gene=group_1642
+FT                   /taxa="5403_contigs"
+FT   variation       819
+FT                   /colour=4
+FT                   /gene=group_529
+FT                   /taxa="5403_contigs"
+FT   variation       870
+FT                   /colour=4
+FT                   /gene=group_1398
+FT                   /taxa="5403_contigs"
+FT   variation       356
+FT                   /colour=10
+FT                   /gene=group_591
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1342
+FT                   /colour=4
+FT                   /gene=yddE_2
+FT                   /taxa="5202_contigs"
+FT   variation       1071
+FT                   /colour=4
+FT                   /gene=group_950
+FT                   /taxa="5202_contigs"
+FT   variation       1265
+FT                   /colour=4
+FT                   /gene=group_1179
+FT                   /taxa="5403_contigs"
+FT   variation       142
+FT                   /colour=4
+FT                   /gene=group_1422
+FT                   /taxa="5403_contigs"
+FT   variation       869
+FT                   /colour=4
+FT                   /gene=dctP
+FT                   /taxa="5403_contigs"
+FT   variation       454
+FT                   /colour=10
+FT                   /gene=group_50
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       117
+FT                   /colour=10
+FT                   /gene=pgdA_1
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       540
+FT                   /colour=4
+FT                   /gene=group_140
+FT                   /taxa="3222_contigs"
+FT   variation       996
+FT                   /colour=4
+FT                   /gene=group_1343
+FT                   /taxa="5403_contigs"
+FT   variation       580
+FT                   /colour=4
+FT                   /gene=group_1095
+FT                   /taxa="5403_contigs"
+FT   variation       1241
+FT                   /colour=4
+FT                   /gene=group_1694
+FT                   /taxa="5403_contigs"
+FT   variation       578
+FT                   /colour=4
+FT                   /gene=group_1093
+FT                   /taxa="5403_contigs"
+FT   variation       548
+FT                   /colour=4
+FT                   /gene=group_574
+FT                   /taxa="3222_contigs"
+FT   variation       807
+FT                   /colour=4
+FT                   /gene=group_1588
+FT                   /taxa="5403_contigs"
+FT   variation       291
+FT                   /colour=4
+FT                   /gene=group_1037
+FT                   /taxa="5202_contigs"
+FT   variation       22
+FT                   /colour=10
+FT                   /gene=group_846
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       504
+FT                   /colour=10
+FT                   /gene=exuT
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       531
+FT                   /colour=10
+FT                   /gene=group_1018
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       514
+FT                   /colour=4
+FT                   /gene=group_540
+FT                   /taxa="3222_contigs"
+FT   variation       579
+FT                   /colour=4
+FT                   /gene=lyc
+FT                   /taxa="5403_contigs"
+FT   variation       1008
+FT                   /colour=4
+FT                   /gene=group_76
+FT                   /taxa="5403_contigs"
+FT   variation       187
+FT                   /colour=4
+FT                   /gene=group_689
+FT                   /taxa="3222_contigs"
+FT   variation       133
+FT                   /colour=4
+FT                   /gene=group_1414
+FT                   /taxa="5403_contigs"
+FT   variation       337
+FT                   /colour=4
+FT                   /gene=group_714
+FT                   /taxa="3222_contigs"
+FT   variation       1310
+FT                   /colour=4
+FT                   /gene=group_1008
+FT                   /taxa="5202_contigs"
+FT   variation       1306
+FT                   /colour=10
+FT                   /gene=natA_2
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       292
+FT                   /colour=4
+FT                   /gene=group_1036
+FT                   /taxa="5202_contigs"
+FT   variation       559
+FT                   /colour=4
+FT                   /gene=group_43
+FT                   /taxa="3222_contigs"
+FT   variation       593
+FT                   /colour=4
+FT                   /gene=group_1107
+FT                   /taxa="5403_contigs"
+FT   variation       255
+FT                   /colour=10
+FT                   /gene=group_331
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       607
+FT                   /colour=4
+FT                   /gene=group_1147
+FT                   /taxa="5403_contigs"
+FT   variation       124
+FT                   /colour=4
+FT                   /gene=gseA
+FT                   /taxa="5403_contigs"
+FT   variation       1149
+FT                   /colour=4
+FT                   /gene=group_1513
+FT                   /taxa="5403_contigs"
+FT   variation       815
+FT                   /colour=4
+FT                   /gene=group_1596
+FT                   /taxa="5403_contigs"
+FT   variation       471
+FT                   /colour=4
+FT                   /gene=group_562
+FT                   /taxa="3222_contigs"
+FT   variation       733
+FT                   /colour=4
+FT                   /gene=group_1451
+FT                   /taxa="5403_contigs"
+FT   variation       1294
+FT                   /colour=4
+FT                   /gene=aadK_4
+FT                   /taxa="5403_contigs"
+FT   variation       16
+FT                   /colour=10
+FT                   /gene=group_20
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       307
+FT                   /colour=4
+FT                   /gene=group_994
+FT                   /taxa="5202_contigs"
+FT   variation       1256
+FT                   /colour=4
+FT                   /gene=group_1188
+FT                   /taxa="5403_contigs"
+FT   variation       313
+FT                   /colour=10
+FT                   /gene=group_595
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       722
+FT                   /colour=4
+FT                   /gene=group_1440
+FT                   /taxa="5403_contigs"
+FT   variation       156
+FT                   /colour=4
+FT                   /gene=bca
+FT                   /taxa="5403_contigs"
+FT   variation       967
+FT                   /colour=4
+FT                   /gene=group_1157
+FT                   /taxa="5403_contigs"
+FT   variation       44
+FT                   /colour=4
+FT                   /gene=group_868
+FT                   /taxa="5202_contigs"
+FT   variation       1377
+FT                   /colour=4
+FT                   /gene=group_988
+FT                   /taxa="5202_contigs"
+FT   variation       853
+FT                   /colour=4
+FT                   /gene=group_1075
+FT                   /taxa="5403_contigs"
+FT   variation       428
+FT                   /colour=4
+FT                   /gene=group_643
+FT                   /taxa="3222_contigs"
+FT   variation       1082
+FT                   /colour=4
+FT                   /gene=group_1635
+FT                   /taxa="5403_contigs"
+FT   variation       1035
+FT                   /colour=4
+FT                   /gene=group_1547
+FT                   /taxa="5403_contigs"
+FT   variation       919
+FT                   /colour=4
+FT                   /gene=group_1405
+FT                   /taxa="5403_contigs"
+FT   variation       617
+FT                   /colour=4
+FT                   /gene=group_1137
+FT                   /taxa="5403_contigs"
+FT   variation       1292
+FT                   /colour=4
+FT                   /gene=tarD
+FT                   /taxa="5202_contigs"
+FT   variation       30
+FT                   /colour=10
+FT                   /gene=group_854
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       930
+FT                   /colour=4
+FT                   /gene=yhdJ
+FT                   /taxa="5403_contigs"
+FT   variation       734
+FT                   /colour=4
+FT                   /gene=group_1450
+FT                   /taxa="5403_contigs"
+FT   variation       163
+FT                   /colour=4
+FT                   /gene=manX_6
+FT                   /taxa="5403_contigs"
+FT   variation       369
+FT                   /colour=10
+FT                   /gene=rfbB
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       345
+FT                   /colour=4
+FT                   /gene=group_704
+FT                   /taxa="3222_contigs"
+FT   variation       1302
+FT                   /colour=10
+FT                   /gene=degA_1
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       876
+FT                   /colour=4
+FT                   /gene=group_520
+FT                   /taxa="5403_contigs"
+FT   variation       138
+FT                   /colour=4
+FT                   /gene=group_1418
+FT                   /taxa="5403_contigs"
+FT   variation       470
+FT                   /colour=4
+FT                   /gene=group_563
+FT                   /taxa="3222_contigs"
+FT   variation       433
+FT                   /colour=4
+FT                   /gene=group_674
+FT                   /taxa="3222_contigs"
+FT   variation       1346
+FT                   /colour=10
+FT                   /gene=group_990
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       416
+FT                   /colour=4
+FT                   /gene=yurK_1
+FT                   /taxa="3222_contigs"
+FT   variation       302
+FT                   /colour=4
+FT                   /gene=group_998
+FT                   /taxa="5202_contigs"
+FT   variation       766
+FT                   /colour=4
+FT                   /gene=zinT
+FT                   /taxa="5403_contigs"
+FT   variation       277
+FT                   /colour=4
+FT                   /gene=group_625
+FT                   /taxa="3222_contigs"
+FT   variation       1132
+FT                   /colour=4
+FT                   /gene=group_954
+FT                   /taxa="5202_contigs"
+FT   variation       164
+FT                   /colour=4
+FT                   /gene=manZ_10
+FT                   /taxa="5403_contigs"
+FT   variation       852
+FT                   /colour=4
+FT                   /gene=lptB
+FT                   /taxa="5403_contigs"
+FT   variation       103
+FT                   /colour=4
+FT                   /gene=panD
+FT                   /taxa="5403_contigs"
+FT   variation       701
+FT                   /colour=4
+FT                   /gene=group_1284
+FT                   /taxa="5403_contigs"
+FT   variation       1135
+FT                   /colour=4
+FT                   /gene=group_510
+FT                   /taxa="5403_contigs"
+FT   variation       206
+FT                   /colour=4
+FT                   /gene=group_776
+FT                   /taxa="5202_contigs"
+FT   variation       171
+FT                   /colour=4
+FT                   /gene=group_1574
+FT                   /taxa="5403_contigs"
+FT   variation       1163
+FT                   /colour=4
+FT                   /gene=group_1520
+FT                   /taxa="5403_contigs"
+FT   variation       412
+FT                   /colour=4
+FT                   /gene=group_727
+FT                   /taxa="3222_contigs"
+FT   variation       344
+FT                   /colour=4
+FT                   /gene=levD_2
+FT                   /taxa="3222_contigs"
+FT   variation       1100
+FT                   /colour=4
+FT                   /gene=group_979
+FT                   /taxa="5202_contigs"
+FT   variation       658
+FT                   /colour=4
+FT                   /gene=group_1306
+FT                   /taxa="5403_contigs"
+FT   variation       231
+FT                   /colour=10
+FT                   /gene=group_112
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       353
+FT                   /colour=10
+FT                   /gene=Int-Tn
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       847
+FT                   /colour=4
+FT                   /gene=group_1082
+FT                   /taxa="5403_contigs"
+FT   variation       1201
+FT                   /colour=10
+FT                   /gene=csp
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       636
+FT                   /colour=4
+FT                   /gene=dpnA
+FT                   /taxa="5403_contigs"
+FT   variation       251
+FT                   /colour=4
+FT                   /gene=group_4
+FT                   /taxa="5202_contigs"
+FT   variation       525
+FT                   /colour=4
+FT                   /gene=group_606
+FT                   /taxa="3222_contigs"
+FT   variation       1057
+FT                   /colour=4
+FT                   /gene=group_504
+FT                   /taxa="5403_contigs"
+FT   variation       1301
+FT                   /colour=4
+FT                   /gene=aadK_3
+FT                   /taxa="5403_contigs"
+FT   variation       339
+FT                   /colour=4
+FT                   /gene=group_716
+FT                   /taxa="3222_contigs"
+FT   variation       1244
+FT                   /colour=4
+FT                   /gene=group_822
+FT                   /taxa="5202_contigs"
+FT   variation       281
+FT                   /colour=4
+FT                   /gene=arsD_1
+FT                   /taxa="3222_contigs"
+FT   variation       842
+FT                   /colour=4
+FT                   /gene=manZ_8
+FT                   /taxa="5403_contigs"
+FT   variation       1208
+FT                   /colour=4
+FT                   /gene=group_519
+FT                   /taxa="5403_contigs"
+FT   variation       423
+FT                   /colour=4
+FT                   /gene=licC_3
+FT                   /taxa="3222_contigs"
+FT   variation       460
+FT                   /colour=4
+FT                   /gene=azoB
+FT                   /taxa="3222_contigs"
+FT   variation       600
+FT                   /colour=4
+FT                   /gene=group_1114
+FT                   /taxa="5403_contigs"
+FT   variation       978
+FT                   /colour=4
+FT                   /gene=mazF_2
+FT                   /taxa="5403_contigs"
+FT   variation       1254
+FT                   /colour=10
+FT                   /gene=group_164
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1234
+FT                   /colour=4
+FT                   /gene=group_818
+FT                   /taxa="5202_contigs"
+FT   variation       615
+FT                   /colour=4
+FT                   /gene=group_1139
+FT                   /taxa="5403_contigs"
+FT   variation       322
+FT                   /colour=4
+FT                   /gene=yydJ
+FT                   /taxa="5403_contigs"
+FT   variation       560
+FT                   /colour=4
+FT                   /gene=group_6
+FT                   /taxa="3222_contigs"
+FT   variation       935
+FT                   /colour=4
+FT                   /gene=group_1209
+FT                   /taxa="5403_contigs"
+FT   variation       120
+FT                   /colour=10
+FT                   /gene=ltaS2
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       748
+FT                   /colour=4
+FT                   /gene=gatB_1
+FT                   /taxa="5403_contigs"
+FT   variation       1187
+FT                   /colour=4
+FT                   /gene=group_523
+FT                   /taxa="5403_contigs"
+FT   variation       647
+FT                   /colour=4
+FT                   /gene=group_1326
+FT                   /taxa="5403_contigs"
+FT   variation       15
+FT                   /colour=10
+FT                   /gene=group_474
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       198
+FT                   /colour=10
+FT                   /gene=esaA
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1312
+FT                   /colour=4
+FT                   /gene=mftC
+FT                   /taxa="5202_contigs"
+FT   variation       812
+FT                   /colour=4
+FT                   /gene=group_1593
+FT                   /taxa="5403_contigs"
+FT   variation       530
+FT                   /colour=4
+FT                   /gene=group_609
+FT                   /taxa="3222_contigs"
+FT   variation       375
+FT                   /colour=10
+FT                   /gene=group_433
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       745
+FT                   /colour=4
+FT                   /gene=fabG_1
+FT                   /taxa="5403_contigs"
+FT   variation       703
+FT                   /colour=4
+FT                   /gene=group_1286
+FT                   /taxa="5403_contigs"
+FT   variation       1177
+FT                   /colour=4
+FT                   /gene=group_827
+FT                   /taxa="5202_contigs"
+FT   variation       403
+FT                   /colour=4
+FT                   /gene=group_687
+FT                   /taxa="3222_contigs"
+FT   variation       408
+FT                   /colour=4
+FT                   /gene=group_682
+FT                   /taxa="3222_contigs"
+FT   variation       360
+FT                   /colour=10
+FT                   /gene=group_906
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       521
+FT                   /colour=10
+FT                   /gene=group_608
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       976
+FT                   /colour=4
+FT                   /gene=group_1084
+FT                   /taxa="5403_contigs"
+FT   variation       888
+FT                   /colour=4
+FT                   /gene=group_1674
+FT                   /taxa="5403_contigs"
+FT   variation       1303
+FT                   /colour=10
+FT                   /gene=scrB
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1180
+FT                   /colour=4
+FT                   /gene=group_824
+FT                   /taxa="5202_contigs"
+FT   variation       782
+FT                   /colour=4
+FT                   /gene=ykoD_3
+FT                   /taxa="5403_contigs"
+FT   variation       999
+FT                   /colour=4
+FT                   /gene=group_1153
+FT                   /taxa="5403_contigs"
+FT   variation       950
+FT                   /colour=4
+FT                   /gene=tagA
+FT                   /taxa="5403_contigs"
+FT   variation       1205
+FT                   /colour=4
+FT                   /gene=group_1352
+FT                   /taxa="5403_contigs"
+FT   variation       414
+FT                   /colour=4
+FT                   /gene=group_725
+FT                   /taxa="3222_contigs"
+FT   variation       588
+FT                   /colour=4
+FT                   /gene=group_1102
+FT                   /taxa="5403_contigs"
+FT   variation       729
+FT                   /colour=4
+FT                   /gene=group_516
+FT                   /taxa="5403_contigs"
+FT   variation       813
+FT                   /colour=4
+FT                   /gene=group_1594
+FT                   /taxa="5403_contigs"
+FT   variation       106
+FT                   /colour=4
+FT                   /gene=group_527
+FT                   /taxa="5403_contigs"
+FT   variation       329
+FT                   /colour=10
+FT                   /gene=manP_3
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1318
+FT                   /colour=10
+FT                   /gene=group_937
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       849
+FT                   /colour=4
+FT                   /gene=moeZ
+FT                   /taxa="5403_contigs"
+FT   variation       871
+FT                   /colour=4
+FT                   /gene=group_1397
+FT                   /taxa="5403_contigs"
+FT   variation       900
+FT                   /colour=4
+FT                   /gene=group_30
+FT                   /taxa="5403_contigs"
+FT   variation       1128
+FT                   /colour=4
+FT                   /gene=group_1370
+FT                   /taxa="5403_contigs"
+FT   variation       445
+FT                   /colour=4
+FT                   /gene=group_1196
+FT                   /taxa="5403_contigs"
+FT   variation       1137
+FT                   /colour=4
+FT                   /gene=group_1510
+FT                   /taxa="5403_contigs"
+FT   variation       610
+FT                   /colour=4
+FT                   /gene=group_1144
+FT                   /taxa="5403_contigs"
+FT   variation       1204
+FT                   /colour=4
+FT                   /gene=group_506
+FT                   /taxa="5403_contigs"
+FT   variation       788
+FT                   /colour=4
+FT                   /gene=group_1649
+FT                   /taxa="5403_contigs"
+FT   variation       90
+FT                   /colour=4
+FT                   /gene=dsbE
+FT                   /taxa="5403_contigs"
+FT   variation       1336
+FT                   /colour=4
+FT                   /gene=yknY_4
+FT                   /taxa="5403_contigs"
+FT   variation       1157
+FT                   /colour=4
+FT                   /gene=group_832
+FT                   /taxa="5202_contigs"
+FT   variation       538
+FT                   /colour=4
+FT                   /gene=group_559
+FT                   /taxa="3222_contigs"
+FT   variation       674
+FT                   /colour=4
+FT                   /gene=levS_2
+FT                   /taxa="5403_contigs"
+FT   variation       1287
+FT                   /colour=4
+FT                   /gene=group_844
+FT                   /taxa="5202_contigs"
+FT   variation       627
+FT                   /colour=4
+FT                   /gene=group_1128
+FT                   /taxa="5403_contigs"
+FT   variation       419
+FT                   /colour=4
+FT                   /gene=group_553
+FT                   /taxa="3222_contigs"
+FT   variation       1267
+FT                   /colour=4
+FT                   /gene=group_1177
+FT                   /taxa="5403_contigs"
+FT   variation       1373
+FT                   /colour=4
+FT                   /gene=group_916
+FT                   /taxa="5202_contigs"
+FT   variation       1054
+FT                   /colour=4
+FT                   /gene=cwlA
+FT                   /taxa="5403_contigs"
+FT   variation       993
+FT                   /colour=4
+FT                   /gene=group_46
+FT                   /taxa="5403_contigs"
+FT   variation       533
+FT                   /colour=4
+FT                   /gene=group_668
+FT                   /taxa="3222_contigs"
+FT   variation       797
+FT                   /colour=4
+FT                   /gene=sstT_2
+FT                   /taxa="5403_contigs"
+FT   variation       1121
+FT                   /colour=4
+FT                   /gene=group_958
+FT                   /taxa="5202_contigs"
+FT   variation       564
+FT                   /colour=10
+FT                   /gene=gbpA_1
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1019
+FT                   /colour=4
+FT                   /gene=group_1380
+FT                   /taxa="5403_contigs"
+FT   variation       316
+FT                   /colour=10
+FT                   /gene=group_597
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       799
+FT                   /colour=4
+FT                   /gene=ulaB_2
+FT                   /taxa="5403_contigs"
+FT   variation       195
+FT                   /colour=10
+FT                   /gene=group_432
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       630
+FT                   /colour=4
+FT                   /gene=group_1126
+FT                   /taxa="5403_contigs"
+FT   variation       1094
+FT                   /colour=4
+FT                   /gene=group_985
+FT                   /taxa="5202_contigs"
+FT   variation       474
+FT                   /colour=4
+FT                   /gene=group_536
+FT                   /taxa="3222_contigs"
+FT   variation       1058
+FT                   /colour=4
+FT                   /gene=group_1525
+FT                   /taxa="5403_contigs"
+FT   variation       100
+FT                   /colour=4
+FT                   /gene=group_1489
+FT                   /taxa="5403_contigs"
+FT   variation       918
+FT                   /colour=4
+FT                   /gene=group_1406
+FT                   /taxa="5403_contigs"
+FT   variation       221
+FT                   /colour=4
+FT                   /gene=group_109
+FT                   /taxa="5202_contigs"
+FT   variation       1136
+FT                   /colour=10
+FT                   /gene=group_209
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       816
+FT                   /colour=4
+FT                   /gene=group_1597
+FT                   /taxa="5403_contigs"
+FT   variation       817
+FT                   /colour=4
+FT                   /gene=group_1598
+FT                   /taxa="5403_contigs"
+FT   variation       814
+FT                   /colour=4
+FT                   /gene=group_1595
+FT                   /taxa="5403_contigs"
+FT   variation       244
+FT                   /colour=4
+FT                   /gene=group_1045
+FT                   /taxa="5202_contigs"
+FT   variation       1331
+FT                   /colour=4
+FT                   /gene=group_934
+FT                   /taxa="5202_contigs"
+FT   variation       761
+FT                   /colour=4
+FT                   /gene=gatC_3
+FT                   /taxa="5403_contigs"
+FT   variation       113
+FT                   /colour=4
+FT                   /gene=bga_2
+FT                   /taxa="5403_contigs"
+FT   variation       377
+FT                   /colour=4
+FT                   /gene=group_55
+FT                   /taxa="3222_contigs"
+FT   variation       555
+FT                   /colour=10
+FT                   /gene=group_564
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       894
+FT                   /colour=4
+FT                   /gene=group_1668
+FT                   /taxa="5403_contigs"
+FT   variation       550
+FT                   /colour=10
+FT                   /gene=group_270
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       290
+FT                   /colour=4
+FT                   /gene=group_1038
+FT                   /taxa="5202_contigs"
+FT   variation       587
+FT                   /colour=4
+FT                   /gene=group_1101
+FT                   /taxa="5403_contigs"
+FT   variation       1174
+FT                   /colour=4
+FT                   /gene=group_501
+FT                   /taxa="5403_contigs"
+FT   variation       944
+FT                   /colour=4
+FT                   /gene=group_1252
+FT                   /taxa="5403_contigs"
+FT   variation       347
+FT                   /colour=4
+FT                   /gene=agaC_5
+FT                   /taxa="3222_contigs"
+FT   variation       1158
+FT                   /colour=4
+FT                   /gene=immR
+FT                   /taxa="5202_contigs"
+FT   variation       183
+FT                   /colour=4
+FT                   /gene=group_1562
+FT                   /taxa="5403_contigs"
+FT   variation       571
+FT                   /colour=10
+FT                   /gene=group_38
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       890
+FT                   /colour=4
+FT                   /gene=group_1672
+FT                   /taxa="5403_contigs"
+FT   variation       216
+FT                   /colour=4
+FT                   /gene=group_768
+FT                   /taxa="5202_contigs"
+FT   variation       982
+FT                   /colour=4
+FT                   /gene=group_1336
+FT                   /taxa="5403_contigs"
+FT   variation       823
+FT                   /colour=4
+FT                   /gene=group_532
+FT                   /taxa="5403_contigs"
+FT   variation       282
+FT                   /colour=4
+FT                   /gene=arsA_1
+FT                   /taxa="3222_contigs"
+FT   variation       108
+FT                   /colour=4
+FT                   /gene=group_1482
+FT                   /taxa="5403_contigs"
+FT   variation       95
+FT                   /colour=4
+FT                   /gene=group_1494
+FT                   /taxa="5403_contigs"
+FT   variation       197
+FT                   /colour=10
+FT                   /gene=esxA
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       670
+FT                   /colour=4
+FT                   /gene=asa1_2
+FT                   /taxa="5403_contigs"
+FT   variation       105
+FT                   /colour=4
+FT                   /gene=group_1484
+FT                   /taxa="5403_contigs"
+FT   variation       144
+FT                   /colour=4
+FT                   /gene=group_1424
+FT                   /taxa="5403_contigs"
+FT   variation       40
+FT                   /colour=10
+FT                   /gene=exuR_2
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       80
+FT                   /colour=4
+FT                   /gene=sphR
+FT                   /taxa="5202_contigs"
+FT   variation       314
+FT                   /colour=10
+FT                   /gene=ftsK
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1321
+FT                   /colour=4
+FT                   /gene=group_1021
+FT                   /taxa="5202_contigs"
+FT   variation       102
+FT                   /colour=4
+FT                   /gene=panC
+FT                   /taxa="5403_contigs"
+FT   variation       1148
+FT                   /colour=10
+FT                   /gene=group_480
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       960
+FT                   /colour=4
+FT                   /gene=dgaE_2
+FT                   /taxa="5403_contigs"
+FT   variation       1299
+FT                   /colour=10
+FT                   /gene=aacA-aphD
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       334
+FT                   /colour=4
+FT                   /gene=group_711
+FT                   /taxa="3222_contigs"
+FT   variation       677
+FT                   /colour=4
+FT                   /gene=group_1323
+FT                   /taxa="5403_contigs"
+FT   variation       666
+FT                   /colour=4
+FT                   /gene=group_1314
+FT                   /taxa="5403_contigs"
+FT   variation       861
+FT                   /colour=4
+FT                   /gene=rhaR
+FT                   /taxa="5403_contigs"
+FT   variation       1002
+FT                   /colour=4
+FT                   /gene=group_1092
+FT                   /taxa="5403_contigs"
+FT   variation       254
+FT                   /colour=4
+FT                   /gene=group_610
+FT                   /taxa="3222_contigs"
+FT   variation       1044
+FT                   /colour=4
+FT                   /gene=group_1538
+FT                   /taxa="5403_contigs"
+FT   variation       245
+FT                   /colour=4
+FT                   /gene=group_1044
+FT                   /taxa="5202_contigs"
+FT   variation       682
+FT                   /colour=4
+FT                   /gene=group_1270
+FT                   /taxa="5403_contigs"
+FT   variation       1341
+FT                   /colour=4
+FT                   /gene=group_910
+FT                   /taxa="5202_contigs"
+FT   variation       483
+FT                   /colour=4
+FT                   /gene=group_755
+FT                   /taxa="3222_contigs"
+FT   variation       189
+FT                   /colour=4
+FT                   /gene=group_691
+FT                   /taxa="3222_contigs"
+FT   variation       311
+FT                   /colour=4
+FT                   /gene=group_210
+FT                   /taxa="5202_contigs"
+FT   variation       795
+FT                   /colour=4
+FT                   /gene=gmuR_2
+FT                   /taxa="5403_contigs"
+FT   variation       386
+FT                   /colour=4
+FT                   /gene=cas9_2
+FT                   /taxa="3222_contigs"
+FT   variation       335
+FT                   /colour=4
+FT                   /gene=group_712
+FT                   /taxa="3222_contigs"
+FT   variation       333
+FT                   /colour=4
+FT                   /gene=group_710
+FT                   /taxa="3222_contigs"
+FT   variation       721
+FT                   /colour=4
+FT                   /gene=mazF_3
+FT                   /taxa="5403_contigs"
+FT   variation       1272
+FT                   /colour=10
+FT                   /gene=erm
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       914
+FT                   /colour=4
+FT                   /gene=group_1360
+FT                   /taxa="5403_contigs"
+FT   variation       430
+FT                   /colour=4
+FT                   /gene=group_645
+FT                   /taxa="3222_contigs"
+FT   variation       116
+FT                   /colour=4
+FT                   /gene=group_1474
+FT                   /taxa="5403_contigs"
+FT   variation       851
+FT                   /colour=4
+FT                   /gene=group_1073
+FT                   /taxa="5403_contigs"
+FT   variation       66
+FT                   /colour=4
+FT                   /gene=group_204
+FT                   /taxa="5202_contigs"
+FT   variation       444
+FT                   /colour=10
+FT                   /gene=group_99
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       227
+FT                   /colour=4
+FT                   /gene=group_108
+FT                   /taxa="5202_contigs"
+FT   variation       1036
+FT                   /colour=4
+FT                   /gene=group_1546
+FT                   /taxa="5403_contigs"
+FT   variation       961
+FT                   /colour=4
+FT                   /gene=natA_5
+FT                   /taxa="5403_contigs"
+FT   variation       763
+FT                   /colour=4
+FT                   /gene=manR_3
+FT                   /taxa="5403_contigs"
+FT   variation       844
+FT                   /colour=4
+FT                   /gene=group_1464
+FT                   /taxa="5403_contigs"
+FT   variation       238
+FT                   /colour=4
+FT                   /gene=dinB_3
+FT                   /taxa="3222_contigs"
+FT   variation       854
+FT                   /colour=4
+FT                   /gene=natA_1
+FT                   /taxa="5403_contigs"
+FT   variation       1307
+FT                   /colour=10
+FT                   /gene=group_926
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       179
+FT                   /colour=4
+FT                   /gene=crr_2
+FT                   /taxa="5403_contigs"
+FT   variation       499
+FT                   /colour=4
+FT                   /gene=group_647
+FT                   /taxa="3222_contigs"
+FT   variation       1230
+FT                   /colour=4
+FT                   /gene=group_814
+FT                   /taxa="5202_contigs"
+FT   variation       983
+FT                   /colour=4
+FT                   /gene=group_1152
+FT                   /taxa="5403_contigs"
+FT   variation       901
+FT                   /colour=4
+FT                   /gene=group_1688
+FT                   /taxa="5403_contigs"
+FT   variation       1118
+FT                   /colour=4
+FT                   /gene=group_961
+FT                   /taxa="5202_contigs"
+FT   variation       836
+FT                   /colour=4
+FT                   /gene=arcB_2
+FT                   /taxa="5403_contigs"
+FT   variation       1275
+FT                   /colour=10
+FT                   /gene=group_218
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       821
+FT                   /colour=4
+FT                   /gene=group_1601
+FT                   /taxa="5403_contigs"
+FT   variation       878
+FT                   /colour=4
+FT                   /gene=sle1_3
+FT                   /taxa="5403_contigs"
+FT   variation       1171
+FT                   /colour=4
+FT                   /gene=group_1085
+FT                   /taxa="5403_contigs"
+FT   variation       676
+FT                   /colour=4
+FT                   /gene=group_1322
+FT                   /taxa="5403_contigs"
+FT   variation       411
+FT                   /colour=4
+FT                   /gene=group_189
+FT                   /taxa="3222_contigs"
+FT   variation       1133
+FT                   /colour=4
+FT                   /gene=group_1508
+FT                   /taxa="5403_contigs"
+FT   variation       629
+FT                   /colour=4
+FT                   /gene=group_509
+FT                   /taxa="5403_contigs"
+FT   variation       191
+FT                   /colour=10
+FT                   /gene=group_693
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       551
+FT                   /colour=10
+FT                   /gene=group_447
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1365
+FT                   /colour=4
+FT                   /gene=group_913
+FT                   /taxa="5202_contigs"
+FT   variation       883
+FT                   /colour=4
+FT                   /gene=group_1679
+FT                   /taxa="5403_contigs"
+FT   variation       751
+FT                   /colour=4
+FT                   /gene=hxlB_2
+FT                   /taxa="5403_contigs"
+FT   variation       1231
+FT                   /colour=4
+FT                   /gene=group_815
+FT                   /taxa="5202_contigs"
+FT   variation       702
+FT                   /colour=4
+FT                   /gene=group_1285
+FT                   /taxa="5403_contigs"
+FT   variation       523
+FT                   /colour=4
+FT                   /gene=group_169
+FT                   /taxa="3222_contigs"
+FT   variation       1246
+FT                   /colour=4
+FT                   /gene=Int-Tn_3
+FT                   /taxa="5403_contigs"
+FT   variation       439
+FT                   /colour=4
+FT                   /gene=group_653
+FT                   /taxa="3222_contigs"
+FT   variation       1297
+FT                   /colour=4
+FT                   /gene=group_1062
+FT                   /taxa="5202_contigs"
+FT   variation       79
+FT                   /colour=4
+FT                   /gene=mco
+FT                   /taxa="5202_contigs"
+FT   variation       1014
+FT                   /colour=4
+FT                   /gene=group_514
+FT                   /taxa="5403_contigs"
+FT   variation       1328
+FT                   /colour=4
+FT                   /gene=group_1028
+FT                   /taxa="5202_contigs"
+FT   variation       196
+FT                   /colour=4
+FT                   /gene=group_649
+FT                   /taxa="3222_contigs"
+FT   variation       558
+FT                   /colour=4
+FT                   /gene=ybbW_2
+FT                   /taxa="3222_contigs"
+FT   variation       597
+FT                   /colour=4
+FT                   /gene=group_1111
+FT                   /taxa="5403_contigs"
+FT   variation       301
+FT                   /colour=4
+FT                   /gene=group_211
+FT                   /taxa="5202_contigs"
+FT   variation       468
+FT                   /colour=10
+FT                   /gene=group_409
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       413
+FT                   /colour=4
+FT                   /gene=group_726
+FT                   /taxa="3222_contigs"
+FT   variation       132
+FT                   /colour=4
+FT                   /gene=group_1413
+FT                   /taxa="5403_contigs"
+FT   variation       1004
+FT                   /colour=4
+FT                   /gene=bsr
+FT                   /taxa="5403_contigs"
+FT   variation       621
+FT                   /colour=4
+FT                   /gene=group_1133
+FT                   /taxa="5403_contigs"
+FT   variation       212
+FT                   /colour=4
+FT                   /gene=group_771
+FT                   /taxa="5202_contigs"
+FT   variation       991
+FT                   /colour=4
+FT                   /gene=purL_2
+FT                   /taxa="5403_contigs"
+FT   variation       959
+FT                   /colour=4
+FT                   /gene=dgaF_2
+FT                   /taxa="5403_contigs"
+FT   variation       1181
+FT                   /colour=4
+FT                   /gene=group_823
+FT                   /taxa="5202_contigs"
+FT   variation       432
+FT                   /colour=4
+FT                   /gene=xerC_2
+FT                   /taxa="3222_contigs"
+FT   variation       787
+FT                   /colour=4
+FT                   /gene=gph_3
+FT                   /taxa="5403_contigs"
+FT   variation       415
+FT                   /colour=4
+FT                   /gene=group_724
+FT                   /taxa="3222_contigs"
+FT   variation       609
+FT                   /colour=4
+FT                   /gene=immR_1
+FT                   /taxa="5403_contigs"
+FT   variation       352
+FT                   /colour=4
+FT                   /gene=group_1225
+FT                   /taxa="5403_contigs"
+FT   variation       259
+FT                   /colour=4
+FT                   /gene=group_612
+FT                   /taxa="3222_contigs"
+FT   variation       41
+FT                   /colour=4
+FT                   /gene=group_865
+FT                   /taxa="5202_contigs"
+FT   variation       510
+FT                   /colour=10
+FT                   /gene=group_350
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       300
+FT                   /colour=4
+FT                   /gene=group_999
+FT                   /taxa="5202_contigs"
+FT   variation       36
+FT                   /colour=10
+FT                   /gene=iolA
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       796
+FT                   /colour=4
+FT                   /gene=sstT_3
+FT                   /taxa="5403_contigs"
+FT   variation       1134
+FT                   /colour=4
+FT                   /gene=group_1509
+FT                   /taxa="5403_contigs"
+FT   variation       620
+FT                   /colour=4
+FT                   /gene=group_1134
+FT                   /taxa="5403_contigs"
+FT   variation       265
+FT                   /colour=4
+FT                   /gene=group_615
+FT                   /taxa="3222_contigs"
+FT   variation       237
+FT                   /colour=4
+FT                   /gene=group_746
+FT                   /taxa="3222_contigs"
+FT   variation       3
+FT                   /colour=4
+FT                   /gene=crp
+FT                   /taxa="5202_contigs"
+FT   variation       361
+FT                   /colour=10
+FT                   /gene=pezT
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       49
+FT                   /colour=4
+FT                   /gene=group_873
+FT                   /taxa="5202_contigs"
+FT   variation       76
+FT                   /colour=4
+FT                   /gene=blaI
+FT                   /taxa="5202_contigs"
+FT   variation       868
+FT                   /colour=4
+FT                   /gene=siaQ
+FT                   /taxa="5403_contigs"
+FT   variation       1103
+FT                   /colour=4
+FT                   /gene=group_976
+FT                   /taxa="5202_contigs"
+FT   variation       516
+FT                   /colour=10
+FT                   /gene=group_165
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1324
+FT                   /colour=10
+FT                   /gene=group_1011
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       253
+FT                   /colour=4
+FT                   /gene=group_329
+FT                   /taxa="3222_contigs"
+FT   variation       1129
+FT                   /colour=10
+FT                   /gene=group_486
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1015
+FT                   /colour=4
+FT                   /gene=group_1376
+FT                   /taxa="5403_contigs"
+FT   variation       684
+FT                   /colour=4
+FT                   /gene=group_222
+FT                   /taxa="5403_contigs"
+FT   variation       723
+FT                   /colour=4
+FT                   /gene=group_1441
+FT                   /taxa="5403_contigs"
+FT   variation       1213
+FT                   /colour=4
+FT                   /gene=group_797
+FT                   /taxa="5202_contigs"
+FT   variation       1366
+FT                   /colour=10
+FT                   /gene=group_490
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       962
+FT                   /colour=4
+FT                   /gene=group_1506
+FT                   /taxa="5403_contigs"
+FT   variation       1061
+FT                   /colour=4
+FT                   /gene=xre_2
+FT                   /taxa="5403_contigs"
+FT   variation       431
+FT                   /colour=4
+FT                   /gene=group_644
+FT                   /taxa="3222_contigs"
+FT   variation       493
+FT                   /colour=10
+FT                   /gene=group_593
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       359
+FT                   /colour=10
+FT                   /gene=banIM
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       792
+FT                   /colour=4
+FT                   /gene=group_1662
+FT                   /taxa="5403_contigs"
+FT   variation       1081
+FT                   /colour=4
+FT                   /gene=group_1634
+FT                   /taxa="5403_contigs"
+FT   variation       1356
+FT                   /colour=4
+FT                   /gene=group_917
+FT                   /taxa="5202_contigs"
+FT   variation       1358
+FT                   /colour=4
+FT                   /gene=group_922
+FT                   /taxa="5202_contigs"
+FT   variation       561
+FT                   /colour=4
+FT                   /gene=group_544
+FT                   /taxa="3222_contigs"
+FT   variation       957
+FT                   /colour=4
+FT                   /gene=group_1217
+FT                   /taxa="5403_contigs"
+FT   variation       305
+FT                   /colour=4
+FT                   /gene=group_996
+FT                   /taxa="5202_contigs"
+FT   variation       582
+FT                   /colour=4
+FT                   /gene=group_1097
+FT                   /taxa="5403_contigs"
+FT   variation       759
+FT                   /colour=4
+FT                   /gene=group_1243
+FT                   /taxa="5403_contigs"
+FT   variation       592
+FT                   /colour=4
+FT                   /gene=group_1106
+FT                   /taxa="5403_contigs"
+FT   variation       1063
+FT                   /colour=4
+FT                   /gene=group_939
+FT                   /taxa="5202_contigs"
+FT   variation       644
+FT                   /colour=4
+FT                   /gene=group_1329
+FT                   /taxa="5403_contigs"
+FT   variation       1345
+FT                   /colour=10
+FT                   /gene=group_989
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       393
+FT                   /colour=4
+FT                   /gene=group_567
+FT                   /taxa="3222_contigs"
+FT   variation       590
+FT                   /colour=4
+FT                   /gene=group_1104
+FT                   /taxa="5403_contigs"
+FT   variation       563
+FT                   /colour=4
+FT                   /gene=group_607
+FT                   /taxa="3222_contigs"
+FT   variation       139
+FT                   /colour=4
+FT                   /gene=group_1419
+FT                   /taxa="5403_contigs"
+FT   variation       1209
+FT                   /colour=4
+FT                   /gene=group_227
+FT                   /taxa="5403_contigs"
+FT   variation       288
+FT                   /colour=4
+FT                   /gene=dppE_9
+FT                   /taxa="5202_contigs"
+FT   variation       1124
+FT                   /colour=4
+FT                   /gene=group_1367
+FT                   /taxa="5403_contigs"
+FT   variation       1142
+FT                   /colour=10
+FT                   /gene=dnaC_3
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       390
+FT                   /colour=4
+FT                   /gene=group_1002
+FT                   /taxa="5202_contigs"
+FT   variation       1087
+FT                   /colour=4
+FT                   /gene=group_1640
+FT                   /taxa="5403_contigs"
+FT   variation       1115
+FT                   /colour=4
+FT                   /gene=group_964
+FT                   /taxa="5202_contigs"
+FT   variation       826
+FT                   /colour=4
+FT                   /gene=nisP
+FT                   /taxa="5403_contigs"
+FT   variation       1078
+FT                   /colour=4
+FT                   /gene=group_1631
+FT                   /taxa="5403_contigs"
+FT   variation       130
+FT                   /colour=4
+FT                   /gene=group_1412
+FT                   /taxa="5403_contigs"
+FT   variation       172
+FT                   /colour=4
+FT                   /gene=group_1573
+FT                   /taxa="5403_contigs"
+FT   variation       180
+FT                   /colour=4
+FT                   /gene=glcB
+FT                   /taxa="5403_contigs"
+FT   variation       68
+FT                   /colour=4
+FT                   /gene=group_887
+FT                   /taxa="5202_contigs"
+FT   variation       746
+FT                   /colour=4
+FT                   /gene=rpe_2
+FT                   /taxa="5403_contigs"
+FT   variation       1385
+FT                   /colour=4
+FT                   /gene=group_779
+FT                   /taxa="5202_contigs"
+FT   variation       517
+FT                   /colour=4
+FT                   /gene=sle1_4
+FT                   /taxa="5403_contigs"
+FT   variation       834
+FT                   /colour=4
+FT                   /gene=group_1470
+FT                   /taxa="5403_contigs"
+FT   variation       1050
+FT                   /colour=4
+FT                   /gene=group_1532
+FT                   /taxa="5403_contigs"
+FT   variation       410
+FT                   /colour=4
+FT                   /gene=group_723
+FT                   /taxa="3222_contigs"
+FT   variation       222
+FT                   /colour=10
+FT                   /gene=group_105
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1090
+FT                   /colour=4
+FT                   /gene=group_1643
+FT                   /taxa="5403_contigs"
+FT   variation       700
+FT                   /colour=4
+FT                   /gene=ssb_1
+FT                   /taxa="5403_contigs"
+FT   variation       1249
+FT                   /colour=4
+FT                   /gene=group_1172
+FT                   /taxa="5403_contigs"
+FT   variation       557
+FT                   /colour=10
+FT                   /gene=group_551
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       840
+FT                   /colour=4
+FT                   /gene=group_1460
+FT                   /taxa="5403_contigs"
+FT   variation       1017
+FT                   /colour=4
+FT                   /gene=prgT_2
+FT                   /taxa="5403_contigs"
+FT   variation       299
+FT                   /colour=4
+FT                   /gene=group_1000
+FT                   /taxa="5202_contigs"
+FT   variation       688
+FT                   /colour=4
+FT                   /gene=group_1271
+FT                   /taxa="5403_contigs"
+FT   variation       235
+FT                   /colour=4
+FT                   /gene=group_1409
+FT                   /taxa="5403_contigs"
+FT   variation       107
+FT                   /colour=4
+FT                   /gene=group_1483
+FT                   /taxa="5403_contigs"
+FT   variation       569
+FT                   /colour=4
+FT                   /gene=group_573
+FT                   /taxa="3222_contigs"
+FT   variation       207
+FT                   /colour=4
+FT                   /gene=group_775
+FT                   /taxa="5202_contigs"
+FT   variation       931
+FT                   /colour=4
+FT                   /gene=group_1204
+FT                   /taxa="5403_contigs"
+FT   variation       783
+FT                   /colour=4
+FT                   /gene=group_1621
+FT                   /taxa="5403_contigs"
+FT   variation       829
+FT                   /colour=4
+FT                   /gene=group_1609
+FT                   /taxa="5403_contigs"
+FT   variation       855
+FT                   /colour=4
+FT                   /gene=group_1077
+FT                   /taxa="5403_contigs"
+FT   variation       777
+FT                   /colour=4
+FT                   /gene=ssaB
+FT                   /taxa="5403_contigs"
+FT   variation       26
+FT                   /colour=10
+FT                   /gene=ugl
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       446
+FT                   /colour=4
+FT                   /gene=group_667
+FT                   /taxa="3222_contigs"
+FT   variation       941
+FT                   /colour=4
+FT                   /gene=hsdR
+FT                   /taxa="5403_contigs"
+FT   variation       549
+FT                   /colour=10
+FT                   /gene=group_670
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1309
+FT                   /colour=10
+FT                   /gene=group_927
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1296
+FT                   /colour=4
+FT                   /gene=wecD
+FT                   /taxa="5403_contigs"
+FT   variation       692
+FT                   /colour=4
+FT                   /gene=group_1275
+FT                   /taxa="5403_contigs"
+FT   variation       1323
+FT                   /colour=4
+FT                   /gene=group_1019
+FT                   /taxa="5202_contigs"
+FT   variation       793
+FT                   /colour=4
+FT                   /gene=group_1661
+FT                   /taxa="5403_contigs"
+FT   variation       832
+FT                   /colour=4
+FT                   /gene=group_1606
+FT                   /taxa="5403_contigs"
+FT   variation       660
+FT                   /colour=4
+FT                   /gene=group_1308
+FT                   /taxa="5403_contigs"
+FT   variation       764
+FT                   /colour=4
+FT                   /gene=gatA_2
+FT                   /taxa="5403_contigs"
+FT   variation       365
+FT                   /colour=10
+FT                   /gene=group_605
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       72
+FT                   /colour=4
+FT                   /gene=group_891
+FT                   /taxa="5202_contigs"
+FT   variation       35
+FT                   /colour=10
+FT                   /gene=iolG
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       9
+FT                   /colour=10
+FT                   /gene=group_495
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1032
+FT                   /colour=4
+FT                   /gene=group_1550
+FT                   /taxa="5403_contigs"
+FT   variation       771
+FT                   /colour=4
+FT                   /gene=rpmF_3
+FT                   /taxa="5403_contigs"
+FT   variation       905
+FT                   /colour=4
+FT                   /gene=group_1691
+FT                   /taxa="5403_contigs"
+FT   variation       1131
+FT                   /colour=4
+FT                   /gene=group_955
+FT                   /taxa="5202_contigs"
+FT   variation       275
+FT                   /colour=4
+FT                   /gene=arsD_2
+FT                   /taxa="3222_contigs"
+FT   variation       285
+FT                   /colour=4
+FT                   /gene=pre
+FT                   /taxa="5202_contigs"
+FT   variation       1140
+FT                   /colour=10
+FT                   /gene=group_484
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1282
+FT                   /colour=4
+FT                   /gene=dnaJ_2
+FT                   /taxa="5202_contigs"
+FT   variation       383
+FT                   /colour=4
+FT                   /gene=group_1158
+FT                   /taxa="5403_contigs"
+FT   variation       88
+FT                   /colour=4
+FT                   /gene=group_1501
+FT                   /taxa="5403_contigs"
+FT   variation       997
+FT                   /colour=4
+FT                   /gene=group_1507
+FT                   /taxa="5403_contigs"
+FT   variation       695
+FT                   /colour=4
+FT                   /gene=group_1278
+FT                   /taxa="5403_contigs"
+FT   variation       683
+FT                   /colour=4
+FT                   /gene=fliA
+FT                   /taxa="5403_contigs"
+FT   variation       463
+FT                   /colour=4
+FT                   /gene=exoA_2
+FT                   /taxa="3222_contigs"
+FT   variation       1013
+FT                   /colour=4
+FT                   /gene=Int-Tn_6
+FT                   /taxa="5403_contigs"
+FT   variation       376
+FT                   /colour=4
+FT                   /gene=group_695
+FT                   /taxa="3222_contigs"
+FT   variation       98
+FT                   /colour=4
+FT                   /gene=group_1491
+FT                   /taxa="5403_contigs"
+FT   variation       574
+FT                   /colour=4
+FT                   /gene=group_80
+FT                   /taxa="3222_contigs"
+FT   variation       10
+FT                   /colour=4
+FT                   /gene=group_1504
+FT                   /taxa="5403_contigs"
+FT   variation       1065
+FT                   /colour=4
+FT                   /gene=group_941
+FT                   /taxa="5202_contigs"
+FT   variation       979
+FT                   /colour=4
+FT                   /gene=group_1199
+FT                   /taxa="5403_contigs"
+FT   variation       123
+FT                   /colour=10
+FT                   /gene=rbn_2
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       464
+FT                   /colour=4
+FT                   /gene=group_739
+FT                   /taxa="3222_contigs"
+FT   variation       87
+FT                   /colour=4
+FT                   /gene=group_1502
+FT                   /taxa="5403_contigs"
+FT   variation       1375
+FT                   /colour=4
+FT                   /gene=group_1027
+FT                   /taxa="5202_contigs"
+FT   variation       1367
+FT                   /colour=4
+FT                   /gene=group_95
+FT                   /taxa="5202_contigs"
+FT   variation       554
+FT                   /colour=4
+FT                   /gene=group_535
+FT                   /taxa="3222_contigs"
+FT   variation       534
+FT                   /colour=10
+FT                   /gene=group_25
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       717
+FT                   /colour=4
+FT                   /gene=group_1435
+FT                   /taxa="5403_contigs"
+FT   variation       425
+FT                   /colour=4
+FT                   /gene=group_579
+FT                   /taxa="3222_contigs"
+FT   variation       737
+FT                   /colour=4
+FT                   /gene=group_1447
+FT                   /taxa="5403_contigs"
+FT   variation       228
+FT                   /colour=10
+FT                   /gene=group_110
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       220
+FT                   /colour=4
+FT                   /gene=group_764
+FT                   /taxa="5202_contigs"
+FT   variation       367
+FT                   /colour=10
+FT                   /gene=group_603
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1372
+FT                   /colour=10
+FT                   /gene=group_477
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       39
+FT                   /colour=10
+FT                   /gene=iolC_1
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       497
+FT                   /colour=10
+FT                   /gene=group_454
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1096
+FT                   /colour=4
+FT                   /gene=group_983
+FT                   /taxa="5202_contigs"
+FT   variation       400
+FT                   /colour=10
+FT                   /gene=group_188
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       209
+FT                   /colour=4
+FT                   /gene=group_461
+FT                   /taxa="5202_contigs"
+FT   variation       1253
+FT                   /colour=4
+FT                   /gene=group_1176
+FT                   /taxa="5403_contigs"
+FT   variation       881
+FT                   /colour=4
+FT                   /gene=group_1681
+FT                   /taxa="5403_contigs"
+FT   variation       532
+FT                   /colour=4
+FT                   /gene=group_40
+FT                   /taxa="3222_contigs"
+FT   variation       424
+FT                   /colour=4
+FT                   /gene=licA_1
+FT                   /taxa="3222_contigs"
+FT   variation       1138
+FT                   /colour=10
+FT                   /gene=group_485
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       889
+FT                   /colour=4
+FT                   /gene=group_1673
+FT                   /taxa="5403_contigs"
+FT   variation       1362
+FT                   /colour=4
+FT                   /gene=group_835
+FT                   /taxa="5202_contigs"
+FT   variation       1382
+FT                   /colour=4
+FT                   /gene=group_70
+FT                   /taxa="5202_contigs"
+FT   variation       827
+FT                   /colour=4
+FT                   /gene=group_526
+FT                   /taxa="5403_contigs"
+FT   variation       805
+FT                   /colour=4
+FT                   /gene=group_1586
+FT                   /taxa="5403_contigs"
+FT   variation       1305
+FT                   /colour=10
+FT                   /gene=bglF_1
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       899
+FT                   /colour=4
+FT                   /gene=group_1693
+FT                   /taxa="5403_contigs"
+FT   variation       1330
+FT                   /colour=4
+FT                   /gene=group_1029
+FT                   /taxa="5202_contigs"
+FT   variation       1380
+FT                   /colour=10
+FT                   /gene=group_1024
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       872
+FT                   /colour=4
+FT                   /gene=group_1396
+FT                   /taxa="5403_contigs"
+FT   variation       867
+FT                   /colour=4
+FT                   /gene=dctM
+FT                   /taxa="5403_contigs"
+FT   variation       1064
+FT                   /colour=4
+FT                   /gene=xerD_2
+FT                   /taxa="5202_contigs"
+FT   variation       148
+FT                   /colour=4
+FT                   /gene=group_1428
+FT                   /taxa="5403_contigs"
+FT   variation       520
+FT                   /colour=4
+FT                   /gene=frp
+FT                   /taxa="3222_contigs"
+FT   variation       1357
+FT                   /colour=4
+FT                   /gene=group_918
+FT                   /taxa="5202_contigs"
+FT   variation       689
+FT                   /colour=4
+FT                   /gene=group_1272
+FT                   /taxa="5403_contigs"
+FT   variation       656
+FT                   /colour=4
+FT                   /gene=group_1304
+FT                   /taxa="5403_contigs"
+FT   variation       1227
+FT                   /colour=4
+FT                   /gene=group_811
+FT                   /taxa="5202_contigs"
+FT   variation       473
+FT                   /colour=4
+FT                   /gene=group_537
+FT                   /taxa="3222_contigs"
+FT   variation       1243
+FT                   /colour=4
+FT                   /gene=group_821
+FT                   /taxa="5202_contigs"
+FT   variation       640
+FT                   /colour=4
+FT                   /gene=group_1333
+FT                   /taxa="5403_contigs"
+FT   variation       635
+FT                   /colour=4
+FT                   /gene=group_1122
+FT                   /taxa="5403_contigs"
+FT   variation       1068
+FT                   /colour=4
+FT                   /gene=group_944
+FT                   /taxa="5202_contigs"
+FT   variation       1374
+FT                   /colour=4
+FT                   /gene=group_924
+FT                   /taxa="5202_contigs"
+FT   variation       126
+FT                   /colour=4
+FT                   /gene=group_1473
+FT                   /taxa="5403_contigs"
+FT   variation       249
+FT                   /colour=4
+FT                   /gene=group_1042
+FT                   /taxa="5202_contigs"
+FT   variation       121
+FT                   /colour=10
+FT                   /gene=group_463
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       203
+FT                   /colour=4
+FT                   /gene=group_731
+FT                   /taxa="3222_contigs"
+FT   variation       327
+FT                   /colour=10
+FT                   /gene=manP_1
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1053
+FT                   /colour=4
+FT                   /gene=group_1529
+FT                   /taxa="5403_contigs"
+FT   variation       1308
+FT                   /colour=10
+FT                   /gene=agrA
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1143
+FT                   /colour=4
+FT                   /gene=group_951
+FT                   /taxa="5202_contigs"
+FT   variation       188
+FT                   /colour=4
+FT                   /gene=group_690
+FT                   /taxa="3222_contigs"
+FT   variation       830
+FT                   /colour=4
+FT                   /gene=group_1608
+FT                   /taxa="5403_contigs"
+FT   variation       153
+FT                   /colour=4
+FT                   /gene=ssb_4
+FT                   /taxa="5403_contigs"
+FT   variation       873
+FT                   /colour=4
+FT                   /gene=group_1395
+FT                   /taxa="5403_contigs"
+FT   variation       1261
+FT                   /colour=4
+FT                   /gene=group_1183
+FT                   /taxa="5403_contigs"
+FT   variation       201
+FT                   /colour=4
+FT                   /gene=group_729
+FT                   /taxa="3222_contigs"
+FT   variation       1164
+FT                   /colour=4
+FT                   /gene=group_522
+FT                   /taxa="5403_contigs"
+FT   variation       1153
+FT                   /colour=10
+FT                   /gene=group_946
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       387
+FT                   /colour=10
+FT                   /gene=cas1
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1126
+FT                   /colour=4
+FT                   /gene=group_201
+FT                   /taxa="5403_contigs"
+FT   variation       298
+FT                   /colour=4
+FT                   /gene=group_1001
+FT                   /taxa="5202_contigs"
+FT   variation       442
+FT                   /colour=10
+FT                   /gene=group_14
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       572
+FT                   /colour=4
+FT                   /gene=group_167
+FT                   /taxa="3222_contigs"
+FT   variation       494
+FT                   /colour=10
+FT                   /gene=group_594
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       67
+FT                   /colour=4
+FT                   /gene=group_19
+FT                   /taxa="5202_contigs"
+FT   variation       596
+FT                   /colour=4
+FT                   /gene=group_1110
+FT                   /taxa="5403_contigs"
+FT   variation       1240
+FT                   /colour=10
+FT                   /gene=group_467
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       77
+FT                   /colour=4
+FT                   /gene=copA_1
+FT                   /taxa="5202_contigs"
+FT   variation       1289
+FT                   /colour=4
+FT                   /gene=group_842
+FT                   /taxa="5202_contigs"
+FT   variation       1165
+FT                   /colour=4
+FT                   /gene=group_524
+FT                   /taxa="5403_contigs"
+FT   variation       623
+FT                   /colour=4
+FT                   /gene=group_1132
+FT                   /taxa="5403_contigs"
+FT   variation       348
+FT                   /colour=4
+FT                   /gene=levE_2
+FT                   /taxa="3222_contigs"
+FT   variation       162
+FT                   /colour=4
+FT                   /gene=manX_7
+FT                   /taxa="5403_contigs"
+FT   variation       248
+FT                   /colour=4
+FT                   /gene=group_1041
+FT                   /taxa="5202_contigs"
+FT   variation       53
+FT                   /colour=4
+FT                   /gene=group_877
+FT                   /taxa="5202_contigs"
+FT   variation       501
+FT                   /colour=4
+FT                   /gene=tauB
+FT                   /taxa="3222_contigs"
+FT   variation       818
+FT                   /colour=4
+FT                   /gene=group_1599
+FT                   /taxa="5403_contigs"
+FT   variation       880
+FT                   /colour=4
+FT                   /gene=group_530
+FT                   /taxa="5403_contigs"
+FT   variation       1270
+FT                   /colour=4
+FT                   /gene=group_217
+FT                   /taxa="5202_contigs"
+FT   variation       1101
+FT                   /colour=4
+FT                   /gene=group_978
+FT                   /taxa="5202_contigs"
+FT   variation       452
+FT                   /colour=4
+FT                   /gene=group_41
+FT                   /taxa="3222_contigs"
+FT   variation       762
+FT                   /colour=4
+FT                   /gene=group_1248
+FT                   /taxa="5403_contigs"
+FT   variation       757
+FT                   /colour=4
+FT                   /gene=hxlB_3
+FT                   /taxa="5403_contigs"
+FT   variation       906
+FT                   /colour=4
+FT                   /gene=group_1692
+FT                   /taxa="5403_contigs"
+FT   variation       141
+FT                   /colour=4
+FT                   /gene=group_1421
+FT                   /taxa="5403_contigs"
+FT   variation       1190
+FT                   /colour=4
+FT                   /gene=group_1384
+FT                   /taxa="5403_contigs"
+FT   variation       1337
+FT                   /colour=10
+FT                   /gene=group_199
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       278
+FT                   /colour=4
+FT                   /gene=group_626
+FT                   /taxa="3222_contigs"
+FT   variation       1221
+FT                   /colour=4
+FT                   /gene=group_805
+FT                   /taxa="5202_contigs"
+FT   variation       55
+FT                   /colour=4
+FT                   /gene=group_879
+FT                   /taxa="5202_contigs"
+FT   variation       1146
+FT                   /colour=10
+FT                   /gene=group_206
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1033
+FT                   /colour=4
+FT                   /gene=group_1549
+FT                   /taxa="5403_contigs"
+FT   variation       1166
+FT                   /colour=4
+FT                   /gene=group_1521
+FT                   /taxa="5403_contigs"
+FT   variation       804
+FT                   /colour=4
+FT                   /gene=group_1585
+FT                   /taxa="5403_contigs"
+FT   variation       159
+FT                   /colour=4
+FT                   /gene=group_1559
+FT                   /taxa="5403_contigs"
+FT   variation       81
+FT                   /colour=4
+FT                   /gene=baeS
+FT                   /taxa="5202_contigs"
+FT   variation       1150
+FT                   /colour=4
+FT                   /gene=group_1514
+FT                   /taxa="5403_contigs"
+FT   variation       694
+FT                   /colour=4
+FT                   /gene=group_1277
+FT                   /taxa="5403_contigs"
+FT   variation       964
+FT                   /colour=4
+FT                   /gene=group_1255
+FT                   /taxa="5403_contigs"
+FT   variation       848
+FT                   /colour=4
+FT                   /gene=group_1081
+FT                   /taxa="5403_contigs"
+FT   variation       806
+FT                   /colour=4
+FT                   /gene=group_1587
+FT                   /taxa="5403_contigs"
+FT   variation       945
+FT                   /colour=4
+FT                   /gene=group_1251
+FT                   /taxa="5403_contigs"
+FT   variation       1383
+FT                   /colour=4
+FT                   /gene=group_1026
+FT                   /taxa="5202_contigs"
+FT   variation       536
+FT                   /colour=10
+FT                   /gene=group_662
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       575
+FT                   /colour=4
+FT                   /gene=group_600
+FT                   /taxa="3222_contigs"
+FT   variation       791
+FT                   /colour=4
+FT                   /gene=group_1663
+FT                   /taxa="5403_contigs"
+FT   variation       710
+FT                   /colour=4
+FT                   /gene=group_1293
+FT                   /taxa="5403_contigs"
+FT   variation       1220
+FT                   /colour=4
+FT                   /gene=group_804
+FT                   /taxa="5202_contigs"
+FT   variation       650
+FT                   /colour=4
+FT                   /gene=group_1298
+FT                   /taxa="5403_contigs"
+FT   variation       1186
+FT                   /colour=4
+FT                   /gene=group_1386
+FT                   /taxa="5403_contigs"
+FT   variation       933
+FT                   /colour=4
+FT                   /gene=group_1206
+FT                   /taxa="5403_contigs"
+FT   variation       662
+FT                   /colour=4
+FT                   /gene=sftA
+FT                   /taxa="5403_contigs"
+FT   variation       1102
+FT                   /colour=4
+FT                   /gene=group_977
+FT                   /taxa="5202_contigs"
+FT   variation       526
+FT                   /colour=4
+FT                   /gene=group_623
+FT                   /taxa="3222_contigs"
+FT   variation       679
+FT                   /colour=4
+FT                   /gene=group_1267
+FT                   /taxa="5403_contigs"
+FT   variation       199
+FT                   /colour=4
+FT                   /gene=group_763
+FT                   /taxa="5202_contigs"
+FT   variation       1070
+FT                   /colour=4
+FT                   /gene=group_949
+FT                   /taxa="5202_contigs"
+FT   variation       605
+FT                   /colour=4
+FT                   /gene=Int-Tn_2
+FT                   /taxa="5403_contigs"
+FT   variation       13
+FT                   /colour=4
+FT                   /gene=group_905
+FT                   /taxa="5202_contigs"
+FT   variation       338
+FT                   /colour=4
+FT                   /gene=group_715
+FT                   /taxa="3222_contigs"
+FT   variation       1039
+FT                   /colour=4
+FT                   /gene=group_1543
+FT                   /taxa="5403_contigs"
+FT   variation       923
+FT                   /colour=4
+FT                   /gene=pinR
+FT                   /taxa="5403_contigs"
+FT   variation       1250
+FT                   /colour=4
+FT                   /gene=group_1173
+FT                   /taxa="5403_contigs"
+FT   variation       17
+FT                   /colour=10
+FT                   /gene=group_205
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1007
+FT                   /colour=4
+FT                   /gene=group_72
+FT                   /taxa="5403_contigs"
+FT   variation       542
+FT                   /colour=4
+FT                   /gene=group_96
+FT                   /taxa="3222_contigs"
+FT   variation       1178
+FT                   /colour=4
+FT                   /gene=group_826
+FT                   /taxa="5202_contigs"
+FT   variation       342
+FT                   /colour=4
+FT                   /gene=group_707
+FT                   /taxa="3222_contigs"
+FT   variation       498
+FT                   /colour=4
+FT                   /gene=group_648
+FT                   /taxa="3222_contigs"
+FT   variation       601
+FT                   /colour=4
+FT                   /gene=group_1115
+FT                   /taxa="5403_contigs"
+FT   variation       524
+FT                   /colour=10
+FT                   /gene=group_660
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1266
+FT                   /colour=4
+FT                   /gene=group_1178
+FT                   /taxa="5403_contigs"
+FT   variation       1060
+FT                   /colour=4
+FT                   /gene=group_1523
+FT                   /taxa="5403_contigs"
+FT   variation       915
+FT                   /colour=4
+FT                   /gene=group_1399
+FT                   /taxa="5403_contigs"
+FT   variation       884
+FT                   /colour=4
+FT                   /gene=group_1678
+FT                   /taxa="5403_contigs"
+FT   variation       1107
+FT                   /colour=4
+FT                   /gene=group_972
+FT                   /taxa="5202_contigs"
+FT   variation       1258
+FT                   /colour=4
+FT                   /gene=group_1186
+FT                   /taxa="5403_contigs"
+FT   variation       953
+FT                   /colour=4
+FT                   /gene=group_1063
+FT                   /taxa="5403_contigs"
+FT   variation       1047
+FT                   /colour=4
+FT                   /gene=group_1535
+FT                   /taxa="5403_contigs"
+FT   variation       1145
+FT                   /colour=10
+FT                   /gene=group_481
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       351
+FT                   /colour=10
+FT                   /gene=group_592
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       896
+FT                   /colour=4
+FT                   /gene=group_1664
+FT                   /taxa="5403_contigs"
+FT   variation       176
+FT                   /colour=4
+FT                   /gene=rpmF_2
+FT                   /taxa="5403_contigs"
+FT   variation       94
+FT                   /colour=4
+FT                   /gene=group_1495
+FT                   /taxa="5403_contigs"
+FT   variation       1223
+FT                   /colour=4
+FT                   /gene=group_807
+FT                   /taxa="5202_contigs"
+FT   variation       638
+FT                   /colour=4
+FT                   /gene=group_1119
+FT                   /taxa="5403_contigs"
+FT   variation       326
+FT                   /colour=4
+FT                   /gene=manR_2
+FT                   /taxa="3222_contigs"
+FT   variation       753
+FT                   /colour=4
+FT                   /gene=group_1237
+FT                   /taxa="5403_contigs"
+FT   variation       1151
+FT                   /colour=10
+FT                   /gene=group_479
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1188
+FT                   /colour=4
+FT                   /gene=group_521
+FT                   /taxa="5403_contigs"
+FT   variation       1056
+FT                   /colour=4
+FT                   /gene=group_1526
+FT                   /taxa="5403_contigs"
+FT   variation       515
+FT                   /colour=4
+FT                   /gene=group_539
+FT                   /taxa="3222_contigs"
+FT   variation       980
+FT                   /colour=4
+FT                   /gene=group_1200
+FT                   /taxa="5403_contigs"
+FT   variation       384
+FT                   /colour=10
+FT                   /gene=group_410
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       769
+FT                   /colour=4
+FT                   /gene=yjiA_2
+FT                   /taxa="5403_contigs"
+FT   variation       97
+FT                   /colour=4
+FT                   /gene=hssS
+FT                   /taxa="5403_contigs"
+FT   variation       800
+FT                   /colour=4
+FT                   /gene=group_1654
+FT                   /taxa="5403_contigs"
+FT   variation       402
+FT                   /colour=10
+FT                   /gene=group_721
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       382
+FT                   /colour=10
+FT                   /gene=group_458
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       472
+FT                   /colour=4
+FT                   /gene=group_538
+FT                   /taxa="3222_contigs"
+FT   variation       1329
+FT                   /colour=4
+FT                   /gene=group_1030
+FT                   /taxa="5202_contigs"
+FT   variation       1040
+FT                   /colour=4
+FT                   /gene=group_1542
+FT                   /taxa="5403_contigs"
+FT   variation       173
+FT                   /colour=4
+FT                   /gene=amt
+FT                   /taxa="5403_contigs"
+FT   variation       380
+FT                   /colour=4
+FT                   /gene=group_1160
+FT                   /taxa="5403_contigs"
+FT   variation       136
+FT                   /colour=4
+FT                   /gene=group_1417
+FT                   /taxa="5403_contigs"
+FT   variation       357
+FT                   /colour=10
+FT                   /gene=group_448
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1283
+FT                   /colour=4
+FT                   /gene=group_1053
+FT                   /taxa="5202_contigs"
+FT   variation       273
+FT                   /colour=4
+FT                   /gene=arsA_2
+FT                   /taxa="3222_contigs"
+FT   variation       779
+FT                   /colour=4
+FT                   /gene=group_1625
+FT                   /taxa="5403_contigs"
+FT   variation       584
+FT                   /colour=4
+FT                   /gene=group_1098
+FT                   /taxa="5403_contigs"
+FT   variation       1211
+FT                   /colour=4
+FT                   /gene=group_795
+FT                   /taxa="5202_contigs"
+FT   variation       1195
+FT                   /colour=4
+FT                   /gene=group_1697
+FT                   /taxa="5403_contigs"
+FT   variation       1026
+FT                   /colour=4
+FT                   /gene=group_1088
+FT                   /taxa="5403_contigs"
+FT   variation       1206
+FT                   /colour=4
+FT                   /gene=group_1351
+FT                   /taxa="5403_contigs"
+FT   variation       775
+FT                   /colour=4
+FT                   /gene=znuC_3
+FT                   /taxa="5403_contigs"
+FT   variation       208
+FT                   /colour=4
+FT                   /gene=group_774
+FT                   /taxa="5202_contigs"
+FT   variation       70
+FT                   /colour=4
+FT                   /gene=group_889
+FT                   /taxa="5202_contigs"
+FT   variation       398
+FT                   /colour=4
+FT                   /gene=group_566
+FT                   /taxa="3222_contigs"
+FT   variation       809
+FT                   /colour=4
+FT                   /gene=group_1590
+FT                   /taxa="5403_contigs"
+FT   variation       112
+FT                   /colour=4
+FT                   /gene=gmuC_2
+FT                   /taxa="5403_contigs"
+FT   variation       1386
+FT                   /colour=4
+FT                   /gene=group_908
+FT                   /taxa="5202_contigs"
+FT   variation       780
+FT                   /colour=4
+FT                   /gene=group_1624
+FT                   /taxa="5403_contigs"
+FT   variation       984
+FT                   /colour=4
+FT                   /gene=glpK_2
+FT                   /taxa="5403_contigs"
+FT   variation       64
+FT                   /colour=4
+FT                   /gene=iap_1
+FT                   /taxa="5202_contigs"
+FT   variation       60
+FT                   /colour=4
+FT                   /gene=group_884
+FT                   /taxa="5202_contigs"
+FT   variation       1237
+FT                   /colour=10
+FT                   /gene=group_200
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1055
+FT                   /colour=4
+FT                   /gene=group_1527
+FT                   /taxa="5403_contigs"
+FT   variation       152
+FT                   /colour=10
+FT                   /gene=group_496
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       289
+FT                   /colour=10
+FT                   /gene=oppA_2
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       319
+FT                   /colour=4
+FT                   /gene=queE
+FT                   /taxa="5403_contigs"
+FT   variation       586
+FT                   /colour=4
+FT                   /gene=group_1100
+FT                   /taxa="5403_contigs"
+FT   variation       955
+FT                   /colour=4
+FT                   /gene=group_1065
+FT                   /taxa="5403_contigs"
+FT   variation       1378
+FT                   /colour=10
+FT                   /gene=group_487
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       85
+FT                   /colour=10
+FT                   /gene=group_59
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       118
+FT                   /colour=4
+FT                   /gene=group_787
+FT                   /taxa="5202_contigs"
+FT   variation       968
+FT                   /colour=4
+FT                   /gene=group_1156
+FT                   /taxa="5403_contigs"
+FT   variation       1168
+FT                   /colour=10
+FT                   /gene=group_471
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       713
+FT                   /colour=4
+FT                   /gene=yafQ
+FT                   /taxa="5403_contigs"
+FT   variation       886
+FT                   /colour=4
+FT                   /gene=group_1676
+FT                   /taxa="5403_contigs"
+FT   variation       8
+FT                   /colour=4
+FT                   /gene=group_1055
+FT                   /taxa="5202_contigs"
+FT   variation       1097
+FT                   /colour=4
+FT                   /gene=group_982
+FT                   /taxa="5202_contigs"
+FT   variation       1127
+FT                   /colour=4
+FT                   /gene=group_1369
+FT                   /taxa="5403_contigs"
+FT   variation       1043
+FT                   /colour=4
+FT                   /gene=group_1539
+FT                   /taxa="5403_contigs"
+FT   variation       1059
+FT                   /colour=4
+FT                   /gene=group_1524
+FT                   /taxa="5403_contigs"
+FT   variation       443
+FT                   /colour=4
+FT                   /gene=group_558
+FT                   /taxa="3222_contigs"
+FT   variation       466
+FT                   /colour=4
+FT                   /gene=group_669
+FT                   /taxa="3222_contigs"
+FT   variation       1268
+FT                   /colour=4
+FT                   /gene=group_1054
+FT                   /taxa="5202_contigs"
+FT   variation       1379
+FT                   /colour=4
+FT                   /gene=group_149
+FT                   /taxa="5202_contigs"
+FT   variation       1295
+FT                   /colour=4
+FT                   /gene=aphA
+FT                   /taxa="5403_contigs"
+FT   variation       1224
+FT                   /colour=4
+FT                   /gene=group_808
+FT                   /taxa="5202_contigs"
+FT   variation       624
+FT                   /colour=4
+FT                   /gene=group_1131
+FT                   /taxa="5403_contigs"
+FT   variation       427
+FT                   /colour=4
+FT                   /gene=group_642
+FT                   /taxa="3222_contigs"
+FT   variation       27
+FT                   /colour=10
+FT                   /gene=group_851
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       266
+FT                   /colour=4
+FT                   /gene=group_614
+FT                   /taxa="3222_contigs"
+FT   variation       58
+FT                   /colour=4
+FT                   /gene=acpA_1
+FT                   /taxa="5202_contigs"
+FT   variation       1212
+FT                   /colour=4
+FT                   /gene=group_796
+FT                   /taxa="5202_contigs"
+FT   variation       634
+FT                   /colour=4
+FT                   /gene=group_1123
+FT                   /taxa="5403_contigs"
+FT   variation       606
+FT                   /colour=4
+FT                   /gene=group_1148
+FT                   /taxa="5403_contigs"
+FT   variation       744
+FT                   /colour=4
+FT                   /gene=hxlB_1
+FT                   /taxa="5403_contigs"
+FT   variation       874
+FT                   /colour=4
+FT                   /gene=group_1394
+FT                   /taxa="5403_contigs"
+FT   variation       926
+FT                   /colour=4
+FT                   /gene=recF_1
+FT                   /taxa="5403_contigs"
+FT   variation       421
+FT                   /colour=4
+FT                   /gene=group_555
+FT                   /taxa="3222_contigs"
+FT   variation       785
+FT                   /colour=4
+FT                   /gene=dppE_10
+FT                   /taxa="5403_contigs"
+FT   variation       776
+FT                   /colour=4
+FT                   /gene=mntB_2
+FT                   /taxa="5403_contigs"
+FT   variation       406
+FT                   /colour=4
+FT                   /gene=group_684
+FT                   /taxa="3222_contigs"
+FT   variation       820
+FT                   /colour=4
+FT                   /gene=group_1600
+FT                   /taxa="5403_contigs"
+FT   variation       165
+FT                   /colour=4
+FT                   /gene=sorA_6
+FT                   /taxa="5403_contigs"
+FT   variation       91
+FT                   /colour=4
+FT                   /gene=macB_3
+FT                   /taxa="5403_contigs"
+FT   variation       240
+FT                   /colour=4
+FT                   /gene=group_743
+FT                   /taxa="3222_contigs"
+FT   variation       1086
+FT                   /colour=4
+FT                   /gene=group_1639
+FT                   /taxa="5403_contigs"
+FT   variation       925
+FT                   /colour=4
+FT                   /gene=group_1165
+FT                   /taxa="5403_contigs"
+FT   variation       250
+FT                   /colour=4
+FT                   /gene=group_1043
+FT                   /taxa="5202_contigs"
+FT   variation       177
+FT                   /colour=4
+FT                   /gene=group_1568
+FT                   /taxa="5403_contigs"
+FT   variation       581
+FT                   /colour=4
+FT                   /gene=group_1096
+FT                   /taxa="5403_contigs"
+FT   variation       488
+FT                   /colour=4
+FT                   /gene=bglA_1
+FT                   /taxa="3222_contigs"
+FT   variation       276
+FT                   /colour=4
+FT                   /gene=intQ
+FT                   /taxa="3222_contigs"
+FT   variation       391
+FT                   /colour=4
+FT                   /gene=group_100
+FT                   /taxa="3222_contigs"
+FT   variation       995
+FT                   /colour=4
+FT                   /gene=group_179
+FT                   /taxa="5403_contigs"
+FT   variation       835
+FT                   /colour=4
+FT                   /gene=group_1469
+FT                   /taxa="5403_contigs"
+FT   variation       628
+FT                   /colour=4
+FT                   /gene=group_1127
+FT                   /taxa="5403_contigs"
+FT   variation       611
+FT                   /colour=4
+FT                   /gene=group_1143
+FT                   /taxa="5403_contigs"
+FT   variation       1018
+FT                   /colour=4
+FT                   /gene=ssbA
+FT                   /taxa="5403_contigs"
+FT   variation       798
+FT                   /colour=4
+FT                   /gene=ulaC_2
+FT                   /taxa="5403_contigs"
+FT   variation       750
+FT                   /colour=4
+FT                   /gene=mtlR_1
+FT                   /taxa="5403_contigs"
+FT   variation       453
+FT                   /colour=10
+FT                   /gene=group_341
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1012
+FT                   /colour=4
+FT                   /gene=group_512
+FT                   /taxa="5403_contigs"
+FT   variation       1120
+FT                   /colour=10
+FT                   /gene=group_959
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1139
+FT                   /colour=4
+FT                   /gene=group_1511
+FT                   /taxa="5403_contigs"
+FT   variation       140
+FT                   /colour=4
+FT                   /gene=group_1420
+FT                   /taxa="5403_contigs"
+FT   variation       1034
+FT                   /colour=4
+FT                   /gene=group_1548
+FT                   /taxa="5403_contigs"
+FT   variation       604
+FT                   /colour=4
+FT                   /gene=group_1118
+FT                   /taxa="5403_contigs"
+FT   variation       706
+FT                   /colour=4
+FT                   /gene=group_1289
+FT                   /taxa="5403_contigs"
+FT   variation       715
+FT                   /colour=4
+FT                   /gene=group_1433
+FT                   /taxa="5403_contigs"
+FT   variation       756
+FT                   /colour=4
+FT                   /gene=srlR_1
+FT                   /taxa="5403_contigs"
+FT   variation       877
+FT                   /colour=4
+FT                   /gene=group_228
+FT                   /taxa="5403_contigs"
+FT   variation       43
+FT                   /colour=4
+FT                   /gene=group_867
+FT                   /taxa="5202_contigs"
+FT   variation       150
+FT                   /colour=4
+FT                   /gene=group_1430
+FT                   /taxa="5403_contigs"
+FT   variation       1277
+FT                   /colour=10
+FT                   /gene=group_493
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       681
+FT                   /colour=4
+FT                   /gene=group_1269
+FT                   /taxa="5403_contigs"
+FT   variation       760
+FT                   /colour=4
+FT                   /gene=group_1244
+FT                   /taxa="5403_contigs"
+FT   variation       1175
+FT                   /colour=10
+FT                   /gene=group_470
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       911
+FT                   /colour=4
+FT                   /gene=group_1363
+FT                   /taxa="5403_contigs"
+FT   variation       711
+FT                   /colour=4
+FT                   /gene=ssb_2
+FT                   /taxa="5403_contigs"
+FT   variation       1245
+FT                   /colour=4
+FT                   /gene=group_511
+FT                   /taxa="5403_contigs"
+FT   variation       909
+FT                   /colour=4
+FT                   /gene=xerC_3
+FT                   /taxa="5403_contigs"
+FT   variation       246
+FT                   /colour=4
+FT                   /gene=group_1039
+FT                   /taxa="5202_contigs"
+FT   variation       527
+FT                   /colour=4
+FT                   /gene=group_680
+FT                   /taxa="3222_contigs"
+FT   variation       545
+FT                   /colour=4
+FT                   /gene=group_67
+FT                   /taxa="3222_contigs"
+FT   variation       1290
+FT                   /colour=4
+FT                   /gene=pglH
+FT                   /taxa="5202_contigs"
+FT   variation       1238
+FT                   /colour=10
+FT                   /gene=group_31
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       374
+FT                   /colour=4
+FT                   /gene=group_1061
+FT                   /taxa="5202_contigs"
+FT   variation       969
+FT                   /colour=4
+FT                   /gene=group_1202
+FT                   /taxa="5403_contigs"
+FT   variation       833
+FT                   /colour=4
+FT                   /gene=group_1605
+FT                   /taxa="5403_contigs"
+FT   variation       260
+FT                   /colour=4
+FT                   /gene=group_2
+FT                   /taxa="3222_contigs"
+FT   variation       1216
+FT                   /colour=4
+FT                   /gene=group_800
+FT                   /taxa="5202_contigs"
+FT   variation       457
+FT                   /colour=4
+FT                   /gene=group_1015
+FT                   /taxa="5202_contigs"
+FT   variation       1300
+FT                   /colour=4
+FT                   /gene=group_1684
+FT                   /taxa="5403_contigs"
+FT   variation       866
+FT                   /colour=4
+FT                   /gene=adaA_4
+FT                   /taxa="5403_contigs"
+FT   variation       902
+FT                   /colour=4
+FT                   /gene=group_1689
+FT                   /taxa="5403_contigs"
+FT   variation       185
+FT                   /colour=4
+FT                   /gene=bin3_2
+FT                   /taxa="5403_contigs"
+FT   variation       801
+FT                   /colour=4
+FT                   /gene=group_1653
+FT                   /taxa="5403_contigs"
+FT   variation       1317
+FT                   /colour=10
+FT                   /gene=group_938
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       567
+FT                   /colour=4
+FT                   /gene=moaA2
+FT                   /taxa="3222_contigs"
+FT   variation       939
+FT                   /colour=4
+FT                   /gene=group_1192
+FT                   /taxa="5403_contigs"
+FT   variation       1273
+FT                   /colour=4
+FT                   /gene=group_1047
+FT                   /taxa="5202_contigs"
+FT   variation       358
+FT                   /colour=4
+FT                   /gene=hpaIIM
+FT                   /taxa="3222_contigs"
+FT   variation       38
+FT                   /colour=10
+FT                   /gene=iolD
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       336
+FT                   /colour=4
+FT                   /gene=group_713
+FT                   /taxa="3222_contigs"
+FT   variation       174
+FT                   /colour=4
+FT                   /gene=group_1571
+FT                   /taxa="5403_contigs"
+FT   variation       1099
+FT                   /colour=4
+FT                   /gene=group_980
+FT                   /taxa="5202_contigs"
+FT   variation       496
+FT                   /colour=10
+FT                   /gene=group_457
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1387
+FT                   /colour=4
+FT                   /gene=group_930
+FT                   /taxa="5202_contigs"
+FT   variation       12
+FT                   /colour=10
+FT                   /gene=group_475
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       475
+FT                   /colour=4
+FT                   /gene=group_641
+FT                   /taxa="3222_contigs"
+FT   variation       160
+FT                   /colour=4
+FT                   /gene=xylB_2
+FT                   /taxa="5403_contigs"
+FT   variation       129
+FT                   /colour=4
+FT                   /gene=group_1411
+FT                   /taxa="5403_contigs"
+FT   variation       735
+FT                   /colour=4
+FT                   /gene=group_1449
+FT                   /taxa="5403_contigs"
+FT   variation       52
+FT                   /colour=4
+FT                   /gene=group_876
+FT                   /taxa="5202_contigs"
+FT   variation       1069
+FT                   /colour=4
+FT                   /gene=group_945
+FT                   /taxa="5202_contigs"
+FT   variation       1279
+FT                   /colour=4
+FT                   /gene=group_1049
+FT                   /taxa="5202_contigs"
+FT   variation       603
+FT                   /colour=4
+FT                   /gene=group_1117
+FT                   /taxa="5403_contigs"
+FT   variation       242
+FT                   /colour=4
+FT                   /gene=group_1410
+FT                   /taxa="5403_contigs"
+FT   variation       114
+FT                   /colour=4
+FT                   /gene=xerC_4
+FT                   /taxa="5403_contigs"
+FT   variation       461
+FT                   /colour=4
+FT                   /gene=qorB
+FT                   /taxa="3222_contigs"
+FT   variation       57
+FT                   /colour=4
+FT                   /gene=group_881
+FT                   /taxa="5202_contigs"
+FT   variation       1351
+FT                   /colour=4
+FT                   /gene=group_919
+FT                   /taxa="5202_contigs"
+FT   variation       507
+FT                   /colour=4
+FT                   /gene=group_732
+FT                   /taxa="3222_contigs"
+FT   variation       450
+FT                   /colour=4
+FT                   /gene=group_622
+FT                   /taxa="3222_contigs"
+FT   variation       893
+FT                   /colour=4
+FT                   /gene=group_1669
+FT                   /taxa="5403_contigs"
+FT   variation       1192
+FT                   /colour=4
+FT                   /gene=group_1382
+FT                   /taxa="5403_contigs"
+FT   variation       1154
+FT                   /colour=4
+FT                   /gene=group_1515
+FT                   /taxa="5403_contigs"
+FT   variation       321
+FT                   /colour=4
+FT                   /gene=yydI
+FT                   /taxa="5403_contigs"
+FT   variation       946
+FT                   /colour=4
+FT                   /gene=group_1250
+FT                   /taxa="5403_contigs"
+FT   variation       1085
+FT                   /colour=4
+FT                   /gene=group_1638
+FT                   /taxa="5403_contigs"
+FT   variation       732
+FT                   /colour=4
+FT                   /gene=group_1452
+FT                   /taxa="5403_contigs"
+FT   variation       1202
+FT                   /colour=4
+FT                   /gene=group_1354
+FT                   /taxa="5403_contigs"
+FT   variation       1239
+FT                   /colour=4
+FT                   /gene=group_33
+FT                   /taxa="5403_contigs"
+FT   variation       1104
+FT                   /colour=4
+FT                   /gene=group_975
+FT                   /taxa="5202_contigs"
+FT   variation       1049
+FT                   /colour=4
+FT                   /gene=group_1533
+FT                   /taxa="5403_contigs"
+FT   variation       613
+FT                   /colour=4
+FT                   /gene=group_1141
+FT                   /taxa="5403_contigs"
+FT   variation       1225
+FT                   /colour=4
+FT                   /gene=group_809
+FT                   /taxa="5202_contigs"
+FT   variation       182
+FT                   /colour=4
+FT                   /gene=group_1563
+FT                   /taxa="5403_contigs"
+FT   variation       1152
+FT                   /colour=4
+FT                   /gene=group_947
+FT                   /taxa="5202_contigs"
+FT   variation       709
+FT                   /colour=4
+FT                   /gene=group_1292
+FT                   /taxa="5403_contigs"
+FT   variation       378
+FT                   /colour=4
+FT                   /gene=group_758
+FT                   /taxa="3222_contigs"
+FT   variation       310
+FT                   /colour=4
+FT                   /gene=group_992
+FT                   /taxa="5202_contigs"
+FT   variation       181
+FT                   /colour=4
+FT                   /gene=nanE_2
+FT                   /taxa="5403_contigs"
+FT   variation       370
+FT                   /colour=4
+FT                   /gene=traC
+FT                   /taxa="3222_contigs"
+FT   variation       642
+FT                   /colour=4
+FT                   /gene=group_1331
+FT                   /taxa="5403_contigs"
+FT   variation       1003
+FT                   /colour=4
+FT                   /gene=group_1215
+FT                   /taxa="5403_contigs"
+FT   variation       1304
+FT                   /colour=10
+FT                   /gene=malL_2
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       33
+FT                   /colour=10
+FT                   /gene=iolE_1
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       385
+FT                   /colour=10
+FT                   /gene=cas9_1
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       115
+FT                   /colour=4
+FT                   /gene=group_1475
+FT                   /taxa="5403_contigs"
+FT   variation       1355
+FT                   /colour=4
+FT                   /gene=group_12
+FT                   /taxa="5202_contigs"
+FT   variation       217
+FT                   /colour=4
+FT                   /gene=group_767
+FT                   /taxa="5202_contigs"
+FT   variation       1263
+FT                   /colour=4
+FT                   /gene=group_1181
+FT                   /taxa="5403_contigs"
+FT   variation       767
+FT                   /colour=4
+FT                   /gene=pgdA_2
+FT                   /taxa="5403_contigs"
+FT   variation       1161
+FT                   /colour=4
+FT                   /gene=group_502
+FT                   /taxa="5403_contigs"
+FT   variation       929
+FT                   /colour=4
+FT                   /gene=group_1162
+FT                   /taxa="5403_contigs"
+FT   variation       1183
+FT                   /colour=4
+FT                   /gene=immA
+FT                   /taxa="5403_contigs"
+FT   variation       1092
+FT                   /colour=4
+FT                   /gene=group_987
+FT                   /taxa="5202_contigs"
+FT   variation       1024
+FT                   /colour=4
+FT                   /gene=group_1090
+FT                   /taxa="5403_contigs"
+FT   variation       104
+FT                   /colour=4
+FT                   /gene=group_1485
+FT                   /taxa="5403_contigs"
+FT   variation       738
+FT                   /colour=4
+FT                   /gene=group_1446
+FT                   /taxa="5403_contigs"
+FT   variation       324
+FT                   /colour=10
+FT                   /gene=alsE
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       665
+FT                   /colour=4
+FT                   /gene=group_1313
+FT                   /taxa="5403_contigs"
+FT   variation       736
+FT                   /colour=4
+FT                   /gene=group_1448
+FT                   /taxa="5403_contigs"
+FT   variation       429
+FT                   /colour=4
+FT                   /gene=group_646
+FT                   /taxa="3222_contigs"
+FT   variation       885
+FT                   /colour=4
+FT                   /gene=group_1677
+FT                   /taxa="5403_contigs"
+FT   variation       31
+FT                   /colour=10
+FT                   /gene=celA_2
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1222
+FT                   /colour=4
+FT                   /gene=group_806
+FT                   /taxa="5202_contigs"
+FT   variation       269
+FT                   /colour=4
+FT                   /gene=group_638
+FT                   /taxa="3222_contigs"
+FT   variation       1232
+FT                   /colour=4
+FT                   /gene=group_816
+FT                   /taxa="5202_contigs"
+FT   variation       309
+FT                   /colour=4
+FT                   /gene=group_991
+FT                   /taxa="5202_contigs"
+FT   variation       449
+FT                   /colour=4
+FT                   /gene=dam
+FT                   /taxa="3222_contigs"
+FT   variation       1189
+FT                   /colour=4
+FT                   /gene=group_1385
+FT                   /taxa="5403_contigs"
+FT   variation       229
+FT                   /colour=4
+FT                   /gene=group_111
+FT                   /taxa="3222_contigs"
+FT   variation       167
+FT                   /colour=4
+FT                   /gene=nagC
+FT                   /taxa="5403_contigs"
+FT   variation       28
+FT                   /colour=10
+FT                   /gene=group_852
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       858
+FT                   /colour=4
+FT                   /gene=group_1080
+FT                   /taxa="5403_contigs"
+FT   variation       537
+FT                   /colour=10
+FT                   /gene=group_377
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       690
+FT                   /colour=4
+FT                   /gene=group_1273
+FT                   /taxa="5403_contigs"
+FT   variation       312
+FT                   /colour=4
+FT                   /gene=group_993
+FT                   /taxa="5202_contigs"
+FT   variation       825
+FT                   /colour=4
+FT                   /gene=lagD
+FT                   /taxa="5403_contigs"
+FT   variation       489
+FT                   /colour=4
+FT                   /gene=group_619
+FT                   /taxa="3222_contigs"
+FT   variation       1215
+FT                   /colour=4
+FT                   /gene=group_799
+FT                   /taxa="5202_contigs"
+FT   variation       420
+FT                   /colour=4
+FT                   /gene=group_554
+FT                   /taxa="3222_contigs"
+FT   variation       824
+FT                   /colour=4
+FT                   /gene=group_1602
+FT                   /taxa="5403_contigs"
+FT   variation       364
+FT                   /colour=4
+FT                   /gene=ltrA
+FT                   /taxa="5403_contigs"
+FT   variation       1335
+FT                   /colour=4
+FT                   /gene=group_1339
+FT                   /taxa="5403_contigs"
+FT   variation       14
+FT                   /colour=4
+FT                   /gene=group_904
+FT                   /taxa="5202_contigs"
+FT   variation       1077
+FT                   /colour=4
+FT                   /gene=group_1630
+FT                   /taxa="5403_contigs"
+FT   variation       1083
+FT                   /colour=4
+FT                   /gene=group_1636
+FT                   /taxa="5403_contigs"
+FT   variation       1217
+FT                   /colour=4
+FT                   /gene=group_801
+FT                   /taxa="5202_contigs"
+FT   variation       371
+FT                   /colour=4
+FT                   /gene=group_697
+FT                   /taxa="3222_contigs"
+FT   variation       1182
+FT                   /colour=4
+FT                   /gene=Int-Tn_7
+FT                   /taxa="5403_contigs"
+FT   variation       96
+FT                   /colour=4
+FT                   /gene=qseB
+FT                   /taxa="5403_contigs"
+FT   variation       1388
+FT                   /colour=4
+FT                   /gene=group_159
+FT                   /taxa="5202_contigs"
+FT   variation       110
+FT                   /colour=4
+FT                   /gene=group_1480
+FT                   /taxa="5403_contigs"
+FT   variation       193
+FT                   /colour=10
+FT                   /gene=group_431
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1108
+FT                   /colour=4
+FT                   /gene=group_971
+FT                   /taxa="5202_contigs"
+FT   variation       1125
+FT                   /colour=4
+FT                   /gene=group_1368
+FT                   /taxa="5403_contigs"
+FT   variation       765
+FT                   /colour=4
+FT                   /gene=group_1611
+FT                   /taxa="5403_contigs"
+FT   variation       1361
+FT                   /colour=4
+FT                   /gene=group_928
+FT                   /taxa="5202_contigs"
+FT   variation       1252
+FT                   /colour=4
+FT                   /gene=group_1175
+FT                   /taxa="5403_contigs"
+FT   variation       971
+FT                   /colour=4
+FT                   /gene=dgaE_1
+FT                   /taxa="5403_contigs"
+FT   variation       1147
+FT                   /colour=10
+FT                   /gene=group_948
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       568
+FT                   /colour=10
+FT                   /gene=ant1
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1023
+FT                   /colour=4
+FT                   /gene=group_9
+FT                   /taxa="5403_contigs"
+FT   variation       1229
+FT                   /colour=4
+FT                   /gene=group_813
+FT                   /taxa="5202_contigs"
+FT   variation       448
+FT                   /colour=4
+FT                   /gene=group_665
+FT                   /taxa="3222_contigs"
+FT   variation       552
+FT                   /colour=4
+FT                   /gene=group_155
+FT                   /taxa="3222_contigs"
+FT   variation       1117
+FT                   /colour=4
+FT                   /gene=group_962
+FT                   /taxa="5202_contigs"
+FT   variation       323
+FT                   /colour=4
+FT                   /gene=group_87
+FT                   /taxa="3222_contigs"
+FT   variation       1347
+FT                   /colour=10
+FT                   /gene=group_915
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1280
+FT                   /colour=4
+FT                   /gene=group_1050
+FT                   /taxa="5202_contigs"
+FT   variation       1210
+FT                   /colour=10
+FT                   /gene=sle1
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       864
+FT                   /colour=4
+FT                   /gene=rhaA
+FT                   /taxa="5403_contigs"
+FT   variation       1199
+FT                   /colour=10
+FT                   /gene=hemH
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1255
+FT                   /colour=4
+FT                   /gene=hin_1
+FT                   /taxa="5403_contigs"
+FT   variation       774
+FT                   /colour=4
+FT                   /gene=irtA
+FT                   /taxa="5403_contigs"
+FT   variation       318
+FT                   /colour=4
+FT                   /gene=yydF
+FT                   /taxa="5403_contigs"
+FT   variation       917
+FT                   /colour=4
+FT                   /gene=group_1401
+FT                   /taxa="5403_contigs"
+FT   variation       583
+FT                   /colour=4
+FT                   /gene=group_505
+FT                   /taxa="5403_contigs"
+FT   variation       426
+FT                   /colour=4
+FT                   /gene=group_578
+FT                   /taxa="3222_contigs"
+FT   variation       1066
+FT                   /colour=4
+FT                   /gene=group_942
+FT                   /taxa="5202_contigs"
+FT   variation       1122
+FT                   /colour=4
+FT                   /gene=group_957
+FT                   /taxa="5202_contigs"
+FT   variation       362
+FT                   /colour=4
+FT                   /gene=group_22
+FT                   /taxa="5403_contigs"
+FT   variation       122
+FT                   /colour=10
+FT                   /gene=group_785
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       264
+FT                   /colour=4
+FT                   /gene=group_616
+FT                   /taxa="3222_contigs"
+FT   variation       512
+FT                   /colour=4
+FT                   /gene=group_118
+FT                   /taxa="3222_contigs"
+FT   variation       1005
+FT                   /colour=4
+FT                   /gene=group_1150
+FT                   /taxa="5403_contigs"
+FT   variation       481
+FT                   /colour=4
+FT                   /gene=group_754
+FT                   /taxa="3222_contigs"
+FT   variation       401
+FT                   /colour=10
+FT                   /gene=group_450
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       101
+FT                   /colour=4
+FT                   /gene=panB
+FT                   /taxa="5403_contigs"
+FT   variation       1360
+FT                   /colour=4
+FT                   /gene=group_929
+FT                   /taxa="5202_contigs"
+FT   variation       728
+FT                   /colour=4
+FT                   /gene=asa1_3
+FT                   /taxa="5403_contigs"
+FT   variation       128
+FT                   /colour=10
+FT                   /gene=group_465
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       226
+FT                   /colour=10
+FT                   /gene=group_107
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       232
+FT                   /colour=10
+FT                   /gene=group_584
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       74
+FT                   /colour=4
+FT                   /gene=lgt_2
+FT                   /taxa="5202_contigs"
+FT   variation       134
+FT                   /colour=4
+FT                   /gene=group_1415
+FT                   /taxa="5403_contigs"
+FT   variation       186
+FT                   /colour=10
+FT                   /gene=bin3
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1084
+FT                   /colour=4
+FT                   /gene=group_1637
+FT                   /taxa="5403_contigs"
+FT   variation       482
+FT                   /colour=4
+FT                   /gene=group_756
+FT                   /taxa="3222_contigs"
+FT   variation       438
+FT                   /colour=4
+FT                   /gene=group_656
+FT                   /taxa="3222_contigs"
+FT   variation       669
+FT                   /colour=4
+FT                   /gene=smc_4
+FT                   /taxa="5403_contigs"
+FT   variation       1051
+FT                   /colour=4
+FT                   /gene=group_1531
+FT                   /taxa="5403_contigs"
+FT   variation       297
+FT                   /colour=4
+FT                   /gene=group_735
+FT                   /taxa="3222_contigs"
+FT   variation       828
+FT                   /colour=4
+FT                   /gene=group_1610
+FT                   /taxa="5403_contigs"
+FT   variation       1072
+FT                   /colour=4
+FT                   /gene=group_1512
+FT                   /taxa="5403_contigs"
+FT   variation       655
+FT                   /colour=4
+FT                   /gene=group_1303
+FT                   /taxa="5403_contigs"
+FT   variation       422
+FT                   /colour=4
+FT                   /gene=group_575
+FT                   /taxa="3222_contigs"
+FT   variation       223
+FT                   /colour=4
+FT                   /gene=group_106
+FT                   /taxa="5202_contigs"
+FT   variation       34
+FT                   /colour=10
+FT                   /gene=iolX
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       924
+FT                   /colour=4
+FT                   /gene=group_1166
+FT                   /taxa="5403_contigs"
+FT   variation       331
+FT                   /colour=4
+FT                   /gene=group_718
+FT                   /taxa="3222_contigs"
+FT   variation       436
+FT                   /colour=4
+FT                   /gene=group_677
+FT                   /taxa="3222_contigs"
+FT   variation       547
+FT                   /colour=4
+FT                   /gene=group_174
+FT                   /taxa="3222_contigs"
+FT   variation       1109
+FT                   /colour=4
+FT                   /gene=group_970
+FT                   /taxa="5202_contigs"
+FT   variation       1293
+FT                   /colour=4
+FT                   /gene=apt_2
+FT                   /taxa="5403_contigs"
+FT   variation       975
+FT                   /colour=4
+FT                   /gene=sigW
+FT                   /taxa="5403_contigs"
+FT   variation       664
+FT                   /colour=4
+FT                   /gene=group_1312
+FT                   /taxa="5403_contigs"
+FT   variation       214
+FT                   /colour=4
+FT                   /gene=group_770
+FT                   /taxa="5202_contigs"
+FT   variation       487
+FT                   /colour=10
+FT                   /gene=lmrA
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       781
+FT                   /colour=4
+FT                   /gene=group_1623
+FT                   /taxa="5403_contigs"
+FT   variation       1
+FT                   /colour=4
+FT                   /gene=group_788
+FT                   /taxa="5202_contigs"
+FT   variation       657
+FT                   /colour=4
+FT                   /gene=group_1305
+FT                   /taxa="5403_contigs"
+FT   variation       268
+FT                   /colour=4
+FT                   /gene=drrA_2
+FT                   /taxa="3222_contigs"
+FT   variation       274
+FT                   /colour=4
+FT                   /gene=arsR
+FT                   /taxa="3222_contigs"
+FT   variation       236
+FT                   /colour=4
+FT                   /gene=group_747
+FT                   /taxa="3222_contigs"
+FT   variation       822
+FT                   /colour=4
+FT                   /gene=group_531
+FT                   /taxa="5403_contigs"
+FT   variation       417
+FT                   /colour=4
+FT                   /gene=group_556
+FT                   /taxa="3222_contigs"
+FT   variation       455
+FT                   /colour=10
+FT                   /gene=group_51
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       719
+FT                   /colour=4
+FT                   /gene=group_1437
+FT                   /taxa="5403_contigs"
+FT   variation       742
+FT                   /colour=4
+FT                   /gene=group_1226
+FT                   /taxa="5403_contigs"
+FT   variation       743
+FT                   /colour=4
+FT                   /gene=group_1227
+FT                   /taxa="5403_contigs"
+FT   variation       320
+FT                   /colour=4
+FT                   /gene=yydH
+FT                   /taxa="5403_contigs"
+FT   variation       831
+FT                   /colour=4
+FT                   /gene=group_1607
+FT                   /taxa="5403_contigs"
+FT   variation       724
+FT                   /colour=4
+FT                   /gene=group_1442
+FT                   /taxa="5403_contigs"
+FT   variation       1311
+FT                   /colour=4
+FT                   /gene=group_1007
+FT                   /taxa="5202_contigs"
+FT   variation       480
+FT                   /colour=4
+FT                   /gene=rhaS_1
+FT                   /taxa="3222_contigs"
+FT   variation       862
+FT                   /colour=4
+FT                   /gene=rhaM
+FT                   /taxa="5403_contigs"
+FT   variation       928
+FT                   /colour=4
+FT                   /gene=group_1161
+FT                   /taxa="5403_contigs"
+FT   variation       270
+FT                   /colour=4
+FT                   /gene=cdr_2
+FT                   /taxa="3222_contigs"
+FT   variation       987
+FT                   /colour=4
+FT                   /gene=group_1335
+FT                   /taxa="5403_contigs"
+FT   variation       1191
+FT                   /colour=4
+FT                   /gene=group_1383
+FT                   /taxa="5403_contigs"
+FT   variation       570
+FT                   /colour=10
+FT                   /gene=group_587
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       149
+FT                   /colour=4
+FT                   /gene=group_1429
+FT                   /taxa="5403_contigs"
+FT   variation       1022
+FT                   /colour=4
+FT                   /gene=group_1091
+FT                   /taxa="5403_contigs"
+FT   variation       271
+FT                   /colour=4
+FT                   /gene=acr3_2
+FT                   /taxa="3222_contigs"
+FT   variation       441
+FT                   /colour=4
+FT                   /gene=group_655
+FT                   /taxa="3222_contigs"
+FT   variation       462
+FT                   /colour=4
+FT                   /gene=group_741
+FT                   /taxa="3222_contigs"
+FT   variation       778
+FT                   /colour=4
+FT                   /gene=mntR
+FT                   /taxa="5403_contigs"
+FT   variation       680
+FT                   /colour=4
+FT                   /gene=group_1268
+FT                   /taxa="5403_contigs"
+FT   variation       1144
+FT                   /colour=10
+FT                   /gene=group_482
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       625
+FT                   /colour=4
+FT                   /gene=group_1130
+FT                   /taxa="5403_contigs"
+FT   variation       1197
+FT                   /colour=4
+FT                   /gene=group_1695
+FT                   /taxa="5403_contigs"
+FT   variation       675
+FT                   /colour=4
+FT                   /gene=group_1321
+FT                   /taxa="5403_contigs"
+FT   variation       672
+FT                   /colour=4
+FT                   /gene=group_1318
+FT                   /taxa="5403_contigs"
+FT   variation       1354
+FT                   /colour=4
+FT                   /gene=group_11
+FT                   /taxa="5202_contigs"
+FT   variation       1006
+FT                   /colour=4
+FT                   /gene=group_176
+FT                   /taxa="5403_contigs"
+FT   variation       283
+FT                   /colour=4
+FT                   /gene=sdpR
+FT                   /taxa="3222_contigs"
+FT   variation       942
+FT                   /colour=4
+FT                   /gene=group_1195
+FT                   /taxa="5403_contigs"
+FT   variation       716
+FT                   /colour=4
+FT                   /gene=group_1434
+FT                   /taxa="5403_contigs"
+FT   variation       705
+FT                   /colour=4
+FT                   /gene=group_1288
+FT                   /taxa="5403_contigs"
+FT   variation       485
+FT                   /colour=10
+FT                   /gene=cvfB
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       509
+FT                   /colour=4
+FT                   /gene=group_580
+FT                   /taxa="3222_contigs"
+FT   variation       155
+FT                   /colour=4
+FT                   /gene=group_688
+FT                   /taxa="3222_contigs"
+FT   variation       1340
+FT                   /colour=4
+FT                   /gene=group_911
+FT                   /taxa="5202_contigs"
+FT   variation       850
+FT                   /colour=4
+FT                   /gene=group_1072
+FT                   /taxa="5403_contigs"
+FT   variation       1353
+FT                   /colour=10
+FT                   /gene=gatA_3
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       708
+FT                   /colour=4
+FT                   /gene=group_1291
+FT                   /taxa="5403_contigs"
+FT   variation       519
+FT                   /colour=4
+FT                   /gene=dapE_2
+FT                   /taxa="3222_contigs"
+FT   variation       368
+FT                   /colour=10
+FT                   /gene=epsJ
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1368
+FT                   /colour=10
+FT                   /gene=group_1010
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       465
+FT                   /colour=4
+FT                   /gene=group_738
+FT                   /taxa="3222_contigs"
+FT   variation       691
+FT                   /colour=4
+FT                   /gene=levS_1
+FT                   /taxa="5403_contigs"
+FT   variation       932
+FT                   /colour=4
+FT                   /gene=group_1205
+FT                   /taxa="5403_contigs"
+FT   variation       859
+FT                   /colour=4
+FT                   /gene=yesR
+FT                   /taxa="5403_contigs"
+FT   variation       754
+FT                   /colour=4
+FT                   /gene=gatC_2
+FT                   /taxa="5403_contigs"
+FT   variation       646
+FT                   /colour=4
+FT                   /gene=group_1327
+FT                   /taxa="5403_contigs"
+FT   variation       895
+FT                   /colour=4
+FT                   /gene=group_1667
+FT                   /taxa="5403_contigs"
+FT   variation       86
+FT                   /colour=4
+FT                   /gene=group_528
+FT                   /taxa="5403_contigs"
+FT   variation       618
+FT                   /colour=4
+FT                   /gene=group_1136
+FT                   /taxa="5403_contigs"
+FT   variation       651
+FT                   /colour=4
+FT                   /gene=group_1299
+FT                   /taxa="5403_contigs"
+FT   variation       1193
+FT                   /colour=4
+FT                   /gene=group_1381
+FT                   /taxa="5403_contigs"
+FT   variation       553
+FT                   /colour=4
+FT                   /gene=group_545
+FT                   /taxa="3222_contigs"
+FT   variation       73
+FT                   /colour=4
+FT                   /gene=group_892
+FT                   /taxa="5202_contigs"
+FT   variation       93
+FT                   /colour=4
+FT                   /gene=group_1496
+FT                   /taxa="5403_contigs"
+FT   variation       1073
+FT                   /colour=4
+FT                   /gene=group_953
+FT                   /taxa="5202_contigs"
+FT   variation       46
+FT                   /colour=4
+FT                   /gene=group_870
+FT                   /taxa="5202_contigs"
+FT   variation       972
+FT                   /colour=10
+FT                   /gene=dgaF_1
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1029
+FT                   /colour=4
+FT                   /gene=group_1553
+FT                   /taxa="5403_contigs"
+FT   variation       910
+FT                   /colour=4
+FT                   /gene=group_1364
+FT                   /taxa="5403_contigs"
+FT   variation       54
+FT                   /colour=4
+FT                   /gene=group_878
+FT                   /taxa="5202_contigs"
+FT   variation       1219
+FT                   /colour=4
+FT                   /gene=group_803
+FT                   /taxa="5202_contigs"
+FT   variation       230
+FT                   /colour=10
+FT                   /gene=group_583
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       838
+FT                   /colour=4
+FT                   /gene=group_1458
+FT                   /taxa="5403_contigs"
+FT   variation       495
+FT                   /colour=4
+FT                   /gene=group_753
+FT                   /taxa="3222_contigs"
+FT   variation       1048
+FT                   /colour=4
+FT                   /gene=smc_5
+FT                   /taxa="5403_contigs"
+FT   variation       1093
+FT                   /colour=4
+FT                   /gene=group_986
+FT                   /taxa="5202_contigs"
+FT   variation       247
+FT                   /colour=4
+FT                   /gene=group_1040
+FT                   /taxa="5202_contigs"
+FT   variation       720
+FT                   /colour=4
+FT                   /gene=group_1438
+FT                   /taxa="5403_contigs"
+FT   variation       981
+FT                   /colour=4
+FT                   /gene=group_135
+FT                   /taxa="5403_contigs"
+FT   variation       770
+FT                   /colour=4
+FT                   /gene=group_1616
+FT                   /taxa="5403_contigs"
+FT   variation       161
+FT                   /colour=4
+FT                   /gene=xylA
+FT                   /taxa="5403_contigs"
+FT   variation       922
+FT                   /colour=4
+FT                   /gene=group_1402
+FT                   /taxa="5403_contigs"
+FT   variation       1028
+FT                   /colour=4
+FT                   /gene=group_1554
+FT                   /taxa="5403_contigs"
+FT   variation       1284
+FT                   /colour=4
+FT                   /gene=group_836
+FT                   /taxa="5202_contigs"
+FT   variation       143
+FT                   /colour=4
+FT                   /gene=group_1423
+FT                   /taxa="5403_contigs"
+FT   variation       726
+FT                   /colour=4
+FT                   /gene=group_1456
+FT                   /taxa="5403_contigs"
+FT   variation       667
+FT                   /colour=4
+FT                   /gene=group_1315
+FT                   /taxa="5403_contigs"
+FT   variation       346
+FT                   /colour=4
+FT                   /gene=group_703
+FT                   /taxa="3222_contigs"
+FT   variation       1106
+FT                   /colour=4
+FT                   /gene=group_973
+FT                   /taxa="5202_contigs"
+FT   variation       1170
+FT                   /colour=4
+FT                   /gene=group_207
+FT                   /taxa="5403_contigs"
+FT   variation       1009
+FT                   /colour=4
+FT                   /gene=group_1373
+FT                   /taxa="5403_contigs"
+FT   variation       354
+FT                   /colour=10
+FT                   /gene=group_589
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       389
+FT                   /colour=10
+FT                   /gene=csn2
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       790
+FT                   /colour=4
+FT                   /gene=gpmA_4
+FT                   /taxa="5403_contigs"
+FT   variation       863
+FT                   /colour=4
+FT                   /gene=rhaD
+FT                   /taxa="5403_contigs"
+FT   variation       714
+FT                   /colour=4
+FT                   /gene=dinJ
+FT                   /taxa="5403_contigs"
+FT   variation       989
+FT                   /colour=4
+FT                   /gene=group_78
+FT                   /taxa="5403_contigs"
+FT   variation       837
+FT                   /colour=4
+FT                   /gene=group_1467
+FT                   /taxa="5403_contigs"
+FT   variation       350
+FT                   /colour=4
+FT                   /gene=group_700
+FT                   /taxa="3222_contigs"
+FT   variation       404
+FT                   /colour=4
+FT                   /gene=ftsK_2
+FT                   /taxa="3222_contigs"
+FT   variation       1119
+FT                   /colour=4
+FT                   /gene=group_960
+FT                   /taxa="5202_contigs"
+FT   variation       671
+FT                   /colour=4
+FT                   /gene=group_1317
+FT                   /taxa="5403_contigs"
+FT   variation       158
+FT                   /colour=4
+FT                   /gene=group_1558
+FT                   /taxa="5403_contigs"
+FT   variation       506
+FT                   /colour=4
+FT                   /gene=group_733
+FT                   /taxa="3222_contigs"
+FT   variation       19
+FT                   /colour=4
+FT                   /gene=group_1154
+FT                   /taxa="5403_contigs"
+FT   variation       508
+FT                   /colour=4
+FT                   /gene=group_581
+FT                   /taxa="3222_contigs"
+FT   variation       697
+FT                   /colour=4
+FT                   /gene=group_1280
+FT                   /taxa="5403_contigs"
+FT   variation       730
+FT                   /colour=4
+FT                   /gene=group_1454
+FT                   /taxa="5403_contigs"
+FT   variation       645
+FT                   /colour=4
+FT                   /gene=group_1328
+FT                   /taxa="5403_contigs"
+FT   variation       598
+FT                   /colour=4
+FT                   /gene=group_1112
+FT                   /taxa="5403_contigs"
+FT   variation       243
+FT                   /colour=10
+FT                   /gene=group_491
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       263
+FT                   /colour=4
+FT                   /gene=group_617
+FT                   /taxa="3222_contigs"
+FT   variation       332
+FT                   /colour=4
+FT                   /gene=ziaR
+FT                   /taxa="3222_contigs"
+FT   variation       1030
+FT                   /colour=4
+FT                   /gene=group_1552
+FT                   /taxa="5403_contigs"
+FT   variation       727
+FT                   /colour=4
+FT                   /gene=group_1455
+FT                   /taxa="5403_contigs"
+FT   variation       1319
+FT                   /colour=4
+FT                   /gene=group_1023
+FT                   /taxa="5202_contigs"
+FT   variation       1027
+FT                   /colour=4
+FT                   /gene=group_1555
+FT                   /taxa="5403_contigs"
+FT   variation       985
+FT                   /colour=4
+FT                   /gene=wbbD
+FT                   /taxa="5403_contigs"
+FT   variation       267
+FT                   /colour=4
+FT                   /gene=yadH_2
+FT                   /taxa="3222_contigs"
+FT   variation       619
+FT                   /colour=4
+FT                   /gene=group_1135
+FT                   /taxa="5403_contigs"
+FT   variation       908
+FT                   /colour=4
+FT                   /gene=group_1359
+FT                   /taxa="5403_contigs"
+FT   variation       936
+FT                   /colour=4
+FT                   /gene=group_1208
+FT                   /taxa="5403_contigs"
+FT   variation       1112
+FT                   /colour=4
+FT                   /gene=group_967
+FT                   /taxa="5202_contigs"
+FT   variation       111
+FT                   /colour=4
+FT                   /gene=group_1479
+FT                   /taxa="5403_contigs"
+FT   variation       272
+FT                   /colour=4
+FT                   /gene=acr3_1
+FT                   /taxa="3222_contigs"
+FT   variation       258
+FT                   /colour=4
+FT                   /gene=group_611
+FT                   /taxa="3222_contigs"
+FT   variation       857
+FT                   /colour=4
+FT                   /gene=natR
+FT                   /taxa="5403_contigs"
+FT   variation       973
+FT                   /colour=4
+FT                   /gene=group_1198
+FT                   /taxa="5403_contigs"
+FT   variation       740
+FT                   /colour=4
+FT                   /gene=group_1444
+FT                   /taxa="5403_contigs"
+FT   variation       215
+FT                   /colour=4
+FT                   /gene=group_769
+FT                   /taxa="5202_contigs"
+FT   variation       637
+FT                   /colour=4
+FT                   /gene=group_1120
+FT                   /taxa="5403_contigs"
+FT   variation       1052
+FT                   /colour=4
+FT                   /gene=group_1530
+FT                   /taxa="5403_contigs"
+FT   variation       1327
+FT                   /colour=10
+FT                   /gene=group_742
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       32
+FT                   /colour=10
+FT                   /gene=yidK
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1281
+FT                   /colour=4
+FT                   /gene=dfrD
+FT                   /taxa="5202_contigs"
+FT   variation       1316
+FT                   /colour=10
+FT                   /gene=group_936
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       21
+FT                   /colour=10
+FT                   /gene=group_845
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       478
+FT                   /colour=4
+FT                   /gene=group_572
+FT                   /taxa="3222_contigs"
+FT   variation       59
+FT                   /colour=4
+FT                   /gene=group_883
+FT                   /taxa="5202_contigs"
+FT   variation       1116
+FT                   /colour=4
+FT                   /gene=group_963
+FT                   /taxa="5202_contigs"
+FT   variation       168
+FT                   /colour=4
+FT                   /gene=group_214
+FT                   /taxa="5403_contigs"
+FT   variation       892
+FT                   /colour=4
+FT                   /gene=group_1670
+FT                   /taxa="5403_contigs"
+FT   variation       119
+FT                   /colour=4
+FT                   /gene=sspB
+FT                   /taxa="5202_contigs"
+FT   variation       1080
+FT                   /colour=4
+FT                   /gene=group_1633
+FT                   /taxa="5403_contigs"
+FT   variation       239
+FT                   /colour=4
+FT                   /gene=group_744
+FT                   /taxa="3222_contigs"
+FT   variation       811
+FT                   /colour=4
+FT                   /gene=group_1592
+FT                   /taxa="5403_contigs"
+FT   variation       505
+FT                   /colour=10
+FT                   /gene=ttuB
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1233
+FT                   /colour=4
+FT                   /gene=group_817
+FT                   /taxa="5202_contigs"
+FT   variation       456
+FT                   /colour=4
+FT                   /gene=group_1016
+FT                   /taxa="5202_contigs"
+FT   variation       18
+FT                   /colour=10
+FT                   /gene=pgdS
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       4
+FT                   /colour=4
+FT                   /gene=dps_2
+FT                   /taxa="5202_contigs"
+FT   variation       184
+FT                   /colour=4
+FT                   /gene=group_1561
+FT                   /taxa="5403_contigs"
+FT   variation       178
+FT                   /colour=4
+FT                   /gene=group_1567
+FT                   /taxa="5403_contigs"
+FT   variation       397
+FT                   /colour=10
+FT                   /gene=group_280
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       591
+FT                   /colour=4
+FT                   /gene=group_1105
+FT                   /taxa="5403_contigs"
+FT   variation       99
+FT                   /colour=4
+FT                   /gene=group_1490
+FT                   /taxa="5403_contigs"
+FT   variation       1343
+FT                   /colour=4
+FT                   /gene=lhpI
+FT                   /taxa="5202_contigs"
+FT   variation       51
+FT                   /colour=4
+FT                   /gene=group_875
+FT                   /taxa="5202_contigs"
+FT   variation       546
+FT                   /colour=10
+FT                   /gene=group_420
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       948
+FT                   /colour=4
+FT                   /gene=group_1066
+FT                   /taxa="5403_contigs"
+FT   variation       594
+FT                   /colour=4
+FT                   /gene=group_1108
+FT                   /taxa="5403_contigs"
+FT   variation       1313
+FT                   /colour=4
+FT                   /gene=group_1005
+FT                   /taxa="5202_contigs"
+FT   variation       916
+FT                   /colour=4
+FT                   /gene=group_1400
+FT                   /taxa="5403_contigs"
+FT   variation       447
+FT                   /colour=4
+FT                   /gene=group_666
+FT                   /taxa="3222_contigs"
+FT   variation       1194
+FT                   /colour=10
+FT                   /gene=group_469
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1338
+FT                   /colour=4
+FT                   /gene=ytrF
+FT                   /taxa="5403_contigs"
+FT   variation       673
+FT                   /colour=4
+FT                   /gene=group_1319
+FT                   /taxa="5403_contigs"
+FT   variation       29
+FT                   /colour=10
+FT                   /gene=lacR_1
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1123
+FT                   /colour=4
+FT                   /gene=group_1366
+FT                   /taxa="5403_contigs"
+FT   variation       48
+FT                   /colour=4
+FT                   /gene=group_872
+FT                   /taxa="5202_contigs"
+FT   variation       608
+FT                   /colour=4
+FT                   /gene=xre_1
+FT                   /taxa="5403_contigs"
+FT   variation       218
+FT                   /colour=4
+FT                   /gene=essC
+FT                   /taxa="5202_contigs"
+FT   variation       1257
+FT                   /colour=4
+FT                   /gene=group_1187
+FT                   /taxa="5403_contigs"
+FT   variation       69
+FT                   /colour=4
+FT                   /gene=mepM
+FT                   /taxa="5202_contigs"
+FT   variation       704
+FT                   /colour=4
+FT                   /gene=group_1287
+FT                   /taxa="5403_contigs"
+FT   variation       1218
+FT                   /colour=4
+FT                   /gene=group_802
+FT                   /taxa="5202_contigs"
+FT   variation       513
+FT                   /colour=10
+FT                   /gene=yfkN_2
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       459
+FT                   /colour=4
+FT                   /gene=group_749
+FT                   /taxa="3222_contigs"
+FT   variation       1334
+FT                   /colour=4
+FT                   /gene=group_933
+FT                   /taxa="5202_contigs"
+FT   variation       1333
+FT                   /colour=4
+FT                   /gene=zntR
+FT                   /taxa="5202_contigs"
+FT   variation       661
+FT                   /colour=4
+FT                   /gene=group_1309
+FT                   /taxa="5403_contigs"
+FT   variation       977
+FT                   /colour=4
+FT                   /gene=group_1213
+FT                   /taxa="5403_contigs"
+FT   variation       725
+FT                   /colour=4
+FT                   /gene=group_518
+FT                   /taxa="5403_contigs"
+FT   variation       1130
+FT                   /colour=4
+FT                   /gene=group_956
+FT                   /taxa="5202_contigs"
+FT   variation       1264
+FT                   /colour=4
+FT                   /gene=group_1180
+FT                   /taxa="5403_contigs"
+FT   variation       287
+FT                   /colour=4
+FT                   /gene=group_1034
+FT                   /taxa="5202_contigs"
+FT   variation       330
+FT                   /colour=10
+FT                   /gene=fruA_3
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       82
+FT                   /colour=4
+FT                   /gene=group_901
+FT                   /taxa="5202_contigs"
+FT   variation       1271
+FT                   /colour=4
+FT                   /gene=group_1703
+FT                   /taxa="5403_contigs"
+FT   variation       696
+FT                   /colour=4
+FT                   /gene=group_1279
+FT                   /taxa="5403_contigs"
+FT   variation       315
+FT                   /colour=10
+FT                   /gene=group_596
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       340
+FT                   /colour=4
+FT                   /gene=group_717
+FT                   /taxa="3222_contigs"
+FT   variation       612
+FT                   /colour=4
+FT                   /gene=group_1142
+FT                   /taxa="5403_contigs"
+FT   variation       1381
+FT                   /colour=10
+FT                   /gene=group_488
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       718
+FT                   /colour=4
+FT                   /gene=group_1436
+FT                   /taxa="5403_contigs"
+FT   variation       7
+FT                   /colour=4
+FT                   /gene=group_1056
+FT                   /taxa="5202_contigs"
+FT   variation       768
+FT                   /colour=4
+FT                   /gene=group_1614
+FT                   /taxa="5403_contigs"
+FT   variation       56
+FT                   /colour=4
+FT                   /gene=group_880
+FT                   /taxa="5202_contigs"
+FT   variation       685
+FT                   /colour=4
+FT                   /gene=group_223
+FT                   /taxa="5403_contigs"
+FT   variation       970
+FT                   /colour=4
+FT                   /gene=group_1201
+FT                   /taxa="5403_contigs"
+FT   variation       205
+FT                   /colour=4
+FT                   /gene=group_777
+FT                   /taxa="5202_contigs"
+FT   variation       328
+FT                   /colour=10
+FT                   /gene=manP_2
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       83
+FT                   /colour=4
+FT                   /gene=group_902
+FT                   /taxa="5202_contigs"
+FT   variation       599
+FT                   /colour=4
+FT                   /gene=group_1113
+FT                   /taxa="5403_contigs"
+FT   variation       194
+FT                   /colour=10
+FT                   /gene=group_694
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1020
+FT                   /colour=4
+FT                   /gene=group_829
+FT                   /taxa="5202_contigs"
+FT   variation       418
+FT                   /colour=4
+FT                   /gene=group_552
+FT                   /taxa="3222_contigs"
+FT   variation       626
+FT                   /colour=4
+FT                   /gene=group_1129
+FT                   /taxa="5403_contigs"
+FT   variation       1179
+FT                   /colour=4
+FT                   /gene=group_825
+FT                   /taxa="5202_contigs"
+FT   variation       1274
+FT                   /colour=10
+FT                   /gene=soj_3
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       963
+FT                   /colour=4
+FT                   /gene=doc
+FT                   /taxa="5403_contigs"
+FT   variation       372
+FT                   /colour=4
+FT                   /gene=group_696
+FT                   /taxa="3222_contigs"
+FT   variation       687
+FT                   /colour=4
+FT                   /gene=group_515
+FT                   /taxa="5403_contigs"
+FT   variation       476
+FT                   /colour=10
+FT                   /gene=group_142
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1276
+FT                   /colour=4
+FT                   /gene=group_1698
+FT                   /taxa="5403_contigs"
+FT   variation       622
+FT                   /colour=4
+FT                   /gene=group_32
+FT                   /taxa="5403_contigs"
+FT   variation       135
+FT                   /colour=4
+FT                   /gene=group_1416
+FT                   /taxa="5403_contigs"
+FT   variation       1214
+FT                   /colour=4
+FT                   /gene=group_798
+FT                   /taxa="5202_contigs"
+FT   variation       752
+FT                   /colour=4
+FT                   /gene=gatA_1
+FT                   /taxa="5403_contigs"
+FT   variation       409
+FT                   /colour=4
+FT                   /gene=group_681
+FT                   /taxa="3222_contigs"
+FT   variation       146
+FT                   /colour=4
+FT                   /gene=group_1426
+FT                   /taxa="5403_contigs"
+FT   variation       633
+FT                   /colour=4
+FT                   /gene=group_1124
+FT                   /taxa="5403_contigs"
+FT   variation       61
+FT                   /colour=4
+FT                   /gene=group_885
+FT                   /taxa="5202_contigs"
+FT   variation       1010
+FT                   /colour=4
+FT                   /gene=group_1374
+FT                   /taxa="5403_contigs"
+FT   variation       395
+FT                   /colour=4
+FT                   /gene=group_1212
+FT                   /taxa="5403_contigs"
+FT   variation       773
+FT                   /colour=4
+FT                   /gene=ndvA
+FT                   /taxa="5403_contigs"
+FT   variation       1037
+FT                   /colour=4
+FT                   /gene=group_1545
+FT                   /taxa="5403_contigs"
+FT   variation       392
+FT                   /colour=4
+FT                   /gene=group_565
+FT                   /taxa="3222_contigs"
+FT   variation       355
+FT                   /colour=10
+FT                   /gene=group_590
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       65
+FT                   /colour=4
+FT                   /gene=group_886
+FT                   /taxa="5202_contigs"
+FT   variation       1288
+FT                   /colour=4
+FT                   /gene=group_843
+FT                   /taxa="5202_contigs"
+FT   variation       25
+FT                   /colour=10
+FT                   /gene=msmE
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1167
+FT                   /colour=10
+FT                   /gene=group_830
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1248
+FT                   /colour=4
+FT                   /gene=radD
+FT                   /taxa="5403_contigs"
+FT   variation       200
+FT                   /colour=4
+FT                   /gene=group_728
+FT                   /taxa="3222_contigs"
+FT   variation       1162
+FT                   /colour=4
+FT                   /gene=group_1519
+FT                   /taxa="5403_contigs"
+FT   variation       435
+FT                   /colour=4
+FT                   /gene=group_676
+FT                   /taxa="3222_contigs"
+FT   variation       1079
+FT                   /colour=4
+FT                   /gene=group_1632
+FT                   /taxa="5403_contigs"
+FT   variation       451
+FT                   /colour=4
+FT                   /gene=group_621
+FT                   /taxa="3222_contigs"
+FT   variation       639
+FT                   /colour=4
+FT                   /gene=group_1334
+FT                   /taxa="5403_contigs"
+FT   variation       747
+FT                   /colour=4
+FT                   /gene=gatC_1
+FT                   /taxa="5403_contigs"
+FT   variation       951
+FT                   /colour=4
+FT                   /gene=tagD
+FT                   /taxa="5403_contigs"
+FT   variation       1016
+FT                   /colour=4
+FT                   /gene=group_208
+FT                   /taxa="5403_contigs"
+FT   variation       843
+FT                   /colour=4
+FT                   /gene=group_1463
+FT                   /taxa="5403_contigs"
+FT   variation       234
+FT                   /colour=4
+FT                   /gene=group_1408
+FT                   /taxa="5403_contigs"
+FT   variation       1184
+FT                   /colour=4
+FT                   /gene=immR_2
+FT                   /taxa="5403_contigs"
+FT   variation       1185
+FT                   /colour=4
+FT                   /gene=group_1387
+FT                   /taxa="5403_contigs"
+FT   variation       965
+FT                   /colour=4
+FT                   /gene=group_1341
+FT                   /taxa="5403_contigs"
+FT   variation       213
+FT                   /colour=4
+FT                   /gene=group_460
+FT                   /taxa="5202_contigs"
+FT   variation       1269
+FT                   /colour=4
+FT                   /gene=group_1048
+FT                   /taxa="5202_contigs"
+FT   variation       528
+FT                   /colour=4
+FT                   /gene=group_661
+FT                   /taxa="3222_contigs"
+FT   variation       1011
+FT                   /colour=4
+FT                   /gene=group_1375
+FT                   /taxa="5403_contigs"
+FT   variation       219
+FT                   /colour=4
+FT                   /gene=essB
+FT                   /taxa="5202_contigs"
+FT   variation       23
+FT                   /colour=10
+FT                   /gene=araQ_2
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1000
+FT                   /colour=4
+FT                   /gene=group_1345
+FT                   /taxa="5403_contigs"
+FT   variation       1114
+FT                   /colour=4
+FT                   /gene=group_965
+FT                   /taxa="5202_contigs"
+FT   variation       712
+FT                   /colour=4
+FT                   /gene=yncB_1
+FT                   /taxa="5403_contigs"
+FT   variation       784
+FT                   /colour=4
+FT                   /gene=group_1645
+FT                   /taxa="5403_contigs"
+FT   variation       491
+FT                   /colour=10
+FT                   /gene=group_759
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       659
+FT                   /colour=4
+FT                   /gene=group_1307
+FT                   /taxa="5403_contigs"
+FT   variation       192
+FT                   /colour=10
+FT                   /gene=group_430
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       500
+FT                   /colour=4
+FT                   /gene=ettA_1
+FT                   /taxa="3222_contigs"
+FT   variation       891
+FT                   /colour=4
+FT                   /gene=group_1671
+FT                   /taxa="5403_contigs"
+FT   variation       2
+FT                   /colour=4
+FT                   /gene=group_789
+FT                   /taxa="5202_contigs"
+FT   variation       576
+FT                   /colour=4
+FT                   /gene=group_13
+FT                   /taxa="3222_contigs"
+FT   variation       585
+FT                   /colour=4
+FT                   /gene=group_1099
+FT                   /taxa="5403_contigs"
+FT   variation       224
+FT                   /colour=10
+FT                   /gene=yxlF
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       731
+FT                   /colour=4
+FT                   /gene=group_1453
+FT                   /taxa="5403_contigs"
+FT   variation       204
+FT                   /colour=10
+FT                   /gene=group_451
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       522
+FT                   /colour=4
+FT                   /gene=group_650
+FT                   /taxa="3222_contigs"
+FT   variation       1352
+FT                   /colour=4
+FT                   /gene=group_1356
+FT                   /taxa="5403_contigs"
+FT   variation       879
+FT                   /colour=4
+FT                   /gene=group_1392
+FT                   /taxa="5403_contigs"
+FT   variation       860
+FT                   /colour=4
+FT                   /gene=iolE_2
+FT                   /taxa="5403_contigs"
+FT   variation       643
+FT                   /colour=4
+FT                   /gene=group_1330
+FT                   /taxa="5403_contigs"
+FT   variation       749
+FT                   /colour=4
+FT                   /gene=group_1233
+FT                   /taxa="5403_contigs"
+FT   variation       663
+FT                   /colour=4
+FT                   /gene=group_1311
+FT                   /taxa="5403_contigs"
+FT   variation       1041
+FT                   /colour=4
+FT                   /gene=group_1541
+FT                   /taxa="5403_contigs"
+FT   variation       632
+FT                   /colour=4
+FT                   /gene=group_1125
+FT                   /taxa="5403_contigs"
+FT   variation       84
+FT                   /colour=4
+FT                   /gene=group_903
+FT                   /taxa="5202_contigs"
+FT   variation       653
+FT                   /colour=4
+FT                   /gene=group_1301
+FT                   /taxa="5403_contigs"
+FT   variation       92
+FT                   /colour=4
+FT                   /gene=group_1497
+FT                   /taxa="5403_contigs"
+FT   variation       373
+FT                   /colour=10
+FT                   /gene=group_434
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       802
+FT                   /colour=4
+FT                   /gene=dinF
+FT                   /taxa="5403_contigs"
+FT   variation       631
+FT                   /colour=4
+FT                   /gene=group_507
+FT                   /taxa="5403_contigs"
+FT   variation       589
+FT                   /colour=4
+FT                   /gene=smc_1
+FT                   /taxa="5403_contigs"
+FT   variation       293
+FT                   /colour=4
+FT                   /gene=group_1035
+FT                   /taxa="5202_contigs"
+FT   variation       202
+FT                   /colour=4
+FT                   /gene=group_730
+FT                   /taxa="3222_contigs"
+FT   variation       486
+FT                   /colour=10
+FT                   /gene=adcR
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       698
+FT                   /colour=4
+FT                   /gene=group_1281
+FT                   /taxa="5403_contigs"
+FT   variation       573
+FT                   /colour=10
+FT                   /gene=group_344
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1371
+FT                   /colour=10
+FT                   /gene=cinA_1
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       566
+FT                   /colour=10
+FT                   /gene=group_426
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       943
+FT                   /colour=4
+FT                   /gene=sle1_1
+FT                   /taxa="5403_contigs"
+FT   variation       1075
+FT                   /colour=4
+FT                   /gene=group_508
+FT                   /taxa="5403_contigs"
+FT   variation       648
+FT                   /colour=4
+FT                   /gene=group_1325
+FT                   /taxa="5403_contigs"
+FT   variation       992
+FT                   /colour=4
+FT                   /gene=group_1349
+FT                   /taxa="5403_contigs"
+FT   variation       668
+FT                   /colour=4
+FT                   /gene=prgT_1
+FT                   /taxa="5403_contigs"
+FT   variation       988
+FT                   /colour=4
+FT                   /gene=group_1348
+FT                   /taxa="5403_contigs"
+FT   variation       947
+FT                   /colour=4
+FT                   /gene=group_1249
+FT                   /taxa="5403_contigs"
+FT   variation       1314
+FT                   /colour=4
+FT                   /gene=group_1003
+FT                   /taxa="5202_contigs"
+FT   variation       37
+FT                   /colour=10
+FT                   /gene=iolB
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       755
+FT                   /colour=4
+FT                   /gene=rpiB
+FT                   /taxa="5403_contigs"
+FT   variation       602
+FT                   /colour=4
+FT                   /gene=group_1116
+FT                   /taxa="5403_contigs"
+FT   variation       541
+FT                   /colour=4
+FT                   /gene=group_585
+FT                   /taxa="3222_contigs"
+FT   variation       994
+FT                   /colour=4
+FT                   /gene=group_1391
+FT                   /taxa="5403_contigs"
+FT   variation       1350
+FT                   /colour=4
+FT                   /gene=group_920
+FT                   /taxa="5202_contigs"
+FT   variation       789
+FT                   /colour=4
+FT                   /gene=purU
+FT                   /taxa="5403_contigs"
+FT   variation       484
+FT                   /colour=10
+FT                   /gene=fur
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       11
+FT                   /colour=4
+FT                   /gene=group_1503
+FT                   /taxa="5403_contigs"
+FT   variation       954
+FT                   /colour=4
+FT                   /gene=group_1064
+FT                   /taxa="5403_contigs"
+FT   variation       921
+FT                   /colour=4
+FT                   /gene=dppE_7
+FT                   /taxa="5403_contigs"
+FT   variation       137
+FT                   /colour=10
+FT                   /gene=group_498
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1198
+FT                   /colour=10
+FT                   /gene=group_791
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       154
+FT                   /colour=4
+FT                   /gene=group_1432
+FT                   /taxa="5403_contigs"
+FT   variation       565
+FT                   /colour=4
+FT                   /gene=group_598
+FT                   /taxa="3222_contigs"
+FT   variation       1384
+FT                   /colour=4
+FT                   /gene=group_1017
+FT                   /taxa="5202_contigs"
+FT   variation       256
+FT                   /colour=10
+FT                   /gene=group_332
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       903
+FT                   /colour=4
+FT                   /gene=group_1690
+FT                   /taxa="5403_contigs"
+FT   variation       349
+FT                   /colour=4
+FT                   /gene=yurK_2
+FT                   /taxa="3222_contigs"
+FT   variation       1207
+FT                   /colour=4
+FT                   /gene=group_1350
+FT                   /taxa="5403_contigs"
+FT   variation       434
+FT                   /colour=4
+FT                   /gene=group_675
+FT                   /taxa="3222_contigs"
+FT   variation       686
+FT                   /colour=4
+FT                   /gene=asa1_1
+FT                   /taxa="5403_contigs"
+FT   variation       1369
+FT                   /colour=4
+FT                   /gene=group_912
+FT                   /taxa="5202_contigs"
+FT   variation       887
+FT                   /colour=4
+FT                   /gene=group_1675
+FT                   /taxa="5403_contigs"
+FT   variation       937
+FT                   /colour=4
+FT                   /gene=group_1190
+FT                   /taxa="5403_contigs"
+FT   variation       1291
+FT                   /colour=4
+FT                   /gene=group_840
+FT                   /taxa="5202_contigs"
+FT   variation       1098
+FT                   /colour=4
+FT                   /gene=group_981
+FT                   /taxa="5202_contigs"
+FT   variation       1344
+FT                   /colour=4
+FT                   /gene=gabR
+FT                   /taxa="5202_contigs"
+FT   variation       1200
+FT                   /colour=10
+FT                   /gene=group_793
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       325
+FT                   /colour=10
+FT                   /gene=manR_1
+FT                   /taxa="3222_contigs 5403_contigs"
+FT   variation       1349
+FT                   /colour=4
+FT                   /gene=group_921
+FT                   /taxa="5202_contigs"
+FT   variation       898
+FT                   /colour=4
+FT                   /gene=group_1666
+FT                   /taxa="5403_contigs"
+FT   variation       166
+FT                   /colour=4
+FT                   /gene=group_1577
+FT                   /taxa="5403_contigs"
+FT   variation       257
+FT                   /colour=10
+FT                   /gene=group_1
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       758
+FT                   /colour=4
+FT                   /gene=rpe_3
+FT                   /taxa="5403_contigs"
+FT   variation       1228
+FT                   /colour=4
+FT                   /gene=group_812
+FT                   /taxa="5202_contigs"
+FT   variation       934
+FT                   /colour=4
+FT                   /gene=group_1207
+FT                   /taxa="5403_contigs"
+FT   variation       479
+FT                   /colour=4
+FT                   /gene=group_571
+FT                   /taxa="3222_contigs"
+FT   variation       875
+FT                   /colour=4
+FT                   /gene=group_1393
+FT                   /taxa="5403_contigs"
+FT   variation       306
+FT                   /colour=4
+FT                   /gene=group_995
+FT                   /taxa="5202_contigs"
+FT   variation       467
+FT                   /colour=10
+FT                   /gene=group_408
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1113
+FT                   /colour=4
+FT                   /gene=group_966
+FT                   /taxa="5202_contigs"
+FT   variation       437
+FT                   /colour=4
+FT                   /gene=group_657
+FT                   /taxa="3222_contigs"
+FT   variation       577
+FT                   /colour=4
+FT                   /gene=group_503
+FT                   /taxa="5403_contigs"
+FT   variation       388
+FT                   /colour=10
+FT                   /gene=cas2
+FT                   /taxa="3222_contigs 5202_contigs"
+FT   variation       1091
+FT                   /colour=4
+FT                   /gene=group_1644
+FT                   /taxa="5403_contigs"
+FT   variation       151
+FT                   /colour=10
+FT                   /gene=yncB_2
+FT                   /taxa="5202_contigs 5403_contigs"
+FT   variation       1042
+FT                   /colour=4
+FT                   /gene=group_1540
+FT                   /taxa="5403_contigs"
+FT   variation       741
+FT                   /colour=4
+FT                   /gene=group_1443
+FT                   /taxa="5403_contigs"
+FT   variation       394
+FT                   /colour=4
+FT                   /gene=group_1210
+FT                   /taxa="5403_contigs"
+FT   variation       78
+FT                   /colour=4
+FT                   /gene=group_897
+FT                   /taxa="5202_contigs"
+FT   variation       865
+FT                   /colour=4
+FT                   /gene=rhaB
+FT                   /taxa="5403_contigs"
+FT   variation       1298
+FT                   /colour=4
+FT                   /gene=aadK_2
+FT                   /taxa="5403_contigs"
+FT   variation       125
+FT                   /colour=4
+FT                   /gene=gelE
+FT                   /taxa="5403_contigs"
+FT   variation       614
+FT                   /colour=4
+FT                   /gene=group_1140
+FT                   /taxa="5403_contigs"
+FT   variation       47
+FT                   /colour=4
+FT                   /gene=group_871
+FT                   /taxa="5202_contigs"

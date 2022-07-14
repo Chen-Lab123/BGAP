@@ -1,0 +1,10 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas	Contig12	20827	22323	lsa(A)_1	1-1497/1497	===============	0/0	100.00	98.93	resfinder	AY225127
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas	Contig31	74	184	ant(6)-Ia_5	1-111/909	==.............	0/0	12.21	100.00	resfinder	AB247327
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas	Contig31	596	2035	aac(6')-aph(2'')_1	1-1440/1440	===============	0/0	100.00	100.00	resfinder	M13771
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas	Contig31	2203	3002	ant(6)-Ia_1	110-909/909	.==============	0/0	88.01	100.00	resfinder	AF330699
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas	Contig31	3634	4428	aph(3')-III_1	1-795/795	===============	0/0	100.00	100.00	resfinder	M26832
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas	Contig31	4565	4649	cfr(C)_1	1056-1140/1140	.............==	0/0	7.46	100.00	resfinder	KX686749
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas	Contig31	4909	5417	ant(6)-Ia_2	356-864/864	......=========	0/0	58.91	100.00	resfinder	KF421157
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas	Contig4	159847	161766	tet(M)_10	1-1920/1920	===============	0/0	100.00	100.00	resfinder	EU182585
+/datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas	Contig42	319	1081	erm(B)_18	1-762/762	========/======	1/1	100.00	99.21	resfinder	X66468

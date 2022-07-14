@@ -1,0 +1,3 @@
+perl /datapool/stu/yuejl/genome-analysis-pipeline/bin/script/sequence.pl -contig /datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/3222_contigs.fas -length 1000 /datapool/stu/yuejl/genome-analysis-pipeline/test-1/assembly/3222/contigs.fasta
+perl /datapool/stu/yuejl/genome-analysis-pipeline/bin/script/sequence.pl -contig /datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5202_contigs.fas -length 1000 /datapool/stu/yuejl/genome-analysis-pipeline/test-1/assembly/5202/contigs.fasta
+perl /datapool/stu/yuejl/genome-analysis-pipeline/bin/script/sequence.pl -contig /datapool/stu/yuejl/genome-analysis-pipeline/test-1/final_contig/5403_contigs.fas -length 1000 /datapool/stu/yuejl/genome-analysis-pipeline/test-1/assembly/5403/contigs.fasta

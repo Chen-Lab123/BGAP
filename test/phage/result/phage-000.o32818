@@ -1,0 +1,48 @@
+
+Now investigating 3222_contigs.gbk file 
+
+
+WARNING: Poor genome quality (64 contigs). PhageMiner may not perform well.
+
+Hits for putative phage related genes in the genome: 
+
+
+
+
+
+
+
+Could not identify any cluster for 3222_contigs
+
+Would you like to try again with a new sensitivity? ("Y" or "N")
+
+Now investigating 5202_contigs.gbk file 
+
+Hits for putative phage related genes in the genome: 
+
+538 Putative prophage phiRv2 integrase
+2652 SPBc2 prophage-derived endonuclease YokF
+
+
+
+
+
+
+Could not identify any cluster for 5202_contigs
+
+Would you like to try again with a new sensitivity? ("Y" or "N")
+
+Now investigating 5403_contigs.gbk file 
+
+Hits for putative phage related genes in the genome: 
+
+1845 Putative prophage phiRv2 integrase
+
+
+
+
+
+
+Could not identify any cluster for 5403_contigs
+
+Would you like to try again with a new sensitivity? ("Y" or "N")

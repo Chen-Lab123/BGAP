@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/datapool/software/anaconda3/bin/PhageMiner.py", line 631, in <module>
+    TryClusteringAgain = raw_input("\nWould you like to try again with a new sensitivity? (\"Y\" or \"N\")\n")
+EOFError: EOF when reading a line
+Traceback (most recent call last):
+  File "/datapool/software/anaconda3/bin/PhageMiner.py", line 631, in <module>
+    TryClusteringAgain = raw_input("\nWould you like to try again with a new sensitivity? (\"Y\" or \"N\")\n")
+EOFError: EOF when reading a line
+Traceback (most recent call last):
+  File "/datapool/software/anaconda3/bin/PhageMiner.py", line 631, in <module>
+    TryClusteringAgain = raw_input("\nWould you like to try again with a new sensitivity? (\"Y\" or \"N\")\n")
+EOFError: EOF when reading a line

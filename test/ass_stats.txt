@@ -1,0 +1,33 @@
+# /datapool/stu/yuejl/genome-analysis-pipeline/test-1/assembly/3222/contigs.fasta Sequence information
+  Scaffold stat:
+  	 TotalNum    MinLen    ScfNum       ScfLen       ScfN50       ScfN90       ScfMax   mScfNum      mScfLen
+  	      970      1000        64      2666136       115524        22917       187233       906       194148
+  Contigs stat:
+  	   CtgNum       CtgLen       CtgN50       CtgN90       CtgMax  GC(%)
+  	       64      2666136       115524        22917       187233 37.66
+  Insert Gap stat:
+  	   GapNum       GapLen    MaxGap
+  	        0            0         0
+
+# /datapool/stu/yuejl/genome-analysis-pipeline/test-1/assembly/5202/contigs.fasta Sequence information
+  Scaffold stat:
+  	 TotalNum    MinLen    ScfNum       ScfLen       ScfN50       ScfN90       ScfMax   mScfNum      mScfLen
+  	      230      1000        28      2761335       292777        78732      1190481       202        45497
+  Contigs stat:
+  	   CtgNum       CtgLen       CtgN50       CtgN90       CtgMax  GC(%)
+  	       28      2761335       292777        78732      1190481 37.63
+  Insert Gap stat:
+  	   GapNum       GapLen    MaxGap
+  	        0            0         0
+
+# /datapool/stu/yuejl/genome-analysis-pipeline/test-1/assembly/5403/contigs.fasta Sequence information
+  Scaffold stat:
+  	 TotalNum    MinLen    ScfNum       ScfLen       ScfN50       ScfN90       ScfMax   mScfNum      mScfLen
+  	      241      1000        44      3106160       192589        43604       508729       197        44562
+  Contigs stat:
+  	   CtgNum       CtgLen       CtgN50       CtgN90       CtgMax  GC(%)
+  	       44      3106160       192589        43604       508729 37.15
+  Insert Gap stat:
+  	   GapNum       GapLen    MaxGap
+  	        0            0         0
+

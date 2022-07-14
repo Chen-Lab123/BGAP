@@ -1,0 +1,11 @@
+PASS	Basic Statistics	5403_L4_A004.R2.clean.fastq.gz
+PASS	Per base sequence quality	5403_L4_A004.R2.clean.fastq.gz
+PASS	Per tile sequence quality	5403_L4_A004.R2.clean.fastq.gz
+PASS	Per sequence quality scores	5403_L4_A004.R2.clean.fastq.gz
+PASS	Per base sequence content	5403_L4_A004.R2.clean.fastq.gz
+PASS	Per sequence GC content	5403_L4_A004.R2.clean.fastq.gz
+PASS	Per base N content	5403_L4_A004.R2.clean.fastq.gz
+PASS	Sequence Length Distribution	5403_L4_A004.R2.clean.fastq.gz
+WARN	Sequence Duplication Levels	5403_L4_A004.R2.clean.fastq.gz
+PASS	Overrepresented sequences	5403_L4_A004.R2.clean.fastq.gz
+PASS	Adapter Content	5403_L4_A004.R2.clean.fastq.gz
