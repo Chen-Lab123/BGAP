@@ -124,7 +124,7 @@ sub abricate{
 	my $i=`less $outdir/$db/abricate.sh|wc -l`;
 	chomp($i);
 	my $num=`ls $outdir/$db/result/*.tab|wc -l`;
-        my @tmp=`wc -l /datapool/stu/yuejl/genome-analysis-pipeline/test-1/resfinder_new/result/*.tab|awk '{print $1}'`;
+        my @tmp=`wc -l $outdir/$db/result/*.tab|awk '{print $1}'`;
 	my $num_1=(split /\s+/,$tmp[0])[1];
 	my $num_2=(split /\s+/,$tmp[-2])[1];
 
