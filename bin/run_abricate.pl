@@ -131,7 +131,7 @@ sub abricate{
 	until ($i=$num && $num_1>2 && $num_2>2){
 		sleep 10;
 		my $num=`ls $outdir/$db/result/*.tab|wc -l`;
-		my @tmp=`wc -l /datapool/stu/yuejl/genome-analysis-pipeline/test-1/resfinder_new/result/*.tab|awk '{print $1}'`;
+		my @tmp=`wc -l $outdir/$db/result/*.tab|awk '{print $1}'`;
 		my $tmp_1=(split /\s+/,$tmp[0])[1];
 		my $tmp_2=(split /\s+/,$tmp[-2])[1];
 		if ($i=$num && $num_1>2 && $num_2>2){
