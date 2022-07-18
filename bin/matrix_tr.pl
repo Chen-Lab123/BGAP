@@ -9,7 +9,6 @@ open (IN,$summary)||die;
 my $name=<IN>;
 chomp($name);
 my @line=split /\t/,$name;
-$line[0]=~s/#//g;
 print "$line[0]\t";
 for my $a (2..$#line){
 	print "$line[$a]\t";
@@ -24,20 +23,18 @@ while (<IN>){
 	print "$tag\t";
 	for my $i (2..$#line){
 		my @array=split /;/,$line[$i];
-		for my $n (@array){
-			if ($n ne "." && $n>=$identity_cutoff){
+		if ($array[0] ne "."){
+                        my @sort_array=sort {$a <=> $b} @array;
+                        if ($sort_array[-1] >= $identity_cutoff){
 				print "1\t";
-				last;
-			}
-			if ($n eq "."){
+			}else{
 				print "0\t";
-				last;
 			}
-			if ($n ne "." && $n<80){
-				print "0\t";
-				last;
-			}
-		}
+                }
+                if ($array[0] eq "."){
+                        print "0\t";
+                }
+	
 	}
 	print "\n";
 }
