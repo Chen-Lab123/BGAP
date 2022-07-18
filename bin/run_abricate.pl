@@ -124,6 +124,7 @@ sub abricate{
 	my $i=`less $outdir/$db/abricate.sh|wc -l`;
 	chomp($i);
 	my $num=`ls $outdir/$db/result/*.tab|wc -l`;
+	chomp($num);
         my @tmp=`wc -l $outdir/$db/result/*.tab|awk '{print $1}'`;
 	my $num_1=(split /\s+/,$tmp[0])[1];
 	my $num_2=(split /\s+/,$tmp[-2])[1];
@@ -131,6 +132,7 @@ sub abricate{
 	until ($i=$num && $num_1>2 && $num_2>2){
 		sleep 10;
 		my $num=`ls $outdir/$db/result/*.tab|wc -l`;
+		chomp($num);
 		my @tmp=`wc -l $outdir/$db/result/*.tab|awk '{print $1}'`;
 		my $tmp_1=(split /\s+/,$tmp[0])[1];
 		my $tmp_2=(split /\s+/,$tmp[-2])[1];
